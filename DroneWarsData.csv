@@ -1,0 +1,1002 @@
+﻿Strike ID,Country,Date (MM-DD-YYYY),President,Village/local area,District,Province,"Village/Local Area, District, Province, Country",Lat/Long of Location ,"Modified Location 
+when Applicable","Lat/Long of Modified Location 
+when Applicable ",Most Specific Location,Most Specific Lat/Long,,,Type of attack,Reportedly drone?,US confirmed?,US only source?,"Counter-
+terrorism, force protection or strategic effects?",Reported target group?,Time,Reported target type,Minimum strikes,Maximum strikes,Minimum total people killed,Maximum total people killed,Minimum civilians reported killed,Maximum civilians reported killed,Minimum children reported killed,Maximum children reported killed,Minimum reported injured,Maximum reported injured,Strike link,Timeline URL,Index
+AFG001,Afghanistan ,01-01-2015,Obama,Unknown,Spera,Khost,"Unknown, Spera, Khost, Afghanistan","32.8078448,68.6456967",,,"Spera, Khost, Afghanistan","33.19392, 69.515022",33.19392,69.515022,US strike,0,1,1,FP,-,-,-,1,1,0,0,0,0,0,0,0,0,http://www.thebureauinvestigates.com/2015/02/12/us-drone-war-afghanistan-list-american-air-strikes-2015/#77,http://www.thebureauinvestigates.com/2015/02/12/us-drone-war-afghanistan-list-american-air-strikes-2015/#,77
+AFG002,Afghanistan ,01-03-2015,Obama,Unknown,Gayan,Paktika,"Unknown, Gayan, Paktika, Afghanistan","32.984041,69.430782",,,"Gayan, Paktika, Afghanistan","32.984041,69.430782",32.984041,69.430782,US strike,0,0,0,-,-,Early morning/late evening,Convoy,1,1,18,18,0,0,0,0,0,0,http://www.thebureauinvestigates.com/2015/02/12/us-drone-war-afghanistan-list-american-air-strikes-2015/#3,,3
+AFG003,Afghanistan ,01-03-2015,Obama,Unknown,Spera,Khost,"Unknown, Spera, Khost, Afghanistan","32.8078448,68.6456967",,,"Spera, Khost, Afghanistan","32.8078448,68.6456967",32.8078448,68.6456967,US strike,0,1,0,FP,Haqqani,Early morning,Convoy,1,1,7,7,0,0,0,0,0,0,http://www.thebureauinvestigates.com/2015/02/12/us-drone-war-afghanistan-list-american-air-strikes-2015/#4,,4
+AFG004,Afghanistan ,01-06-2015,Obama,Unknown,Dara I Pech,Kunar,"Unknown, Dara I Pech, Kunar, Afghanistan","34.872898,71.155620",,,"Dara I Pech, Kunar, Afghanistan","34.872898,71.155620",34.872898,71.155620,US strike,0,1,1,-,-,-,-,1,1,0,0,0,0,0,0,0,0,http://www.thebureauinvestigates.com/2015/02/12/us-drone-war-afghanistan-list-american-air-strikes-2015/#120,,120
+AFG005,Afghanistan ,01-07-2015,Obama,Unknown,Unknown,Logar,"Unknown, Unknown, Logar, Afghanistan","34.014551,69.192391",,,"Logar, Afghanistan","34.014551,69.192391",34.014551,69.192391,US strike,1,0,0,-,-,-,-,1,1,3,3,0,0,0,0,0,0,http://www.thebureauinvestigates.com/2015/02/12/us-drone-war-afghanistan-list-american-air-strikes-2015/#5,,5
+AFG006,Afghanistan ,01-08-2015,Obama,Chikanawr,Lal Pura,Nangarhar,"Chikanawr, Lal Pura, Nangarhar, Afghanistan","34.354216,70.954680",,,"Chikanawr, Lal Pura, Nangarhar, Afghanistan","34.354216,70.954680",34.354216,70.954680,US strike,1,0,0,-,Insurgents,Late at night,Compound,1,1,6,6,0,0,0,0,3,3,http://www.thebureauinvestigates.com/2015/02/12/us-drone-war-afghanistan-list-american-air-strikes-2015/#6,,6
+AFG007,Afghanistan ,01-11-2015,Obama,Chikanawr,Lal Pura,Nangarhar,"Chikanawr, Lal Pura, Nangarhar, Afghanistan","34.354216,70.954680",,,"Chikanawr, Lal Pura, Nangarhar, Afghanistan","34.354216,70.954680",34.354216,70.954680,US strike,1,0,0,-,Taliban,Morning,-,1,1,8,8,0,0,0,0,3,3,http://www.thebureauinvestigates.com/2015/02/12/us-drone-war-afghanistan-list-american-air-strikes-2015/#78,,78
+AFG008,Afghanistan ,01-16-2015,Obama,Unknown,Nazyan,Nangarhar,"Unknown, Nazyan, Nangarhar, Afghanistan","34.118171,70.752529",,,"Nazyan, Nangarhar, Afghanistan","34.118171,70.752529",34.118171,70.752529,US strike,1,0,1,-,-,-,-,1,1,3,3,0,0,0,0,0,0,http://www.thebureauinvestigates.com/2015/02/12/us-drone-war-afghanistan-list-american-air-strikes-2015/#7,,7
+AFG009,Afghanistan ,01-17-2015,Obama,Unknown,Lal Pura,Nangarhar,"Unknown, Lal Pura, Nangarhar, Afghanistan","34.354216,70.954680",,,"Lal Pura, Nangarhar, Afghanistan","34.354216,70.954680",34.354216,70.954680,US strike,0,1,1,-,-,-,-,1,1,0,0,0,0,0,0,0,0,http://www.thebureauinvestigates.com/2015/02/12/us-drone-war-afghanistan-list-american-air-strikes-2015/#121,,121
+AFG010,Afghanistan ,01-19-2015,Obama,Unknown,Khugyani,Nangarhar,"Unknown, Khugyani, Nangarhar, Afghanistan","34.229212,70.193208",,,"Khugyani, Nangarhar, Afghanistan","34.229212,70.193208",34.229212,70.193208,US strike,0,1,1,-,-,-,-,1,1,0,0,0,0,0,0,0,0,http://www.thebureauinvestigates.com/2015/02/12/us-drone-war-afghanistan-list-american-air-strikes-2015/#122,,122
+AFG011,Afghanistan ,02-08-2015,Obama,Azankarez,Kajak,Helmand,"Azankarez, Kajak, Helmand, Afghanistan","32.339473,65.143251",,,"Azankarez, Kajak, Helmand, Afghanistan","32.339473,65.143251",32.339473,65.143251,US strike,1,1,0,FP,ISIS,-,-,1,1,6,8,0,0,0,0,0,0,http://www.thebureauinvestigates.com/2015/02/12/us-drone-war-afghanistan-list-american-air-strikes-2015/#1,,1
+AFG012,Afghanistan ,02-10-2015,Obama,Unknown,Khas Kunar,Kunar,"Unknown, Khas Kunar, Kunar, Afghanistan","34.643368,71.026004",,,"Khas Kunar, Kunar, Afghanistan","34.643368,71.026004",34.643368,71.026004,US strike,1,1,0,FP,Taliban - Khorasan Group / ISIS,-,-,1,1,2,2,0,0,0,0,0,0,http://www.thebureauinvestigates.com/2015/02/12/us-drone-war-afghanistan-list-american-air-strikes-2015/#8,,8
+AFG013,Afghanistan ,02-11-2015,Obama,Unknown,Nazyan,Nangarhar,"Unknown, Nazyan, Nangarhar, Afghanistan","34.118171,70.752529",,,"Nazyan, Nangarhar, Afghanistan","34.118171,70.752529",34.118171,70.752529,US strike,0,1,0,FP,TTP,-,Compound,1,1,2,9,0,0,0,0,0,0,http://www.thebureauinvestigates.com/2015/02/12/us-drone-war-afghanistan-list-american-air-strikes-2015/#9,,9
+AFG014,Afghanistan ,02-18-2015,Obama,Fathi Khani,Khogyani,Nangarhar,"Fathi Khani, Khogyani, Nangarhar, Afghanistan","34.229212,70.193208",,,"Fathi Khani, Khogyani, Nangarhar, Afghanistan","34.229212,70.193208",34.229212,70.193208,US strike,1,0,0,-,Taliban,Afternoon,-,1,1,8,8,0,0,0,0,0,0,http://www.thebureauinvestigates.com/2015/02/12/us-drone-war-afghanistan-list-american-air-strikes-2015/#79,,79
+AFG015,Afghanistan ,02-03-2015,Obama,Unknown,Alishir,Khost,"Unknown, Alishir, Khost, Afghanistan","33.394839,70.044359",,,"Alishir, Khost, Afghanistan","33.394839,70.044359",33.394839,70.044359,US strike,1,0,0,-,-,-,-,1,1,1,1,0,1,0,0,0,0,http://www.thebureauinvestigates.com/2015/02/12/us-drone-war-afghanistan-list-american-air-strikes-2015/#80,,80
+AFG016,Afghanistan ,03-10-2015,Obama,Mamond,Achin,Nangarhar,"Mamond, Achin, Nangarhar, Afghanistan","34.215777,71.026004",,,"Mamond, Achin, Nangarhar, Afghanistan","34.215777,71.026004",34.215777,71.026004,US strike,0,1,0,FP,Taliban,-,Corolla vehicle,1,1,6,6,0,0,0,0,0,0,http://www.thebureauinvestigates.com/2015/02/12/us-drone-war-afghanistan-list-american-air-strikes-2015/#81,,81
+AFG017,Afghanistan ,03-11-2015,Obama,Unknown,Sarakani,Kunar,"Unknown, Sarakani, Kunar, Afghanistan","34.801712,71.216142",,,"Sarakani, Kunar, Afghanistan","34.801712,71.216142",34.801712,71.216142,US strike,0,1,1,-,-,-,-,1,1,0,0,0,0,0,0,0,0,http://www.thebureauinvestigates.com/2015/02/12/us-drone-war-afghanistan-list-american-air-strikes-2015/#124,,124
+AFG018,Afghanistan ,03-13-2015,Obama,Unknown,Lal Pura,Nangarhar,"Unknown, Lal Pura, Nangarhar, Afghanistan","34.354216,70.954680",,,"Lal Pura, Nangarhar, Afghanistan","34.354216,70.954680",34.354216,70.954680,US strike,1,1,0,FP,Taliban,-,-,1,1,0,0,0,0,0,0,0,0,http://www.thebureauinvestigates.com/2015/02/12/us-drone-war-afghanistan-list-american-air-strikes-2015/#82,,82
+AFG019,Afghanistan ,03-18-2015,Obama,Unknown,Chinar Khor,Kunar,"Unknown, Chinar Khor, Kunar, Afghanistan","34.846589,71.097316",,,"Chinar Khor, Kunar, Afghanistan","34.846589,71.097316",34.846589,71.097316,US strike,0,1,1,-,-,-,-,1,1,0,0,0,0,0,0,1,1,http://www.thebureauinvestigates.com/2015/02/12/us-drone-war-afghanistan-list-american-air-strikes-2015/#126,,126
+AFG020,Afghanistan ,03-23-2015,Obama,Unknown,Nazyan,Nangarhar,"Unknown, Nazyan, Nangarhar, Afghanistan","34.118171,70.752529",,,"Nazyan, Nangarhar, Afghanistan","34.118171,70.752529",34.118171,70.752529,US strike,1,1,0,FP,"Lashkar e Islam, TTP and Abdullah Azam Brigade",-,Hideout,1,1,9,13,0,0,0,0,0,0,http://www.thebureauinvestigates.com/2015/02/12/us-drone-war-afghanistan-list-american-air-strikes-2015/#10,,10
+AFG021,Afghanistan ,03-24-2015,Obama,Unknown,Unknown,Kunar,"Unknown, Unknown, Kunar, Afghanistan","34.846589,71.097316",,,"Kunar, Afghanistan","34.846589,71.097316",34.846589,71.097316,US strike,1,0,0,-,TTP,-,-,1,1,11,11,0,0,0,0,0,0,http://www.thebureauinvestigates.com/2015/02/12/us-drone-war-afghanistan-list-american-air-strikes-2015/#11,,11
+AFG022,Afghanistan ,03-25-2015,Obama,Unknown,Sia Gird,Parwan,"Unknown, Sia Gird, Parwan, Afghanistan","34.963097,68.810884",,,"Sia Gird, Parwan, Afghanistan","34.963097,68.810884",34.963097,68.810884,US strike,0,1,1,-,-,-,-,1,1,0,0,0,0,0,0,0,0,http://www.thebureauinvestigates.com/2015/02/12/us-drone-war-afghanistan-list-american-air-strikes-2015/#127,,127
+AFG023,Afghanistan ,03-26-2015,Obama,Unknown,Zurmat,Paktia,"Unknown, Zurmat, Paktia, Afghanistan","33.435888,69.031453",,,"Zurmat, Paktia, Afghanistan","33.435888,69.031453",33.435888,69.031453,US strike,0,1,1,-,-,-,-,1,1,0,0,0,0,0,0,1,1,http://www.thebureauinvestigates.com/2015/02/12/us-drone-war-afghanistan-list-american-air-strikes-2015/#128,,128
+AFG024,Afghanistan ,04-12-2015,Obama,Unknown,Dara I Pech,Kunar,"Unknown, Dara I Pech, Kunar, Afghanistan","34.872898,71.155620",,,"Dara I Pech, Kunar, Afghanistan","34.872898,71.155620",34.872898,71.155620,US strike,1,1,0,FP,Taliban,05:30,Hideouts,1,1,3,3,0,0,0,0,0,0,http://www.thebureauinvestigates.com/2015/02/12/us-drone-war-afghanistan-list-american-air-strikes-2015/#13,,13
+AFG025,Afghanistan ,04-28-2015,Obama,Degal,Chapa Darre,Kunar,"Degal, Chapa Darre, Kunar, Afghanistan","34.846589,71.097316",,,"Degal, Chapa Darre, Kunar, Afghanistan","34.846589,71.097316",34.846589,71.097316,US strike,1,1,0,FP,Taliban,-,-,1,1,3,3,0,0,0,0,0,0,http://www.thebureauinvestigates.com/2015/02/12/us-drone-war-afghanistan-list-american-air-strikes-2015/#14,,14
+AFG026,Afghanistan ,05-03-2015,Obama,Unknown,Mohmand Dara,Nangarhar,"Unknown, Mohmand Dara, Nangarhar, Afghanistan","34.215777,71.026004",,,"Mohmand Dara, Nangarhar, Afghanistan","34.215777,71.026004",34.215777,71.026004,US strike,1,1,0,FP,Taliban,17:00,Convoy,1,1,12,12,0,0,0,0,0,0,http://www.thebureauinvestigates.com/2015/02/12/us-drone-war-afghanistan-list-american-air-strikes-2015/#15,,15
+AFG027,Afghanistan ,05-04-2015,Obama,"Dabili, Landi Basawal area",Mohmand Dara,Nangarhar,"Dabili, Landi Basawal area, Mohmand Dara, Nangarhar, Afghanistan","34.215777,71.026004",,,"Dabili, Landi Basawal area, Mohmand Dara, Nangarhar, Afghanistan","34.215777,71.026004",34.215777,71.026004,US strike,1,1,0,FP,Taliban,Night,Hideout,1,1,17,17,0,0,0,0,0,0,http://www.thebureauinvestigates.com/2015/02/12/us-drone-war-afghanistan-list-american-air-strikes-2015/#16,,16
+AFG028,Afghanistan ,05-07-2015,Obama,Unknown,Khas Khar,Kunar,"Unknown, Khas Khar, Kunar, Afghanistan","34.643368,71.026004",,,"Khas Khar, Kunar, Afghanistan","34.643368,71.026004",34.643368,71.026004,US strike,1,0,0,-,Insurgents,-,Vehicle,1,1,6,7,0,1,0,1,0,0,http://www.thebureauinvestigates.com/2015/02/12/us-drone-war-afghanistan-list-american-air-strikes-2015/#17,,17
+AFG029,Afghanistan ,05-07-2015,Obama,Unknown,Goshti,Nangarhar,"Unknown, Goshti, Nangarhar, Afghanistan","34.171831,70.621679",,,"Goshti, Nangarhar, Afghanistan","34.171831,70.621679",34.171831,70.621679,US strike,1,1,0,FP,"""Rebels""",Late,Vehicle,1,1,4,4,0,0,0,0,0,0,http://www.thebureauinvestigates.com/2015/02/12/us-drone-war-afghanistan-list-american-air-strikes-2015/#18,,18
+AFG030,Afghanistan ,05-09-2015,Obama,Machi Megi,Lal Pura,Nangarhar,"Machi Megi, Lal Pura, Nangarhar, Afghanistan","34.354216,70.954680",,,"Machi Megi, Lal Pura, Nangarhar, Afghanistan","34.354216,70.954680",34.354216,70.954680,US strike,1,1,0,FP,Taliban,-,Hideout,1,1,13,13,0,0,0,0,0,0,http://www.thebureauinvestigates.com/2015/02/12/us-drone-war-afghanistan-list-american-air-strikes-2015/#19,,19
+AFG031,Afghanistan ,05-14-2015,Obama,Unknown,Bati Kot,Nangarhar,"Unknown, Bati Kot, Nangarhar, Afghanistan","34.263148,70.788209",,,"Bati Kot, Nangarhar, Afghanistan","34.263148,70.788209",34.263148,70.788209,US strike,1,1,0,Possible CT,Taliban,Night,Vehicle,1,1,4,4,0,0,0,0,1,1,http://www.thebureauinvestigates.com/2015/02/12/us-drone-war-afghanistan-list-american-air-strikes-2015/#20,,20
+AFG032,Afghanistan ,05-15-2015,Obama,"Various: Chahardahi in Bati Kot, Bandar Darah in Dur Baba, Murdai in Achin","Various: Nazyan, Bati Kot, Bandar Darah, Dur Baba, Achin",Nangarhar,"Various: Chahardahi in Bati Kot, Bandar Darah in Dur Baba, Murdai in Achin, Various: Nazyan, Bati Kot, Bandar Darah, Dur Baba, Achin, Nangarhar, Afghanistan","34.263148,70.788209",,,"Various: Chahardahi in Bati Kot, Bandar Darah in Dur Baba, Murdai in Achin, Various: Nazyan, Bati Kot, Bandar Darah, Dur Baba, Achin, Nangarhar, Afghanistan","34.263148,70.788209",34.263148,70.788209,US strike,1,1,0,FP,Taliban,Night,Vehicles and at least one hideout,4,4,5,41,0,0,0,0,0,0,http://www.thebureauinvestigates.com/2015/02/12/us-drone-war-afghanistan-list-american-air-strikes-2015/#21,,21
+AFG033,Afghanistan ,05-21-2015,Obama,Katar village,Watapor,Kunar,"Katar village, Watapor, Kunar, Afghanistan","34.910930,71.127398",,,"Katar village, Watapor, Kunar, Afghanistan","34.910930,71.127398",34.910930,71.127398,US strike,1,1,0,FP,Taliban,Evening,-,1,1,4,5,0,0,0,0,0,0,http://www.thebureauinvestigates.com/2015/02/12/us-drone-war-afghanistan-list-american-air-strikes-2015/#22,,22
+AFG034,Afghanistan ,05-27-2015,Obama,Unknown,Want Waigal,Nuristan,"Unknown, Want Waigal, Nuristan, Afghanistan","35.050080,70.908540",,,"Want Waigal, Nuristan, Afghanistan","35.050080,70.908540",35.050080,70.908540,US strike,1,1,0,FP,Taliban,-,-,1,1,5,5,0,0,0,0,0,0,http://www.thebureauinvestigates.com/2015/02/12/us-drone-war-afghanistan-list-american-air-strikes-2015/#23,,23
+AFG035,Afghanistan ,05-28-2015,Obama,Unknown,Watapor,Kunar,"Unknown, Watapor, Kunar, Afghanistan","34.910930,71.127398",,,"Watapor, Kunar, Afghanistan","34.910930,71.127398",34.910930,71.127398,US strike,1,1,0,FP,Taliban,-,-,1,1,1,1,0,0,0,0,0,0,http://www.thebureauinvestigates.com/2015/02/12/us-drone-war-afghanistan-list-american-air-strikes-2015/#24,,24
+AFG036,Afghanistan ,05-31-2015,Obama,Unknown,Baraki Barak,Logar,"Unknown, Baraki Barak, Logar, Afghanistan","33.969092,68.950978",,,"Baraki Barak, Logar, Afghanistan","33.969092,68.950978",33.969092,68.950978,US strike,0,1,0,-,-,-,-,1,1,2,3,0,3,0,2,0,0,http://www.thebureauinvestigates.com/2015/02/12/us-drone-war-afghanistan-list-american-air-strikes-2015/#130,,130
+AFG037,Afghanistan ,06-03-2015,Obama,Shogam area,Shigal,Kunar,"Shogam area, Shigal, Kunar, Afghanistan","35.118055,71.228333",,,"Shogam area, Shigal, Kunar, Afghanistan","35.118055,71.228333",35.118055,71.228333,US strike,1,1,0,FP,-,Night,Hideout,1,1,3,6,0,0,0,0,0,0,http://www.thebureauinvestigates.com/2015/02/12/us-drone-war-afghanistan-list-american-air-strikes-2015/#25,,25
+AFG038,Afghanistan ,06-04-2015,Obama,Unknown,Achin,Nangarhar,"Unknown, Achin, Nangarhar, Afghanistan","34.08218,70.667034",,,"Achin, Nangarhar, Afghanistan","34.08218,70.667034",34.08218,0.667034,US strike,1,1,0,FP,Taliban,18:30,Hideout,1,1,1,1,0,0,0,0,0,0,http://www.thebureauinvestigates.com/2015/02/12/us-drone-war-afghanistan-list-american-air-strikes-2015/#26,,26
+AFG039,Afghanistan ,06-04-2015,Obama,Unknown,Chapahar,Nangarhar,"Unknown, Chapahar, Nangarhar, Afghanistan","34.328976,70.407486",,,"Chapahar, Nangarhar, Afghanistan","34.328976,70.407486",34.328976,70.407486,US strike,1,1,0,FP,Taliban,Late,Vehicle,1,1,6,6,0,1,0,0,0,0,http://www.thebureauinvestigates.com/2015/02/12/us-drone-war-afghanistan-list-american-air-strikes-2015/#27,,27
+AFG040,Afghanistan ,06-04-2015,Obama,Unknown,Chapahar,Nangarhar,"Unknown, Chapahar, Nangarhar, Afghanistan","34.328976,70.407486",,,"Chapahar, Nangarhar, Afghanistan","34.328976,70.407486",34.328976,70.407486,US strike,1,0,0,-,Taliban,Late,Two vehicles,1,1,11,11,0,0,0,0,0,0,http://www.thebureauinvestigates.com/2015/02/12/us-drone-war-afghanistan-list-american-air-strikes-2015/#28,,28
+AFG041,Afghanistan ,06-05-2015,Obama,Ali Shir,Tere Zayi,Khost,"Ali Shir, Tere Zayi, Khost, Afghanistan","33.388710,70.169394",,,"Ali Shir, Tere Zayi, Khost, Afghanistan","33.388710,70.169394",33.388710,70.169394,US strike,1,1,0,CT,Taliban,-,Two vehicles,1,1,14,14,14,14,0,0,0,0,http://www.thebureauinvestigates.com/2015/02/12/us-drone-war-afghanistan-list-american-air-strikes-2015/#29,,29
+AFG042,Afghanistan ,06-07-2015,Obama,Unknown,Chapa Dara,Kunar,"Unknown, Chapa Dara, Kunar, Afghanistan","34.920175,70.764423",,,"Chapa Dara, Kunar, Afghanistan","34.920175,70.764423",34.920175,70.764423,US strike,1,1,0,FP,Taliban,Evening,Hideout,1,1,1,1,0,0,0,0,0,0,http://www.thebureauinvestigates.com/2015/02/12/us-drone-war-afghanistan-list-american-air-strikes-2015/#30,,30
+AFG043,Afghanistan ,06-08-2015,Obama,Samso,Lal Pura,Nangarhar,"Samso, Lal Pura, Nangarhar, Afghanistan","34.354216,70.954680",,,"Samso, Lal Pura, Nangarhar, Afghanistan","34.354216,70.954680",34.354216,70.954680,US strike,1,1,0,FP,Taliban / ISIS,-,Hideout,1,1,7,7,0,5,0,5,0,0,http://www.thebureauinvestigates.com/2015/02/12/us-drone-war-afghanistan-list-american-air-strikes-2015/#31,,31
+AFG044,Afghanistan ,06-08-2015,Obama,Unknown,Lal Pura,Nangarhar,"Unknown, Lal Pura, Nangarhar, Afghanistan","34.354216,70.954680",,,"Lal Pura, Nangarhar, Afghanistan","34.354216,70.954680",34.354216,70.954680,US strike,1,0,0,-,Insurgents,-,Vehicle,1,1,3,3,0,0,0,0,0,0,http://www.thebureauinvestigates.com/2015/02/12/us-drone-war-afghanistan-list-american-air-strikes-2015/#32,,32
+AFG045,Afghanistan ,06-11-2015,Obama,Maroufkhil,Khushamand,Paktika,"Maroufkhil, Khushamand, Paktika, Afghanistan","32.264538,68.524714",,,"Maroufkhil, Khushamand, Paktika, Afghanistan","32.264538,68.524714",32.264538,68.524714,US strike,1,0,0,-,Arabs making bombs for Taliban,08:00,"Unclear - they were reportedly making bombs so could be hideout but possibly a ""gathering"" as vehicles destroyed.",1,1,30,30,0,0,0,0,0,0,http://www.thebureauinvestigates.com/2015/02/12/us-drone-war-afghanistan-list-american-air-strikes-2015/#33,,33
+AFG046,Afghanistan ,06-11-2015,Obama,Jarkani,Yousufkhil,Paktika,"Jarkani, Yousufkhil, Paktika, Afghanistan","32.264538,68.524714",,,"Jarkani, Yousufkhil, Paktika, Afghanistan","32.264538,68.524714",32.264538,68.524714,US strike,1,0,0,-,Insurgents,-,A motorcylce,1,1,2,2,0,0,0,0,0,0,http://www.thebureauinvestigates.com/2015/02/12/us-drone-war-afghanistan-list-american-air-strikes-2015/#34,,34
+AFG047,Afghanistan ,06-14-2015,Obama,Unknown,Dangam,Kunar,"Unknown, Dangam, Kunar, Afghanistan","35.002193,71.406187",,,"Dangam, Kunar, Afghanistan","35.002193,71.406187",35.002193,71.406187,US strike,1,1,0,FP,Taliban,-,Up to three buildings - house,1,1,7,15,0,5,0,5,0,0,http://www.thebureauinvestigates.com/2015/02/12/us-drone-war-afghanistan-list-american-air-strikes-2015/#35,,35
+AFG048,Afghanistan ,06-15-2015,Obama,Unknown,Chak e Wardak,Wardak,"Unknown, Chak e Wardak, Wardak, Afghanistan","34.031203,68.572411",,,"Chak e Wardak, Wardak, Afghanistan","34.031203,68.572411",34.031203,68.572411,US strike,0,1,1,-,-,-,-,1,1,2,2,2,2,0,0,0,0,http://www.thebureauinvestigates.com/2015/02/12/us-drone-war-afghanistan-list-american-air-strikes-2015/#131,,131
+AFG049,Afghanistan ,06-18-2015,Obama,Unknown,Chazi Abad,Kunar,"Unknown, Chazi Abad, Kunar, Afghanistan","34.6999992,70.7412452",,,"Chazi Abad, Kunar, Afghanistan","34.70000,70.75000",34.70000,70.75000,US strike,0,1,1,-,-,-,-,1,1,0,0,0,0,0,0,0,0,http://www.thebureauinvestigates.com/2015/02/12/us-drone-war-afghanistan-list-american-air-strikes-2015/#132,,132
+AFG050,Afghanistan ,06-19-2015,Obama,Unknown,Mohmand Dara,Nangarhar,"Unknown, Mohmand Dara, Nangarhar, Afghanistan","34.215777,71.026004",,,"Mohmand Dara, Nangarhar, Afghanistan","34.215777,71.026004",34.215777,71.026004,US strike,1,0,0,-,-,10:00,Two vehicles,1,1,8,8,0,0,0,0,0,0,http://www.thebureauinvestigates.com/2015/02/12/us-drone-war-afghanistan-list-american-air-strikes-2015/#36,,36
+AFG051,Afghanistan ,06-19-2015,Obama,Kamar Kandaw,Haska Meena,Nangarhar,"Kamar Kandaw, Haska Meena, Nangarhar, Afghanistan","34.468888,70.889722",,,"Kamar Kandaw, Haska Meena, Nangarhar, Afghanistan","34.468888,70.889722",34.468888,70.889722,US strike,1,0,0,-,-,Afternoon,On foot,1,1,4,7,0,0,0,0,0,0,http://www.thebureauinvestigates.com/2015/02/12/us-drone-war-afghanistan-list-american-air-strikes-2015/#37,,37
+AFG052,Afghanistan ,06-20-2015,Obama,Unknown,Kanish,Nuristan,"Unknown, Kanish, Nuristan, Afghanistan","35.325022,70.907123",,,"Kanish, Nuristan, Afghanistan","35.325022,70.907123",35.325022,70.907123,US strike,1,0,0,-,TTP,Late at night,Hideouts,1,1,4,9,0,0,0,0,0,0,http://www.thebureauinvestigates.com/2015/02/12/us-drone-war-afghanistan-list-american-air-strikes-2015/#39,,39
+AFG053,Afghanistan ,06-21-2015,Obama,Barikaab Dab,Bati Kot,Nangarhar,"Barikaab Dab, Bati Kot, Nangarhar, Afghanistan","34.263148,70.788209",,,"Barikaab Dab, Bati Kot, Nangarhar, Afghanistan","34.263148,70.788209",34.263148,70.788209,US strike,1,1,0,-,-,17:30,-,1,1,6,7,0,0,0,0,0,0,http://www.thebureauinvestigates.com/2015/02/12/us-drone-war-afghanistan-list-american-air-strikes-2015/#38,,38
+AFG054,Afghanistan ,06-26-2015,Obama,Unknown,Unknown,Nuristan,"Unknown, Unknown, Nuristan, Afghanistan","35.325022,70.907123",,,"Nuristan, Afghanistan","35.325022,70.907123",35.325022,70.907123,US strike,0,1,1,FP,-,Night,-,1,1,6,6,0,0,0,0,0,0,http://www.thebureauinvestigates.com/2015/02/12/us-drone-war-afghanistan-list-american-air-strikes-2015/#40,,40
+AFG055,Afghanistan ,06-27-2015,Obama,Unknown,Unknown,Paktika,"Unknown, Unknown, Paktika, Afghanistan","32.264538,68.524714",,,"Paktika, Afghanistan","32.264538,68.524714",32.264538,68.524714,US strike,1,1,0,FP,AQ,Night,-,1,1,1,1,0,0,0,0,0,0,http://www.thebureauinvestigates.com/2015/02/12/us-drone-war-afghanistan-list-american-air-strikes-2015/#41,,41
+AFG056,Afghanistan ,06-27-2015,Obama,Mardish,Want Waigal,Nuristan,"Mardish, Want Waigal, Nuristan, Afghanistan","35.221191,71.049776",,,"Mardish, Want Waigal, Nuristan, Afghanistan","35.221191,71.049776",35.221191,71.049776,US strike,1,0,0,-,Taliban,Night,Hideouts,1,1,5,5,0,0,0,0,3,3,http://www.thebureauinvestigates.com/2015/02/12/us-drone-war-afghanistan-list-american-air-strikes-2015/#42,,42
+AFG057,Afghanistan ,06-30-2015,Obama,Machi Megi,Lal Pura,Nangarhar,"Machi Megi, Lal Pura, Nangarhar, Afghanistan","34.354216,70.954680",,,"Machi Megi, Lal Pura, Nangarhar, Afghanistan","34.354216,70.954680",34.354216,70.954680,US strike,1,0,0,-,Taliban,Night,Hideouts,1,1,4,14,0,0,0,0,12,12,http://www.thebureauinvestigates.com/2015/02/12/us-drone-war-afghanistan-list-american-air-strikes-2015/#43,,43
+AFG058,Afghanistan ,07-04-2015,Obama,Unknown,Ghanikhel,Nangarhar,"Unknown, Ghanikhel, Nangarhar, Afghanistan","34.516667,70.149999",,,"Ghanikhel, Nangarhar, Afghanistan","34.516667,70.149999",34.516667,70.149999,US strike,1,0,0,-,Taliban,-,-,1,1,12,12,0,0,0,0,0,0,http://www.thebureauinvestigates.com/2015/02/12/us-drone-war-afghanistan-list-american-air-strikes-2015/#44,,44
+AFG059,Afghanistan ,07-04-2015,Obama,Unknown,Chappa Dara,Kunar,"Unknown, Chappa Dara, Kunar, Afghanistan","34.920175,70.764423",,,"Chappa Dara, Kunar, Afghanistan","34.920175,70.764423",34.920175,70.764423,US strike,1,0,0,-,TTP,-,-,1,1,1,1,0,0,0,0,0,0,http://www.thebureauinvestigates.com/2015/02/12/us-drone-war-afghanistan-list-american-air-strikes-2015/#45,,45
+AFG060,Afghanistan ,07-04-2015,Obama,Unknown,Dara I Pech,Nangarhar,"Unknown, Dara I Pech, Nangarhar, Afghanistan","34.872898,71.155620",,,"Dara I Pech, Nangarhar, Afghanistan","34.872898,71.155620",34.872898,71.155620,US strike,0,1,1,-,-,-,-,1,1,0,0,0,0,0,0,0,0,http://www.thebureauinvestigates.com/2015/02/12/us-drone-war-afghanistan-list-american-air-strikes-2015/#173,,173
+AFG061,Afghanistan ,07-05-2015,Obama,Unknown,Chaparhar,Nangarhar,"Unknown, Chaparhar, Nangarhar, Afghanistan","34.328976,70.407486",,,"Chaparhar, Nangarhar, Afghanistan","34.328976,70.407486",34.328976,70.407486,US strike,1,0,0,-,Taliban,-,Hideouts,1,1,3,3,0,0,0,0,0,0,http://www.thebureauinvestigates.com/2015/02/12/us-drone-war-afghanistan-list-american-air-strikes-2015/#46,,46
+AFG062,Afghanistan ,07-06-2015,Obama,Unknown,Achin,Nangarhar,"Unknown, Achin, Nangarhar, Afghanistan","34.08218,70.667034",,,"Achin, Nangarhar, Afghanistan","34.08218,70.667034",34.08218,0.667034,US strike,1,1,0,FP,ISIS,Noon,-,1,1,12,12,0,0,0,0,0,0,http://www.thebureauinvestigates.com/2015/02/12/us-drone-war-afghanistan-list-american-air-strikes-2015/#47,,47
+AFG063,Afghanistan ,07-06-2015,Obama,Unknown,Achin,Nangarhar,"Unknown, Achin, Nangarhar, Afghanistan","34.08218,70.667034",,,"Achin, Nangarhar, Afghanistan","34.08218,70.667034",34.08218,0.667034,US strike,1,1,0,FP,ISIS,14:00,-,1,1,13,37,0,0,0,0,0,0,http://www.thebureauinvestigates.com/2015/02/12/us-drone-war-afghanistan-list-american-air-strikes-2015/#48,,48
+AFG064,Afghanistan ,07-07-2015,Obama,Unknown,Achin,Nangarhar,"Unknown, Achin, Nangarhar, Afghanistan","34.08218,70.667034",,,"Achin, Nangarhar, Afghanistan","34.08218,70.667034",34.08218,0.667034,US strike,1,1,0,FP,ISIS,-,-,1,1,11,49,0,0,0,0,0,4,http://www.thebureauinvestigates.com/2015/02/12/us-drone-war-afghanistan-list-american-air-strikes-2015/#49,,49
+AFG065,Afghanistan ,07-07-2015,Obama,Unknown,Achin,Nangarhar,"Unknown, Achin, Nangarhar, Afghanistan","34.08218,70.667034",,,"Achin, Nangarhar, Afghanistan","34.08218,70.667034",34.08218,0.667034,US strike,1,0,0,-,ISIS,-,-,1,1,18,18,0,0,0,0,0,0,http://www.thebureauinvestigates.com/2015/02/12/us-drone-war-afghanistan-list-american-air-strikes-2015/#50,,50
+AFG066,Afghanistan ,07-07-2015,Obama,Unknown,Haska Meena,Nangarhar,"Unknown, Haska Meena, Nangarhar, Afghanistan","34.092630,70.469224",,,"Haska Meena, Nangarhar, Afghanistan","34.092630,70.469224",34.092630,70.469224,US strike,1,0,0,-,ISIS,-,-,1,1,25,25,0,0,0,0,0,0,http://www.thebureauinvestigates.com/2015/02/12/us-drone-war-afghanistan-list-american-air-strikes-2015/#51,,51
+AFG067,Afghanistan ,07-07-2015,Obama,Unknown,Bati Kot,Nangarhar,"Unknown, Bati Kot, Nangarhar, Afghanistan","34.263148,70.788209",,,"Bati Kot, Nangarhar, Afghanistan","34.263148,70.788209",34.263148,70.788209,US strike,1,0,0,-,Taliban / ISIS,-,-,1,1,4,4,0,0,0,0,2,2,http://www.thebureauinvestigates.com/2015/02/12/us-drone-war-afghanistan-list-american-air-strikes-2015/#52,,52
+AFG068,Afghanistan ,07-08-2015,Obama,Tangi,Dih Bala,Nangarhar,"Tangi, Dih Bala, Nangarhar, Afghanistan","34.092630,70.469224",,,"Tangi, Dih Bala, Nangarhar, Afghanistan","34.092630,70.469224",34.092630,70.469224,US strike,1,0,0,-,ISIS,Night,Gathering,1,1,25,52,0,0,0,0,0,0,http://www.thebureauinvestigates.com/2015/02/12/us-drone-war-afghanistan-list-american-air-strikes-2015/#53,,53
+AFG069,Afghanistan ,07-10-2015,Obama,Unknown,Achin,Nangarhar,"Unknown, Achin, Nangarhar, Afghanistan","34.08218,70.667034",,,"Achin, Nangarhar, Afghanistan","34.08218,70.667034",34.08218,0.667034,US strike,1,1,0,Possible CT,ISIS,Night,Gathering,1,1,30,31,0,0,0,0,0,0,http://www.thebureauinvestigates.com/2015/02/12/us-drone-war-afghanistan-list-american-air-strikes-2015/#54,,54
+AFG070,Afghanistan ,07-11-2015,Obama,Unknown,Bermal,Paktika,"Unknown, Bermal, Paktika, Afghanistan","32.746111,69.297777",,,"Bermal, Paktika, Afghanistan","32.746111,69.297777",32.746111,69.297777,US strike,1,1,0,Probable CT,AQ,-,-,1,1,3,3,0,0,0,0,0,0,http://www.thebureauinvestigates.com/2015/02/12/us-drone-war-afghanistan-list-american-air-strikes-2015/#60,,60
+AFG071,Afghanistan ,07-12-2015,Obama,Maidnak and Chehal Gazi,Achin,Nangarhar,"Maidnak and Chehal Gazi, Achin, Nangarhar, Afghanistan","34.08218,70.667034",,,"Maidnak and Chehal Gazi, Achin, Nangarhar, Afghanistan","34.08218,70.667034",34.08218,0.667034,US strike,1,0,0,-,Taliban,-,-,2,2,12,12,0,0,0,0,0,0,http://www.thebureauinvestigates.com/2015/02/12/us-drone-war-afghanistan-list-american-air-strikes-2015/#56,,56
+AFG072,Afghanistan ,07-14-2015,Obama,Unknown,Haska Mina,Nangarhar,"Unknown, Haska Mina, Nangarhar, Afghanistan","34.092630,70.469224",,,"Haska Mina, Nangarhar, Afghanistan","34.092630,70.469224",34.092630,70.469224,US strike,1,0,0,-,Taliban,Night,Gathering,1,1,28,28,0,0,0,0,0,0,http://www.thebureauinvestigates.com/2015/02/12/us-drone-war-afghanistan-list-american-air-strikes-2015/#55,,55
+AFG073,Afghanistan ,07-16-2015,Obama,Unknown,Tor Khail,Wardak,"Unknown, Tor Khail, Wardak, Afghanistan","34.351349,68.238533",,,"Tor Khail, Wardak, Afghanistan","34.351349,68.238533",34.351349,68.238533,US strike,1,0,0,-,Haqqani,Morning,Gathering,1,1,8,16,0,0,0,0,0,0,http://www.thebureauinvestigates.com/2015/02/12/us-drone-war-afghanistan-list-american-air-strikes-2015/#57,,57
+AFG074,Afghanistan ,07-16-2015,Obama,Unknown,Haska Mina,Nangarhar,"Unknown, Haska Mina, Nangarhar, Afghanistan","34.092630,70.469224",,,"Haska Mina, Nangarhar, Afghanistan","34.092630,70.469224",34.092630,70.469224,US strike,1,0,0,-,Taliban,Afternoon,-,1,1,6,6,0,0,0,0,0,0,http://www.thebureauinvestigates.com/2015/02/12/us-drone-war-afghanistan-list-american-air-strikes-2015/#58,,58
+AFG075,Afghanistan ,07-20-2015,Obama,Cheltan,Baraki Barak,Logar,"Cheltan, Baraki Barak, Logar, Afghanistan","33.969092,68.950978",,,"Cheltan, Baraki Barak, Logar, Afghanistan","33.969092,68.950978",33.969092,68.950978,US strike,0,1,0,-,Friendly Fire,07:30,ANA Outpost,1,1,7,10,0,0,0,0,5,6,http://www.thebureauinvestigates.com/2015/02/12/us-drone-war-afghanistan-list-american-air-strikes-2015/#59,,59
+AFG076,Afghanistan ,07-26-2015,Obama,Chaknawr,Lal Pura,Nangarhar,"Chaknawr, Lal Pura, Nangarhar, Afghanistan","34.354216,70.954680",,,"Chaknawr, Lal Pura, Nangarhar, Afghanistan","34.354216,70.954680",34.354216,70.954680,US strike,1,0,0,-,-,Afternoon,Vehicle,1,1,5,6,0,0,0,0,0,0,http://www.thebureauinvestigates.com/2015/02/12/us-drone-war-afghanistan-list-american-air-strikes-2015/#61,,61
+AFG077,Afghanistan ,07-29-2015,Obama,Harun Baba,Haska Mina and Pachiragam,Nangarhar,"Harun Baba, Haska Mina and Pachiragam, Nangarhar, Afghanistan","34.092630,70.469224",,,"Harun Baba, Haska Mina and Pachiragam, Nangarhar, Afghanistan","34.092630,70.469224",34.092630,70.469224,US strike,1,1,0,FP,ISIS,Night,Vehicle,2,2,12,20,0,0,0,0,0,0,http://www.thebureauinvestigates.com/2015/02/12/us-drone-war-afghanistan-list-american-air-strikes-2015/#62,,62
+AFG078,Afghanistan ,08-02-2015,Obama,Cholzi,Baraki Barak,Logar,"Cholzi, Baraki Barak, Logar, Afghanistan","33.969092,68.950978",,,"Cholzi, Baraki Barak, Logar, Afghanistan","33.969092,68.950978",33.969092,68.950978,US strike,1,0,0,-,Taliban,20:00,-,1,1,4,4,0,0,0,0,0,0,http://www.thebureauinvestigates.com/2015/02/12/us-drone-war-afghanistan-list-american-air-strikes-2015/#63,,63
+AFG079,Afghanistan ,08-04-2015,Obama,Unknown,"Sherzad, Haska Mina and Deh Bala",Nangarhar and Paktika,"Unknown, Sherzad, Haska Mina and Deh Bala, Nangarhar and Paktika, Afghanistan","34.092630,70.469224",,,"Sherzad, Haska Mina and Deh Bala, Nangarhar and Paktika, Afghanistan","34.092630,70.469224",34.092630,70.469224,US strike,1,1,0,FP,Taliban,16.00-19.00,Building and convoy,7,7,56,66,0,0,0,0,0,0,http://www.thebureauinvestigates.com/2015/02/12/us-drone-war-afghanistan-list-american-air-strikes-2015/#64,,64
+AFG080,Afghanistan ,08-08-2015,Obama,Gorgori,Haska Mina,Nangarhar,"Gorgori, Haska Mina, Nangarhar, Afghanistan","34.171831,70.621679",,,"Gorgori, Haska Mina, Nangarhar, Afghanistan","34.171831,70.621679",34.171831,70.621679,US strike,1,0,0,-,Taliban,12:00,-,1,1,10,10,0,0,0,0,0,0,http://www.thebureauinvestigates.com/2015/02/12/us-drone-war-afghanistan-list-american-air-strikes-2015/#65,,65
+AFG081,Afghanistan ,08-09-2015,Obama,Unknown,Nazyan,Nangarhar,"Unknown, Nazyan, Nangarhar, Afghanistan","34.118171,70.752529",,,"Nazyan, Nangarhar, Afghanistan","34.118171,70.752529",34.118171,70.752529,US strike,1,0,0,-,ISIS,-,-,1,1,2,6,0,0,0,0,0,0,http://www.thebureauinvestigates.com/2015/02/12/us-drone-war-afghanistan-list-american-air-strikes-2015/#66,,66
+AFG082,Afghanistan ,08-10-2015,Obama,Shonkorok Valley,Shegal,Kunar,"Shonkorok Valley, Shegal, Kunar, Afghanistan","34.846589,71.097316",,,"Shonkorok Valley, Shegal, Kunar, Afghanistan","34.846589,71.097316",34.846589,71.097316,US strike,1,0,0,-,Taliban,-,Hideout,1,1,3,3,0,0,0,0,0,0,http://www.thebureauinvestigates.com/2015/02/12/us-drone-war-afghanistan-list-american-air-strikes-2015/#67,,67
+AFG083,Afghanistan ,08-17-2015,Obama,Unknown,Day Mirdad,Wardak,"Unknown, Day Mirdad, Wardak, Afghanistan","34.216354,68.295173",,,"Day Mirdad, Wardak, Afghanistan","34.216354,68.295173",34.216354,68.295173,US strike,1,1,0,FP,-,Night,-,1,1,4,5,0,0,0,0,0,0,http://www.thebureauinvestigates.com/2015/02/12/us-drone-war-afghanistan-list-american-air-strikes-2015/#68,,68
+AFG084,Afghanistan ,08-17-2015,Obama,Unknown,Chak,Wardak,"Unknown, Chak, Wardak, Afghanistan","34.031203,68.572411",,,"Chak, Wardak, Afghanistan","34.031203,68.572411",34.031203,68.572411,US strike,1,0,0,-,-,Night,-,1,1,2,3,0,0,0,0,0,0,http://www.thebureauinvestigates.com/2015/02/12/us-drone-war-afghanistan-list-american-air-strikes-2015/#69,,69
+AFG085,Afghanistan ,08-23-2015,Obama,Unknown,Musa Qala,Helmand,"Unknown, Musa Qala, Helmand, Afghanistan","32.311872,64.811083",,,"Musa Qala, Helmand, Afghanistan","32.311872,64.811083",32.311872,64.811083,US strike,0,1,0,-,-,-,-,2,3,40,40,0,0,0,0,0,0,http://www.thebureauinvestigates.com/2015/02/12/us-drone-war-afghanistan-list-american-air-strikes-2015/#70,,70
+AFG086,Afghanistan ,08-26-2015,Obama,Kotikhil,Shirzad,Nangarhar,"Kotikhil, Shirzad, Nangarhar, Afghanistan","33.545187,69.357780",,,"Kotikhil, Shirzad, Nangarhar, Afghanistan","33.545187,69.357780",33.545187,69.357780,US strike,1,0,0,-,Taliban,-,-,1,1,4,4,0,0,0,0,0,0,http://www.thebureauinvestigates.com/2015/02/12/us-drone-war-afghanistan-list-american-air-strikes-2015/#72,,72
+AFG087,Afghanistan ,08-27-2015,Obama,Unknown,Musa Qala,Helmand,"Unknown, Musa Qala, Helmand, Afghanistan","32.311872,64.811083",,,"Musa Qala, Helmand, Afghanistan","32.311872,64.811083",32.311872,64.811083,US strike,0,1,0,-,Taliban,-,-,2,2,0,0,0,0,0,0,0,0,http://www.thebureauinvestigates.com/2015/02/12/us-drone-war-afghanistan-list-american-air-strikes-2015/#175,,175
+AFG088,Afghanistan ,08-30-2015,Obama,Unknown,Musa Qala,Helmand,"Unknown, Musa Qala, Helmand, Afghanistan","32.311872,64.811083",,,"Musa Qala, Helmand, Afghanistan","32.311872,64.811083",32.311872,64.811083,US strike,0,1,0,-,Taliban,-,-,13,13,0,0,0,0,0,0,0,0,http://www.thebureauinvestigates.com/2015/02/12/us-drone-war-afghanistan-list-american-air-strikes-2015/#73,,73
+AFG089,Afghanistan ,08-31-2015,Obama,Unknown,Nahr e Saraj,Helmand,"Unknown, Nahr e Saraj, Helmand, Afghanistan","31.658611,64.404444",,,"Nahr e Saraj, Helmand, Afghanistan","31.658611,64.404444",31.658611,64.404444,US strike,0,1,1,-,-,-,-,1,1,2,2,2,2,0,0,0,0,http://www.thebureauinvestigates.com/2015/02/12/us-drone-war-afghanistan-list-american-air-strikes-2015/#133,,133
+AFG090,Afghanistan ,09-01-2015,Obama,Unknown,Musa Qala,Helmand,"Unknown, Musa Qala, Helmand, Afghanistan","32.311872,64.811083",,,"Musa Qala, Helmand, Afghanistan","32.311872,64.811083",32.311872,64.811083,US strike,0,1,0,-,Taliban,-,-,6,6,0,0,0,0,0,0,0,0,http://www.thebureauinvestigates.com/2015/02/12/us-drone-war-afghanistan-list-american-air-strikes-2015/#83,,83
+AFG091,Afghanistan ,09-06-2015,Obama,Unknown,Garamser,Helmand,"Unknown, Garamser, Helmand, Afghanistan","31.132511,64.212898",,,"Garamser, Helmand, Afghanistan","31.132511,64.212898",31.132511,64.212898,US strike,1,1,0,-,Friendly Fire,-,-,1,1,11,31,0,0,0,0,4,4,http://www.thebureauinvestigates.com/2015/02/12/us-drone-war-afghanistan-list-american-air-strikes-2015/#74,,74
+AFG092,Afghanistan ,09-06-2015,Obama,Unknown,Maiwand,Kandahar,"Unknown, Maiwand, Kandahar, Afghanistan","31.499713,65.000853",,,"Maiwand, Kandahar, Afghanistan","31.499713,65.000853",31.499713,65.000853,US strike,0,1,1,FP,-,-,-,1,1,0,0,0,0,0,0,0,0,http://www.thebureauinvestigates.com/2015/02/12/us-drone-war-afghanistan-list-american-air-strikes-2015/#75,,75
+AFG093,Afghanistan ,09-08-2015,Obama,Unknown,Ghazi Abad,Kunar,"Unknown, Ghazi Abad, Kunar, Afghanistan","34.6999992,70.7412452",,,"Ghazi Abad, Kunar, Afghanistan","34.6999992,70.7412452",34.6999992,70.7412452,US strike,1,0,0,-,Taliban,10:00,Hideout,1,1,2,2,0,0,0,0,0,0,http://www.thebureauinvestigates.com/2015/02/12/us-drone-war-afghanistan-list-american-air-strikes-2015/#76,,76
+AFG094,Afghanistan ,09-10-2015,Obama,Unknown,Gomal,Paktika,"Unknown, Gomal, Paktika, Afghanistan","32.434829,69.001648",,,"Gomal, Paktika, Afghanistan","32.434829,69.001648",32.434829,69.001648,US strike,1,1,0,FP,Taliban,-,Two vehicles,1,1,5,15,0,0,0,0,0,0,http://www.thebureauinvestigates.com/2015/02/12/us-drone-war-afghanistan-list-american-air-strikes-2015/#85,,85
+AFG095,Afghanistan ,09-13-2015,Obama,Marsangi,Lal Pura,Nangarhar,"Marsangi, Lal Pura, Nangarhar, Afghanistan","34.354216,70.954680",,,"Marsangi, Lal Pura, Nangarhar, Afghanistan","34.354216,70.954680",34.354216,70.954680,US strike,1,0,0,-,Taliban,-,Police vehicle,1,1,4,5,0,0,0,0,2,2,http://www.thebureauinvestigates.com/2015/02/12/us-drone-war-afghanistan-list-american-air-strikes-2015/#84,,84
+AFG096,Afghanistan ,09-17-2015,Obama,Melawe,Nazyan,Nangarhar,"Melawe, Nazyan, Nangarhar, Afghanistan","34.118171,70.752529",,,"Melawe, Nazyan, Nangarhar, Afghanistan","34.118171,70.752529",34.118171,70.752529,US strike,1,0,0,-,ISIS,Evening,ISIS Camp,1,1,5,5,0,0,0,0,0,0,http://www.thebureauinvestigates.com/2015/02/12/us-drone-war-afghanistan-list-american-air-strikes-2015/#86,,86
+AFG097,Afghanistan ,09-29-2015,Obama,Kunduz airport,Kunduz city,Kunduz,"Kunduz airport, Kunduz city, Kunduz, Afghanistan","36.661335,68.909580",,,"Kunduz airport, Kunduz city, Kunduz, Afghanistan","36.661335,68.909580",36.661335,68.909580,US strike,0,1,0,FP,Taliban,9:00-9:15,Tank,1,1,0,0,0,0,0,0,0,0,http://www.thebureauinvestigates.com/2015/02/12/us-drone-war-afghanistan-list-american-air-strikes-2015/#87,,87
+AFG098,Afghanistan ,09-29-2015,Obama,Kunduz airport,Kunduz city,Kunduz,"Kunduz airport, Kunduz city, Kunduz, Afghanistan","36.661335,68.909580",,,"Kunduz airport, Kunduz city, Kunduz, Afghanistan","36.661335,68.909580",36.661335,68.909580,US strike,0,1,0,FP,Taliban,23:30,-,1,1,0,0,0,0,0,0,0,0,http://www.thebureauinvestigates.com/2015/02/12/us-drone-war-afghanistan-list-american-air-strikes-2015/#88,,88
+AFG099,Afghanistan ,09-30-2015,Obama,Kunduz airport,Kunduz city,Kunduz,"Kunduz airport, Kunduz city, Kunduz, Afghanistan","36.661335,68.909580",,,"Kunduz airport, Kunduz city, Kunduz, Afghanistan","36.661335,68.909580",36.661335,68.909580,US strike,0,1,0,FP,Taliban,01:00,-,1,1,0,24,0,0,0,0,0,0,http://www.thebureauinvestigates.com/2015/02/12/us-drone-war-afghanistan-list-american-air-strikes-2015/#89,,89
+AFG100,Afghanistan ,09-30-2015,Obama,Kunduz airport,Kunduz city,Kunduz,"Kunduz airport, Kunduz city, Kunduz, Afghanistan","36.661335,68.909580",,,"Kunduz airport, Kunduz city, Kunduz, Afghanistan","36.661335,68.909580",36.661335,68.909580,US strike,0,1,0,FP,Taliban,17:00,-,1,1,0,0,0,0,0,0,0,0,http://www.thebureauinvestigates.com/2015/02/12/us-drone-war-afghanistan-list-american-air-strikes-2015/#90,,90
+AFG101,Afghanistan ,09-30-2015,Obama,Kunduz airport,Kunduz city,Kunduz,"Kunduz airport, Kunduz city, Kunduz, Afghanistan","36.661335,68.909580",,,"Kunduz airport, Kunduz city, Kunduz, Afghanistan","36.661335,68.909580",36.661335,68.909580,US strike,0,1,0,FP,Taliban,17:00,-,1,1,0,0,0,0,0,0,0,0,http://www.thebureauinvestigates.com/2015/02/12/us-drone-war-afghanistan-list-american-air-strikes-2015/#91,,91
+AFG102,Afghanistan ,09-30-2015,Obama,Kunduz city,Kunduz city,Kunduz,"Kunduz city, Kunduz city, Kunduz, Afghanistan","36.728590,68.868066",,,"Kunduz city, Kunduz city, Kunduz, Afghanistan","36.728590,68.868066",36.728590,68.868066,US strike,0,1,0,FP,Taliban,Night,-,1,1,3,3,0,0,0,0,0,0,http://www.thebureauinvestigates.com/2015/02/12/us-drone-war-afghanistan-list-american-air-strikes-2015/#92,,92
+AFG103,Afghanistan ,10-02-2015,Obama,Kunduz city,Kunduz city,Kunduz,"Kunduz city, Kunduz city, Kunduz, Afghanistan","36.728590,68.868066",,,"Kunduz city, Kunduz city, Kunduz, Afghanistan","36.728590,68.868066",36.728590,68.868066,US strike,0,1,0,-,-,-,Warehouse,1,1,0,0,0,0,0,0,0,0,http://www.thebureauinvestigates.com/2015/02/12/us-drone-war-afghanistan-list-american-air-strikes-2015/#93,,93
+AFG104,Afghanistan ,10-02-2015,Obama,Kunduz city,Kunduz city,Kunduz,"Kunduz city, Kunduz city, Kunduz, Afghanistan","36.728590,68.868066",,,"Kunduz city, Kunduz city, Kunduz, Afghanistan","36.728590,68.868066",36.728590,68.868066,US strike,0,1,0,-,-,-,Mansion and one other house destroyed. Other houses severely damaged.,1,1,0,0,0,0,0,0,0,0,http://www.thebureauinvestigates.com/2015/02/12/us-drone-war-afghanistan-list-american-air-strikes-2015/#94,,94
+AFG105,Afghanistan ,10-03-2015,Obama,Kunduz city,Kunduz city,Kunduz,"Kunduz city, Kunduz city, Kunduz, Afghanistan","36.728590,68.868066",,,"Kunduz city, Kunduz city, Kunduz, Afghanistan","36.728590,68.868066",36.728590,68.868066,US strike,0,1,0,FP,Taliban,02:15,MSF Hospital,1,1,42,42,42,42,3,3,27,27,http://www.thebureauinvestigates.com/2015/02/12/us-drone-war-afghanistan-list-american-air-strikes-2015/#95,,95
+AFG106,Afghanistan ,10-05-2015,Obama,Kunduz city,Kunduz city,Kunduz,"Kunduz city, Kunduz city, Kunduz, Afghanistan","36.728590,68.868066",,,"Kunduz city, Kunduz city, Kunduz, Afghanistan","36.728590,68.868066",36.728590,68.868066,US strike,0,1,1,-,-,-,One Humvee,5,5,0,0,0,0,0,0,0,0,http://www.thebureauinvestigates.com/2015/02/12/us-drone-war-afghanistan-list-american-air-strikes-2015/#96,,96
+AFG107,Afghanistan ,10-11-2015,Obama,Unknown,Shurabak,Kandahar,"Unknown, Shurabak, Kandahar, Afghanistan","30.45,65.816666",,,"Shurabak, Kandahar, Afghanistan","30.45,65.816666",30.45,16666,US strike,0,1,0,CT,AQ,Over several days,"AQIS camps, one 30 square miles the other one square mile.",63,63,100,200,0,0,0,0,50,50,http://www.thebureauinvestigates.com/2015/02/12/us-drone-war-afghanistan-list-american-air-strikes-2015/#97,,97
+AFG108,Afghanistan ,10-13-2015,Obama,Unknown,Unknown,Nangarhar,"Unknown, Unknown, Nangarhar, Afghanistan","34.171831,70.621679",,,"Nangarhar, Afghanistan","34.171831,70.621679",34.171831,70.621679,US strike,0,0,0,-,ISIS,-,Vehicle,1,1,6,6,0,0,0,0,0,0,http://www.thebureauinvestigates.com/2015/02/12/us-drone-war-afghanistan-list-american-air-strikes-2015/#98,,98
+AFG109,Afghanistan ,10-19-2015,Obama,Unknown,Kharwar,Logar,"Unknown, Kharwar, Logar, Afghanistan","34.014551,69.192391",,,"Kharwar, Logar, Afghanistan","34.014551,69.192391",34.014551,69.192391,US strike,0,0,0,-,Taliban,Night,Four vehicles,1,1,0,20,0,0,0,0,0,0,http://www.thebureauinvestigates.com/2015/02/12/us-drone-war-afghanistan-list-american-air-strikes-2015/#99,,99
+AFG110,Afghanistan ,10-23-2015,Obama,Unknown,Nazyan,Nangarhar,"Unknown, Nazyan, Nangarhar, Afghanistan","34.118171,70.752529",,,"Nazyan, Nangarhar, Afghanistan","34.118171,70.752529",34.118171,70.752529,US strike,1,0,0,-,ISIS,Morning,House,1,1,6,6,0,0,0,0,3,3,http://www.thebureauinvestigates.com/2015/02/12/us-drone-war-afghanistan-list-american-air-strikes-2015/#100,,100
+AFG111,Afghanistan ,10-23-2015,Obama,Mamand or Bandar,Achin,Nangarhar,"Mamand or Bandar, Achin, Nangarhar, Afghanistan","34.215777,71.026004","Achin, Nangarhar, Afghanistan","34.08218,70.667034","Achin, Nangarhar, Afghanistan","34.08218,70.667034",34.08218,0.667034,US strike,0,0,0,-,ISIS,11:00,House,1,1,8,10,0,0,0,0,0,0,http://www.thebureauinvestigates.com/2015/02/12/us-drone-war-afghanistan-list-american-air-strikes-2015/#101,,101
+AFG112,Afghanistan ,10-23-2015,Obama,Bandar,Achin,Nangarhar,"Bandar, Achin, Nangarhar, Afghanistan","34.08218,70.667034",,,"Bandar, Achin, Nangarhar, Afghanistan","34.08218,70.667034",34.08218,0.667034,US strike,0,0,0,-,-,Afternoon,Checkpost,1,1,3,3,0,0,0,0,0,0,http://www.thebureauinvestigates.com/2015/02/12/us-drone-war-afghanistan-list-american-air-strikes-2015/#102,,102
+AFG113,Afghanistan ,10-23-2015,Obama,Abdul Khel,Achin,Nangarhar,"Abdul Khel, Achin, Nangarhar, Afghanistan","34.053888,70.696111",,,"Abdul Khel, Achin, Nangarhar, Afghanistan","34.053888,70.696111",34.053888,70.696111,US strike,0,0,0,-,-,Afternoon,Checkpost,1,1,10,10,0,0,0,0,0,0,http://www.thebureauinvestigates.com/2015/02/12/us-drone-war-afghanistan-list-american-air-strikes-2015/#103,,103
+AFG114,Afghanistan ,10-27-2015,Obama,Syah Cho,Achin,Nangarhar,"Syah Cho, Achin, Nangarhar, Afghanistan","34.08218,70.667034",,,"Syah Cho, Achin, Nangarhar, Afghanistan","34.08218,70.667034",34.08218,0.667034,US strike,0,0,0,-,Taliban,-,Vehicle,1,1,11,12,0,1,0,0,0,0,http://www.thebureauinvestigates.com/2015/02/12/us-drone-war-afghanistan-list-american-air-strikes-2015/#104,,104
+AFG115,Afghanistan ,10-29-2015,Obama,Unknown,Nazyan,Nangarhar,"Unknown, Nazyan, Nangarhar, Afghanistan","34.118171,70.752529",,,"Nazyan, Nangarhar, Afghanistan","34.118171,70.752529",34.118171,70.752529,US strike,1,0,0,-,ISIS,-,Compound,1,1,3,4,0,0,0,0,0,0,http://www.thebureauinvestigates.com/2015/02/12/us-drone-war-afghanistan-list-american-air-strikes-2015/#105,,105
+AFG116,Afghanistan ,10-29-2015,Obama,Unknown,Ghazi Abad,Kunar,"Unknown, Ghazi Abad, Kunar, Afghanistan","34.6999992,70.7412452",,,"Ghazi Abad, Kunar, Afghanistan","34.6999992,70.7412452",34.6999992,70.7412452,US strike,1,0,0,-,AQ,Evening,-,1,1,3,3,0,0,0,0,0,0,http://www.thebureauinvestigates.com/2015/02/12/us-drone-war-afghanistan-list-american-air-strikes-2015/#106,,106
+AFG117,Afghanistan ,10-29-2015,Obama,Unknown,Lal Pura,Kunar,"Unknown, Lal Pura, Kunar, Afghanistan","34.354216,70.954680",,,"Lal Pura, Kunar, Afghanistan","34.354216,70.954680",34.354216,70.954680,US strike,1,0,0,-,TTP,-,Hideout,1,1,4,4,0,0,0,0,2,2,http://www.thebureauinvestigates.com/2015/02/12/us-drone-war-afghanistan-list-american-air-strikes-2015/#107,,107
+AFG118,Afghanistan ,10-31-2015,Obama,"Choni Sar area, Shultan valley",Shigal,Kunar,"Choni Sar area, Shultan valley, Shigal, Kunar, Afghanistan","35.118055,71.228333",,,"Choni Sar area, Shultan valley, Shigal, Kunar, Afghanistan","35.118055,71.228333",35.118055,71.228333,US strike,1,0,0,-,TTP,Night,-,1,1,2,2,0,0,0,0,0,0,http://www.thebureauinvestigates.com/2015/02/12/us-drone-war-afghanistan-list-american-air-strikes-2015/#108,,108
+AFG119,Afghanistan ,11-04-2015,Obama,Unknown,Achin,Nangarhar,"Unknown, Achin, Nangarhar, Afghanistan","34.08218,70.667034",,,"Achin, Nangarhar, Afghanistan","34.08218,70.667034",34.08218,0.667034,US air and Afghan ground operation,0,0,0,-,ISIS,Afternoon,-,1,1,0,29,0,0,0,0,0,0,http://www.thebureauinvestigates.com/2015/02/12/us-drone-war-afghanistan-list-american-air-strikes-2015/#109,,109
+AFG120,Afghanistan ,11-08-2015,Obama,Gulai,Ghanikhil,Nangarhar,"Gulai, Ghanikhil, Nangarhar, Afghanistan","34.171831,70.621679",,,"Gulai, Ghanikhil, Nangarhar, Afghanistan","34.171831,70.621679",34.171831,70.621679,US strike,1,0,0,-,Taliban,Afternoon,Hideout,1,1,3,3,0,0,0,0,1,1,http://www.thebureauinvestigates.com/2015/02/12/us-drone-war-afghanistan-list-american-air-strikes-2015/#110,,110
+AFG121,Afghanistan ,11-14-2015,Obama,Landi Kambo,Khogyani,Nangarhar,"Landi Kambo, Khogyani, Nangarhar, Afghanistan","34.229212,70.193208",,,"Landi Kambo, Khogyani, Nangarhar, Afghanistan","34.229212,70.193208",34.229212,70.193208,US strike,1,0,0,-,Taliban,-,Vehicle,1,1,12,13,0,0,0,0,0,0,http://www.thebureauinvestigates.com/2015/02/12/us-drone-war-afghanistan-list-american-air-strikes-2015/#111,,111
+AFG122,Afghanistan ,11-17-2015,Obama,Unknown,Behsood,Nangarhar,"Unknown, Behsood, Nangarhar, Afghanistan","34.453813,70.484843",,,"Behsood, Nangarhar, Afghanistan","34.453813,70.484843",34.453813,70.484843,US strike,1,0,0,-,Taliban,-,-,1,1,8,8,0,0,0,0,0,0,http://www.thebureauinvestigates.com/2015/02/12/us-drone-war-afghanistan-list-american-air-strikes-2015/#112,,112
+AFG123,Afghanistan ,11-18-2015,Obama,Unknown,Babrak Thana,Khost,"Unknown, Babrak Thana, Khost, Afghanistan","33.333847,69.937167",,,"Babrak Thana, Khost, Afghanistan","33.333847,69.937167",33.333847,69.937167,US strike,1,0,0,-,-,-,Training camp,1,1,21,50,0,0,0,0,0,0,http://www.thebureauinvestigates.com/2015/02/12/us-drone-war-afghanistan-list-american-air-strikes-2015/#113,,113
+AFG124,Afghanistan ,11-24-2015,Obama,Dabila,Mohmand Dara,Nangarhar,"Dabila, Mohmand Dara, Nangarhar, Afghanistan","34.215777,71.026004",,,"Dabila, Mohmand Dara, Nangarhar, Afghanistan","34.215777,71.026004",34.215777,71.026004,US strike,1,0,0,-,Taliban,17:00,-,1,1,2,2,0,0,0,0,0,0,http://www.thebureauinvestigates.com/2015/02/12/us-drone-war-afghanistan-list-american-air-strikes-2015/#114,,114
+AFG125,Afghanistan ,11-24-2015,Obama,Unknown,Behsood,Nangarhar,"Unknown, Behsood, Nangarhar, Afghanistan","34.453813,70.484843",,,"Behsood, Nangarhar, Afghanistan","34.453813,70.484843",34.453813,70.484843,US strike,1,0,0,-,Taliban,Night,Vehicles,1,1,8,8,0,0,0,0,0,0,http://www.thebureauinvestigates.com/2015/02/12/us-drone-war-afghanistan-list-american-air-strikes-2015/#115,,115
+AFG126,Afghanistan ,11-25-2015,Obama,"Gagi Mountain, Ali Shir",Tere Zayi,Khost,"Gagi Mountain, Ali Shir, Tere Zayi, Khost, Afghanistan","33.388710,70.169394",,,"Gagi Mountain, Ali Shir, Tere Zayi, Khost, Afghanistan","33.388710,70.169394",33.388710,70.169394,US strike,1,0,0,-,TTP,Night,Hideout,2,2,10,16,0,0,0,0,20,20,http://www.thebureauinvestigates.com/2015/02/12/us-drone-war-afghanistan-list-american-air-strikes-2015/#116,,116
+AFG127,Afghanistan ,12-03-2015,Obama,Nakora,Chapa Dara,Kunar,"Nakora, Chapa Dara, Kunar, Afghanistan","34.893888,70.774166",,,"Nakora, Chapa Dara, Kunar, Afghanistan","34.893888,70.774166",34.893888,70.774166,US strike,1,0,0,-,TTP,Night,-,1,1,3,3,0,0,0,0,0,0,http://www.thebureauinvestigates.com/2015/02/12/us-drone-war-afghanistan-list-american-air-strikes-2015/#117,,117
+AFG128,Afghanistan ,12-08-2015,Obama,Ador,Khogyani,Nangarhar,"Ador, Khogyani, Nangarhar, Afghanistan","34.266667,70.266666",,,"Ador, Khogyani, Nangarhar, Afghanistan","34.266667,70.266666",34.266667,70.266666,US strike,1,0,0,-,Taliban,-,-,1,1,11,11,0,0,0,0,0,0,http://www.thebureauinvestigates.com/2015/02/12/us-drone-war-afghanistan-list-american-air-strikes-2015/#118,,118
+AFG129,Afghanistan ,12-13-2015,Obama,Unknown,"Marja, Sangin and Babaji",Helmand,"Unknown, Marja, Sangin and Babaji, Helmand, Afghanistan","32.071099,64.852586",,,"Marja, Sangin and Babaji, Helmand, Afghanistan","32.071099,64.852586",32.071099,64.852586,US strike with US and Afghan ground operation,0,0,0,-,Taliban,-,-,3,3,0,0,0,0,0,0,0,0,http://www.thebureauinvestigates.com/2015/02/12/us-drone-war-afghanistan-list-american-air-strikes-2015/#119,,119
+AFG130,Afghanistan ,12-15-2015,Obama,Sher Khan village,Deh Yak,Ghazni,"Sher Khan village, Deh Yak, Ghazni, Afghanistan","33.468564,68.763191",,,"Sher Khan village, Deh Yak, Ghazni, Afghanistan","33.468564,68.763191",33.468564,68.763191,US air and Afghan ground operation,0,0,0,-,Taliban,-,-,1,1,9,9,0,0,0,0,0,0,http://www.thebureauinvestigates.com/2015/02/12/us-drone-war-afghanistan-list-american-air-strikes-2015/#134,,134
+AFG131,Afghanistan ,12-19-2015,Obama,Unknown,Bati Kot,Nangarhar,"Unknown, Bati Kot, Nangarhar, Afghanistan","34.263148,70.788209",,,"Bati Kot, Nangarhar, Afghanistan","34.263148,70.788209",34.263148,70.788209,US air and ground operations,1,1,0,FP,Taliban,-,Hideout,1,1,3,3,0,0,0,0,2,2,http://www.thebureauinvestigates.com/2015/02/12/us-drone-war-afghanistan-list-american-air-strikes-2015/#135,,135
+AFG132,Afghanistan ,12-22-2015,Obama,28th canal area,Ghani Khel,Nangarhar,"28th canal area, Ghani Khel, Nangarhar, Afghanistan","34.516667,70.149999",,,"28th canal area, Ghani Khel, Nangarhar, Afghanistan","34.516667,70.149999",34.516667,70.149999,US air and ground operations,1,0,0,-,Taliban,-,-,1,1,3,3,0,0,0,0,0,0,http://www.thebureauinvestigates.com/2015/02/12/us-drone-war-afghanistan-list-american-air-strikes-2015/#136,,136
+AFG133,Afghanistan ,12-23-2015,Obama,Sangin,Sangin,Helmand,"Sangin, Sangin, Helmand, Afghanistan","32.071099,64.852586",,,"Sangin, Sangin, Helmand, Afghanistan","32.071099,64.852586",32.071099,64.852586,US strike,1,1,1,FP,Taliban,Night,-,2,2,0,0,0,0,0,0,0,0,http://www.thebureauinvestigates.com/2015/02/12/us-drone-war-afghanistan-list-american-air-strikes-2015/#137,,137
+AFG134,Afghanistan ,12-23-2015,Obama,Atewishtama Wyala,Ghanikhel,Nangarhar,"Atewishtama Wyala, Ghanikhel, Nangarhar, Afghanistan","34.171831,70.621679",,,"Atewishtama Wyala, Ghanikhel, Nangarhar, Afghanistan","34.171831,70.621679",34.171831,70.621679,US strike,1,0,0,-,Taliban,Afternoon,-,1,1,3,3,0,0,0,0,0,0,http://www.thebureauinvestigates.com/2015/02/12/us-drone-war-afghanistan-list-american-air-strikes-2015/#138,,138
+AFG135,Afghanistan ,12-29-2015,Obama,Masboud valley,Alishang,Laghman,"Masboud valley, Alishang, Laghman, Afghanistan","34.7,70.149999",,,"Masboud valley, Alishang, Laghman, Afghanistan","34.7,70.149999",34.7,9999,US strike,1,0,0,-,Taliban,Afternoon,-,1,1,2,2,0,0,0,0,0,0,http://www.thebureauinvestigates.com/2015/02/12/us-drone-war-afghanistan-list-american-air-strikes-2015/#139,,139
+AFG136,Afghanistan ,01-02-2016,Obama,Shaltan Darra,Shegal,Kunar,"Shaltan Darra, Shegal, Kunar, Afghanistan","34.846589,71.097316",,,"Shaltan Darra, Shegal, Kunar, Afghanistan","34.846589,71.097316",34.846589,71.097316,US strike,1,0,0,-,ISIS,-,-,1,1,5,5,0,0,0,0,2,2,https://www.thebureauinvestigates.com/2016/01/07/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2016/#140,https://www.thebureauinvestigates.com/2016/01/07/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2016/#,140
+AFG137,Afghanistan ,01-06-2016,Obama,Unknown,Majah,Helmand,"Unknown, Majah, Helmand, Afghanistan","31.517771,64.114227",,,"Majah, Helmand, Afghanistan","31.517771,64.114227",31.517771,64.114227,US strike,0,1,1,-,-,-,-,12,12,0,0,0,0,0,0,0,0,https://www.thebureauinvestigates.com/2016/01/07/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2016/#141,,141
+AFG138,Afghanistan ,01-08-2016,Obama,"Maktab village, Pekha",Achin,Nangarhar,"Maktab village, Pekha, Achin, Nangarhar, Afghanistan","34.08218,70.667034",,,"Maktab village, Pekha, Achin, Nangarhar, Afghanistan","34.08218,70.667034",34.08218,0.667034,US strike,1,1,0,CT,ISIS,Afternoon (after Friday prayers),Mass public execution,1,1,17,20,0,0,0,0,2,2,https://www.thebureauinvestigates.com/2016/01/07/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2016/#142,,142
+AFG139,Afghanistan ,01-08-2016,Obama,Unknown,Kharkhez,Kandahar,"Unknown, Kharkhez, Kandahar, Afghanistan","31.788010,65.570785",,,"Kharkhez, Kandahar, Afghanistan","31.788010,65.570785",31.788010,65.570785,US strike,0,1,1,FP,-,-,-,1,1,0,0,0,0,0,0,0,0,https://www.thebureauinvestigates.com/2016/01/07/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2016/#143,,143
+AFG140,Afghanistan ,01-08-2016,Obama,Unknown,Bermal,Paktika,"Unknown, Bermal, Paktika, Afghanistan","32.746111,69.297777",,,"Bermal, Paktika, Afghanistan","32.746111,69.297777",32.746111,69.297777,US strike,0,1,1,FP,-,-,-,1,1,0,0,0,0,0,0,0,0,https://www.thebureauinvestigates.com/2016/01/07/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2016/#144,,144
+AFG141,Afghanistan ,01-09-2016,Obama,Unknown,Achin,Nangarhar,"Unknown, Achin, Nangarhar, Afghanistan","34.08218,70.667034",,,"Achin, Nangarhar, Afghanistan","34.08218,70.667034",34.08218,0.667034,US strike,1,1,0,FP,ISIS,-,Hideouts,1,1,20,20,0,0,0,0,2,2,https://www.thebureauinvestigates.com/2016/01/07/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2016/#145,,145
+AFG142,Afghanistan ,01-09-2016,Obama,Unknown,Shegal,Kunar,"Unknown, Shegal, Kunar, Afghanistan","35.118055,71.228333",,,"Shegal, Kunar, Afghanistan","35.118055,71.228333",35.118055,71.228333,US strike,1,1,0,FP,TTP,08:00,-,1,1,10,10,1,1,1,1,0,0,https://www.thebureauinvestigates.com/2016/01/07/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2016/#146,,146
+AFG143,Afghanistan ,01-10-2016,Obama,Unknown,Bermal,Paktika,"Unknown, Bermal, Paktika, Afghanistan","32.746111,69.297777",,,"Bermal, Paktika, Afghanistan","32.746111,69.297777",32.746111,69.297777,US strike,0,1,1,FP,-,-,-,1,1,0,0,0,0,0,0,0,0,https://www.thebureauinvestigates.com/2016/01/07/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2016/#147,,147
+AFG144,Afghanistan ,01-10-2016,Obama,Unknown,Bermal,Paktika,"Unknown, Bermal, Paktika, Afghanistan","32.746111,69.297777",,,"Bermal, Paktika, Afghanistan","32.746111,69.297777",32.746111,69.297777,US strike,0,1,1,FP,-,-,-,1,1,0,0,0,0,0,0,0,0,https://www.thebureauinvestigates.com/2016/01/07/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2016/#148,,148
+AFG145,Afghanistan ,01-14-2016,Obama,"Abdulkhelo area, Bandar locality",Achin,Nangarhar,"Abdulkhelo area, Bandar locality, Achin, Nangarhar, Afghanistan","34.08218,70.667034",,,"Abdulkhelo area, Bandar locality, Achin, Nangarhar, Afghanistan","34.08218,70.667034",34.08218,0.667034,US strike,1,1,0,FP,ISIS,16:00,House,1,1,12,12,0,0,0,0,0,0,https://www.thebureauinvestigates.com/2016/01/07/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2016/#149,,149
+AFG146,Afghanistan ,01-16-2016,Obama,Unkown,Deh Bala,Nangarhar,"Unkown, Deh Bala, Nangarhar, Afghanistan","34.092630,70.469224",,,"Unkown, Deh Bala, Nangarhar, Afghanistan","34.092630,70.469224",34.092630,70.469224,US strike,0,0,0,-,-,Afternoon,-,8,8,17,17,0,0,0,0,0,0,https://www.thebureauinvestigates.com/2016/01/07/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2016/#150,,150
+AFG147,Afghanistan ,01-16-2016,Obama,Shabi Tangi,Haska Mena,Nangarhar,"Shabi Tangi, Haska Mena, Nangarhar, Afghanistan","34.171831,70.621679",,,"Shabi Tangi, Haska Mena, Nangarhar, Afghanistan","34.171831,70.621679",34.171831,70.621679,US strike,1,0,0,-,ISIS,Late,-,1,1,22,22,0,0,0,0,0,0,https://www.thebureauinvestigates.com/2016/01/07/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2016/#151,,151
+AFG148,Afghanistan ,01-19-2016,Obama,Deh Sarak,Achin,Nangarhar,"Deh Sarak, Achin, Nangarhar, Afghanistan","34.08218,70.667034",,,"Deh Sarak, Achin, Nangarhar, Afghanistan","34.08218,70.667034",34.08218,0.667034,US strike,1,0,0,-,ISIS,14:00-15:00,Vehicle,1,1,5,5,0,0,0,0,0,0,https://www.thebureauinvestigates.com/2016/01/07/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2016/#152,,152
+AFG149,Afghanistan ,01-19-2016,Obama,Deh Sarak,Achin,Nangarhar,"Deh Sarak, Achin, Nangarhar, Afghanistan","34.08218,70.667034",,,"Deh Sarak, Achin, Nangarhar, Afghanistan","34.08218,70.667034",34.08218,0.667034,US strike,1,0,0,-,ISIS,14:00-15:00,Vehicle,1,1,5,5,0,0,0,0,0,0,https://www.thebureauinvestigates.com/2016/01/07/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2016/#153,,153
+AFG150,Afghanistan ,01-22-2016,Obama,Khawajakhel,Arghandab,Zabul,"Khawajakhel, Arghandab, Zabul, Afghanistan","32.431900,66.674210",,,"Khawajakhel, Arghandab, Zabul, Afghanistan","32.431900,66.674210",32.431900,66.674210,US strike,1,0,0,-,-,Late,-,1,1,3,3,0,0,0,0,0,0,https://www.thebureauinvestigates.com/2016/01/07/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2016/#154,,154
+AFG151,Afghanistan ,01-22-2016,Obama,Unknown,Unknown,Nangarhar,"Unknown, Unknown, Nangarhar, Afghanistan","34.171831,70.621679",,,"Nangarhar, Afghanistan","34.171831,70.621679",34.171831,70.621679,US strike,1,0,0,-,ISIS,-,-,1,1,2,2,0,0,0,0,0,0,https://www.thebureauinvestigates.com/2016/01/07/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2016/#155,,155
+AFG152,Afghanistan ,01-22-2016,Obama,Abdulkhel area,Achin,Nangarhar,"Abdulkhel area, Achin, Nangarhar, Afghanistan","34.053888,70.696111",,,"Abdulkhel area, Achin, Nangarhar, Afghanistan","34.053888,70.696111",34.053888,70.696111,US strike,1,0,0,-,ISIS,Night,-,1,1,3,3,0,0,0,0,0,0,https://www.thebureauinvestigates.com/2016/01/07/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2016/#156,,156
+AFG153,Afghanistan ,01-22-2016,Obama,Gorgori,Haska Mena,Nangarhar,"Gorgori, Haska Mena, Nangarhar, Afghanistan","34.171831,70.621679",,,"Gorgori, Haska Mena, Nangarhar, Afghanistan","34.171831,70.621679",34.171831,70.621679,US strike,1,0,0,-,ISIS,Night,-,1,1,10,10,0,0,0,0,0,0,https://www.thebureauinvestigates.com/2016/01/07/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2016/#157,,157
+AFG154,Afghanistan ,01-23-2016,Obama,Bandar,Achin,Nangarhar,"Bandar, Achin, Nangarhar, Afghanistan","34.08218,70.667034",,,"Bandar, Achin, Nangarhar, Afghanistan","34.08218,70.667034",34.08218,0.667034,US strike,1,0,0,-,ISIS,Noon,-,1,1,3,3,0,0,0,0,0,0,https://www.thebureauinvestigates.com/2016/01/07/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2016/#158,,158
+AFG155,Afghanistan ,01-23-2016,Obama,Nargusi,Achin,Nangarhar,"Nargusi, Achin, Nangarhar, Afghanistan","34.08218,70.667034",,,"Nargusi, Achin, Nangarhar, Afghanistan","34.08218,70.667034",34.08218,0.667034,US strike,1,0,0,-,ISIS,-,-,1,1,6,6,0,0,0,0,0,0,https://www.thebureauinvestigates.com/2016/01/07/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2016/#159,,159
+AFG156,Afghanistan ,01-24-2016,Obama,Gurguri,Deh Bala,Nangarhar,"Gurguri, Deh Bala, Nangarhar, Afghanistan","33.290775,70.794156",,,"Gurguri, Deh Bala, Nangarhar, Afghanistan","33.290775,70.794156",33.290775,70.794156,US strike,1,0,0,-,ISIS,-,-,1,1,13,13,0,0,0,0,0,0,https://www.thebureauinvestigates.com/2016/01/07/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2016/#160,,160
+AFG157,Afghanistan ,01-24-2016,Obama,Bandar Khwar,Achin,Nangarhar,"Bandar Khwar, Achin, Nangarhar, Afghanistan","34.08218,70.667034",,,"Bandar Khwar, Achin, Nangarhar, Afghanistan","34.08218,70.667034",34.08218,0.667034,US strike,1,0,0,-,ISIS,-,-,1,1,4,4,0,0,0,0,0,0,https://www.thebureauinvestigates.com/2016/01/07/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2016/#161,,161
+AFG158,Afghanistan ,01-25-2016,Obama,Unknown,Achin,Nangarhar,"Unknown, Achin, Nangarhar, Afghanistan","34.08218,70.667034",,,"Achin, Nangarhar, Afghanistan","34.08218,70.667034",34.08218,0.667034,US strike,1,0,0,-,Taliban,Late,-,1,1,5,5,0,0,0,0,0,0,https://www.thebureauinvestigates.com/2016/01/07/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2016/#162,,162
+AFG159,Afghanistan ,02-01-2016,Obama,Momand,Achin,Nangarhar,"Momand, Achin, Nangarhar, Afghanistan","34.215777,71.026004",,,"Momand, Achin, Nangarhar, Afghanistan","34.215777,71.026004",34.215777,71.026004,US strike,1,1,0,CT,ISIS,19:00-20:00,"Radio station, ""Internet facility"", court, hideout",2,4,21,29,0,0,0,0,0,0,https://www.thebureauinvestigates.com/2016/01/07/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2016/#163,,163
+AFG160,Afghanistan ,02-01-2016,Obama,Unknown,Bermal or Gomal,Paktika,"Unknown, Bermal or Gomal, Paktika, Afghanistan","32.746111,69.297777","Paktika, Afghanistan","32.264538,68.524714","Paktika, Afghanistan","32.264538,68.524714",32.264538,68.524714,US strike,1,0,0,-,TTP,-,-,1,1,19,19,0,0,0,0,0,0,https://www.thebureauinvestigates.com/2016/01/07/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2016/#164,,164
+AFG161,Afghanistan ,02-02-2016,Obama,Bandar,Achin,Nangarhar,"Bandar, Achin, Nangarhar, Afghanistan","34.08218,70.667034",,,"Bandar, Achin, Nangarhar, Afghanistan","34.08218,70.667034",34.08218,0.667034,US strike,1,1,0,FP,ISIS,16:00,-,1,1,3,4,0,0,0,0,0,0,https://www.thebureauinvestigates.com/2016/01/07/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2016/#165,,165
+AFG162,Afghanistan ,02-04-2016,Obama,"Daman, Marghay",Bermal,Paktika,"Daman, Marghay, Bermal, Paktika, Afghanistan","32.746111,69.297777",,,"Daman, Marghay, Bermal, Paktika, Afghanistan","32.746111,69.297777",32.746111,69.297777,US strike,1,0,0,-,TTP,-,-,1,1,10,15,0,0,0,0,0,0,https://www.thebureauinvestigates.com/2016/01/07/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2016/#166,,166
+AFG163,Afghanistan ,02-04-2016,Obama,Shiltan,Shegal,Kunar,"Shiltan, Shegal, Kunar, Afghanistan","34.846589,71.097316",,,"Shiltan, Shegal, Kunar, Afghanistan","34.846589,71.097316",34.846589,71.097316,US strike,1,1,0,CT,TTP,Night,-,1,1,3,3,0,0,0,0,0,0,https://www.thebureauinvestigates.com/2016/01/07/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2016/#167,,167
+AFG164,Afghanistan ,02-05-2016,Obama,Unknown,Achin,Nangarhar,"Unknown, Achin, Nangarhar, Afghanistan","34.08218,70.667034",,,"Achin, Nangarhar, Afghanistan","34.08218,70.667034",34.08218,0.667034,US strike,1,1,0,-,ISIS,-,Vehicle and gathering,1,2,16,16,0,0,0,0,0,0,https://www.thebureauinvestigates.com/2016/01/07/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2016/#168,,168
+AFG165,Afghanistan ,02-08-2016,Obama,Bazaar,Achin,Nangarhar,"Bazaar, Achin, Nangarhar, Afghanistan","34.08218,70.667034",,,"Bazaar, Achin, Nangarhar, Afghanistan","34.08218,70.667034",34.08218,0.667034,US strike,1,0,0,-,ISIS,-,Bazaar,1,1,11,11,0,0,0,0,2,2,https://www.thebureauinvestigates.com/2016/01/07/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2016/#169,,169
+AFG166,Afghanistan ,02-08-2016,Obama,Unknown,Nad Ali and Greshk,Helmand,"Unknown, Nad Ali and Greshk, Helmand, Afghanistan","31.664217,64.266149",,,"Nad Ali and Greshk, Helmand, Afghanistan","31.664217,64.266149",31.664217,64.266149,US strike,1,0,0,-,Taliban,Night,Vehicle,1,2,15,15,0,0,0,0,10,10,https://www.thebureauinvestigates.com/2016/01/07/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2016/#170,,170
+AFG167,Afghanistan ,02-11-2016,Obama,Unknown,Gomal,Paktika,"Unknown, Gomal, Paktika, Afghanistan","32.434829,69.001648",,,"Gomal, Paktika, Afghanistan","32.434829,69.001648",32.434829,69.001648,US strike,1,1,0,CT,Taliban,-,Two vehicles,1,1,13,18,0,0,0,0,0,0,https://www.thebureauinvestigates.com/2016/01/07/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2016/#175,,175
+AFG168,Afghanistan ,02-15-2016,Obama,Unknown,Nazyan,Nangarhar,"Unknown, Nazyan, Nangarhar, Afghanistan","34.118171,70.752529",,,"Nazyan, Nangarhar, Afghanistan","34.118171,70.752529",34.118171,70.752529,US strike,0,1,0,CT,-,-,-,1,1,15,15,0,0,0,0,0,0,https://www.thebureauinvestigates.com/2016/01/07/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2016/#179,,179
+AFG169,Afghanistan ,02-17-2016,Obama,Raghi,Gomal,Paktika,"Raghi, Gomal, Paktika, Afghanistan","32.434829,69.001648",,,"Raghi, Gomal, Paktika, Afghanistan","32.434829,69.001648",32.434829,69.001648,US strike,1,0,0,-,Taliban,-,Hideout,1,1,6,6,0,0,0,0,0,0,https://www.thebureauinvestigates.com/2016/01/07/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2016/#176,,176
+AFG170,Afghanistan ,02-18-2016,Obama,Raghi,Gomal,PAktika,"Raghi, Gomal, PAktika, Afghanistan","32.434829,69.001648",,,"Raghi, Gomal, PAktika, Afghanistan","32.434829,69.001648",32.434829,69.001648,US strike,1,0,0,-,-,-,Vehicle,1,1,6,6,0,0,0,0,0,0,https://www.thebureauinvestigates.com/2016/01/07/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2016/#177,,177
+AFG171,Afghanistan ,02-22-2016,Obama,Pekha Khwar,Achin,Nangarhar,"Pekha Khwar, Achin, Nangarhar, Afghanistan","34.08218,70.667034",,,"Pekha Khwar, Achin, Nangarhar, Afghanistan","34.08218,70.667034",34.08218,0.667034,US strike,1,1,0,CT,ISIS,-,-,1,1,22,25,0,0,0,0,0,0,https://www.thebureauinvestigates.com/2016/01/07/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2016/#171,,171
+AFG172,Afghanistan ,02-22-2016,Obama,Dand e Ghori,Pul-e-Khumri,Baghlan,"Dand e Ghori, Pul-e-Khumri, Baghlan, Afghanistan","35.943802,68.709535",,,"Dand e Ghori, Pul-e-Khumri, Baghlan, Afghanistan","35.943802,68.709535",35.943802,68.709535,US strike,1,0,0,-,Taliban,-,-,1,1,0,0,0,0,0,0,0,0,https://www.thebureauinvestigates.com/2016/01/07/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2016/#172,,172
+AFG173,Afghanistan ,02-26-2016,Obama,Dadul,Gomal,Paktika,"Dadul, Gomal, Paktika, Afghanistan","32.434829,69.001648",,,"Dadul, Gomal, Paktika, Afghanistan","32.434829,69.001648",32.434829,69.001648,US strike,1,1,0,CT,AQ,-,Two motorcycles,1,1,3,3,0,0,0,0,0,0,https://www.thebureauinvestigates.com/2016/01/07/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2016/#173,,173
+AFG174,Afghanistan ,02-28-2016,Obama,Mamand Dara and Pekha,Achin,Nangarhar,"Mamand Dara and Pekha, Achin, Nangarhar, Afghanistan","34.215777,71.026004",,,"Mamand Dara and Pekha, Achin, Nangarhar, Afghanistan","34.215777,71.026004",34.215777,71.026004,US strike,1,1,0,CT,ISIS,Late afternoon,-,1,1,7,9,0,0,0,0,0,0,https://www.thebureauinvestigates.com/2016/01/07/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2016/#174,,174
+AFG175,Afghanistan ,03-05-2016,Obama,Mamond Dara,Achin,Nangarhar,"Mamond Dara, Achin, Nangarhar, Afghanistan","34.215777,71.026004",,,"Mamond Dara, Achin, Nangarhar, Afghanistan","34.215777,71.026004",34.215777,71.026004,US strike,1,1,0,CT,ISIS,Night,-,1,1,15,15,0,0,0,0,0,0,https://www.thebureauinvestigates.com/2016/01/07/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2016/#178,,178
+AFG176,Afghanistan ,03-21-2016,Obama,Khwargai,Kot,Nangarhar,"Khwargai, Kot, Nangarhar, Afghanistan","34.263148,70.788209",,,"Khwargai, Kot, Nangarhar, Afghanistan","34.263148,70.788209",34.263148,70.788209,US strike,1,0,0,-,ISIS,14:30,"""Saracha"" vehicle",1,1,8,8,0,0,0,0,0,0,https://www.thebureauinvestigates.com/2016/01/07/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2016/#180,,180
+AFG177,Afghanistan ,03-22-2016,Obama,Janajal Ghondie,Kot,Nangarhar,"Janajal Ghondie, Kot, Nangarhar, Afghanistan","34.263148,70.788209",,,"Janajal Ghondie, Kot, Nangarhar, Afghanistan","34.263148,70.788209",34.263148,70.788209,US strike,1,0,0,-,ISIS,14:00,-,1,1,2,8,0,0,0,0,0,0,https://www.thebureauinvestigates.com/2016/01/07/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2016/#181,,181
+AFG178,Afghanistan ,03-22-2016,Obama,Bandar,Kot,Nangarhar,"Bandar, Kot, Nangarhar, Afghanistan","34.171831,70.621679",,,"Bandar, Kot, Nangarhar, Afghanistan","34.171831,70.621679",34.171831,70.621679,US strike,1,0,0,-,ISIS,Late afternon,Horse,1,1,5,5,0,0,0,0,0,0,https://www.thebureauinvestigates.com/2016/01/07/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2016/#182,,182
+AFG179,Afghanistan ,03-26-2016,Obama,Unknown,Achin or Mamand Dara,Nangarhar,"Unknown, Achin or Mamand Dara, Nangarhar, Afghanistan","34.215777,71.026004","Nangarhar, Afghanistan","34.171831,70.621679","Nangarhar, Afghanistan","34.171831,70.621679",34.171831,70.621679,US strike,1,0,0,-,ISIS,-,-,1,1,11,11,0,0,0,0,0,0,https://www.thebureauinvestigates.com/2016/01/07/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2016/#183,,183
+AFG180,Afghanistan ,04-05-2016,Obama,Unknown,Kot,Nangarhar,"Unknown, Kot, Nangarhar, Afghanistan","34.263148,70.788209",,,"Kot, Nangarhar, Afghanistan","34.263148,70.788209",34.263148,70.788209,US strike,1,0,0,-,ISIS,Early morning,Vehicle and motorbike,1,1,6,6,0,0,0,0,0,0,https://www.thebureauinvestigates.com/2016/01/07/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2016/#184,,184
+AFG181,Afghanistan ,04-07-2016,Obama,Unknown,Achin,Nangarhar,"Unknown, Achin, Nangarhar, Afghanistan","34.08218,70.667034",,,"Achin, Nangarhar, Afghanistan","34.08218,70.667034",34.08218,0.667034,US strike,1,0,0,-,ISIS,-,-,1,1,4,4,0,0,0,0,0,0,https://www.thebureauinvestigates.com/2016/01/07/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2016/#185,,185
+AFG182,Afghanistan ,04-07-2016,Obama,Unknown,Dehrawood,Nangarhar,"Unknown, Dehrawood, Nangarhar, Afghanistan","32.623738,65.456431",,,"Dehrawood, Nangarhar, Afghanistan","32.623738,65.456431",32.623738,65.456431,US strike,1,0,0,-,Taliban,-,-,1,1,3,3,0,0,0,0,0,0,https://www.thebureauinvestigates.com/2016/01/07/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2016/#186,,186
+AFG183,Afghanistan ,04-07-2016,Obama,Nematabad,Gomal,Paktika,"Nematabad, Gomal, Paktika, Afghanistan","32.434829,69.001648",,,"Nematabad, Gomal, Paktika, Afghanistan","32.434829,69.001648",32.434829,69.001648,US strike,1,1,0,CT,AQ,-,-,1,1,14,21,14,21,0,0,0,0,https://www.thebureauinvestigates.com/2016/01/07/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2016/#187,,187
+AFG184,Afghanistan ,04-14-2016,Obama,Unknown,Achin,Nangarhar,"Unknown, Achin, Nangarhar, Afghanistan","34.08218,70.667034",,,"Achin, Nangarhar, Afghanistan","34.08218,70.667034",34.08218,0.667034,US strike,0,1,1,CT,-,-,-,1,1,0,0,0,0,0,0,0,0,https://www.thebureauinvestigates.com/2016/01/07/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2016/#190,,190
+AFG185,Afghanistan ,04-19-2016,Obama,Shadal,Achin,Nangarhar,"Shadal, Achin, Nangarhar, Afghanistan","34.08218,70.667034",,,"Shadal, Achin, Nangarhar, Afghanistan","34.08218,70.667034",34.08218,0.667034,US strike,1,0,0,-,ISIS,-,House,1,1,5,5,0,0,0,0,0,0,https://www.thebureauinvestigates.com/2016/01/07/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2016/#191,,191
+AFG186,Afghanistan ,04-20-2016,Obama,Unknown,Achin,Nangarhar,"Unknown, Achin, Nangarhar, Afghanistan","34.08218,70.667034",,,"Achin, Nangarhar, Afghanistan","34.08218,70.667034",34.08218,0.667034,US strike,1,0,0,-,ISIS,-,-,1,1,4,4,0,0,0,0,0,0,https://www.thebureauinvestigates.com/2016/01/07/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2016/#192,,192
+AFG187,Afghanistan ,04-28-2016,Obama,Narai Obam,Haska Mena,Nangarhar,"Narai Obam, Haska Mena, Nangarhar, Afghanistan","34.171831,70.621679",,,"Narai Obam, Haska Mena, Nangarhar, Afghanistan","34.171831,70.621679",34.171831,70.621679,US strike,1,0,0,-,ISIS,-,-,1,1,15,15,0,0,0,0,0,0,https://www.thebureauinvestigates.com/2016/01/07/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2016/#193,,193
+AFG188,Afghanistan ,04-30-2016,Obama,Unknown,Chaparhar and Haska Mina,Nangarhar,"Unknown, Chaparhar and Haska Mina, Nangarhar, Afghanistan","34.092630,70.469224",,,"Chaparhar and Haska Mina, Nangarhar, Afghanistan","34.092630,70.469224",34.092630,70.469224,US strike,1,0,0,-,-,-,-,1,1,38,38,0,0,0,0,0,0,https://www.thebureauinvestigates.com/2016/01/07/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2016/#194,,194
+AFG189,Afghanistan ,05-07-2016,Obama,Unknown,Khanashin,Helmand,"Unknown, Khanashin, Helmand, Afghanistan","30.810909,63.769538",,,"Khanashin, Helmand, Afghanistan","30.810909,63.769538",30.810909,63.769538,US strike,1,1,0,-,-,-,Vehicle,1,1,0,1,0,0,0,0,2,3,https://www.thebureauinvestigates.com/2016/01/07/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2016/#196,,196
+AFG190,Afghanistan ,05-09-2016,Obama,Nahr Sufi,Chahar Dara,Kunduz,"Nahr Sufi, Chahar Dara, Kunduz, Afghanistan","36.599741,68.863499",,,"Nahr Sufi, Chahar Dara, Kunduz, Afghanistan","36.599741,68.863499",36.599741,68.863499,US strike,1,0,0,-,Taliban,-,Vehicle,1,1,12,12,0,0,0,0,0,0,https://www.thebureauinvestigates.com/2016/01/07/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2016/#195,,195
+AFG191,Afghanistan ,05-12-2016,Obama,Zarmakhel,Pacheragam,Nangarhar,"Zarmakhel, Pacheragam, Nangarhar, Afghanistan","34.074090,70.288452",,,"Zarmakhel, Pacheragam, Nangarhar, Afghanistan","34.074090,70.288452",34.074090,70.288452,US strike,0,1,0,CT,Reportedly Taliban,10:30,Vehicle,1,1,1,1,0,0,0,0,1,1,https://www.thebureauinvestigates.com/2016/01/07/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2016/#202,,202
+AFG192,Afghanistan ,05-16-2016,Obama,Gandeel,Watapor,Kunar,"Gandeel, Watapor, Kunar, Afghanistan","34.910930,71.127398",,,"Gandeel, Watapor, Kunar, Afghanistan","34.910930,71.127398",34.910930,71.127398,US strike,1,1,0,FP,ISIS,-,Hideout,1,1,3,3,0,0,0,0,0,0,https://www.thebureauinvestigates.com/2016/01/07/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2016/#197,,197
+AFG193,Afghanistan ,05-17-2016,Obama,Unknown,Shahjoy,Zabul,"Unknown, Shahjoy, Zabul, Afghanistan","32.503195,67.415892",,,"Shahjoy, Zabul, Afghanistan","32.503195,67.415892",32.503195,67.415892,US strike,1,1,0,CT,AQ,-,-,1,1,5,5,0,0,0,0,0,0,https://www.thebureauinvestigates.com/2016/01/07/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2016/#199,,199
+AFG194,Afghanistan ,05-18-2016,Obama,Mohammd Ghous,Ab Band,Ghazni,"Mohammd Ghous, Ab Band, Ghazni, Afghanistan","32.983333,67.966667",,,"Mohammd Ghous, Ab Band, Ghazni, Afghanistan","32.983333,67.966667",32.983333,67.966667,US strike,1,0,0,-,Taliban,05:00,-,1,1,1,1,0,0,0,0,0,0,https://www.thebureauinvestigates.com/2016/01/07/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2016/#201,,201
+AFG195,Afghanistan ,05-22-2016,Obama,Asqalan,Kunduz city,Kunduz,"Asqalan, Kunduz city, Kunduz, Afghanistan","36.728590,68.868066",,,"Asqalan, Kunduz city, Kunduz, Afghanistan","36.728590,68.868066",36.728590,68.868066,US strike,1,0,0,-,Taliban,-,Vehicle,1,1,13,13,0,0,0,0,0,0,https://www.thebureauinvestigates.com/2016/01/07/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2016/#203,,203
+AFG196,Afghanistan ,05-22-2016,Obama,Karkani,Achin,Nangarhar,"Karkani, Achin, Nangarhar, Afghanistan","34.08218,70.667034",,,"Karkani, Achin, Nangarhar, Afghanistan","34.08218,70.667034",34.08218,0.667034,US strike,1,0,0,-,ISIS,Morning,-,1,1,9,9,0,0,0,0,0,0,https://www.thebureauinvestigates.com/2016/01/07/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2016/#204,,204
+AFG197,Afghanistan ,05-26-2016,Obama,Sarobi,Achin,Nangarhar,"Sarobi, Achin, Nangarhar, Afghanistan","34.631340,69.718267",,,"Sarobi, Achin, Nangarhar, Afghanistan","34.631340,69.718267",34.631340,69.718267,US strike,1,0,0,-,ISIS,Morning,Bomb-rigged car,1,1,6,6,0,0,0,0,0,0,https://www.thebureauinvestigates.com/2016/01/07/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2016/#205,,205
+AFG198,Afghanistan ,05-26-2016,Obama,Pirakhel,Wazir,Nangarhar,"Pirakhel, Wazir, Nangarhar, Afghanistan","34.195889,70.158546",,,"Pirakhel, Wazir, Nangarhar, Afghanistan","34.195889,70.158546",34.195889,70.158546,US strike,1,0,0,-,ISIS,Morning,-,1,1,4,4,0,0,0,0,0,0,https://www.thebureauinvestigates.com/2016/01/07/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2016/#206,,206
+AFG199,Afghanistan ,05-26-2016,Obama,Unknown,Kot,Nangarhar,"Unknown, Kot, Nangarhar, Afghanistan","34.263148,70.788209",,,"Kot, Nangarhar, Afghanistan","34.263148,70.788209",34.263148,70.788209,US strike,1,0,0,-,ISIS,-,-,1,1,2,2,0,0,0,0,0,0,https://www.thebureauinvestigates.com/2016/01/07/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2016/#207,,207
+AFG200,Afghanistan ,05-26-2016,Obama,Elbak,Unknown,Kandahar,"Elbak, Unknown, Kandahar, Afghanistan","31.628871,65.737174",,,"Elbak, Kandahar, Afghanistan","31.628871,65.737174",31.628871,65.737174,US strike,1,1,1,FP,Taliban,Night,-,3,3,7,7,0,0,0,0,2,2,https://www.thebureauinvestigates.com/2016/01/07/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2016/#220,,220
+AFG201,Afghanistan ,05-29-2016,Obama,Kangari Kando,Haska Mena,Nangarhar,"Kangari Kando, Haska Mena, Nangarhar, Afghanistan","34.171831,70.621679",,,"Kangari Kando, Haska Mena, Nangarhar, Afghanistan","34.171831,70.621679",34.171831,70.621679,US strike,1,0,0,-,ISIS,-,Hideout,1,1,6,6,0,0,0,0,0,0,https://www.thebureauinvestigates.com/2016/01/07/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2016/#208,,208
+AFG202,Afghanistan ,05-29-2016,Obama,Kata Sang,Shaha Wali Kot,Kandahar,"Kata Sang, Shaha Wali Kot, Kandahar, Afghanistan","32.124645,65.380820",,,"Kata Sang, Shaha Wali Kot, Kandahar, Afghanistan","32.124645,65.380820",32.124645,65.380820,US strike,1,1,0,FP,Taliban,-,-,1,1,17,22,0,0,0,0,0,0,https://www.thebureauinvestigates.com/2016/01/07/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2016/#209,,209
+AFG203,Afghanistan ,05-29-2016,Obama,Unknown,De Bala,Nangarhar,"Unknown, De Bala, Nangarhar, Afghanistan","34.092630,70.469224",,,"De Bala, Nangarhar, Afghanistan","34.092630,70.469224",34.092630,70.469224,US strike,1,0,0,-,Taliban,-,-,1,1,2,2,0,0,0,0,0,0,https://www.thebureauinvestigates.com/2016/01/07/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2016/#210,,210
+AFG204,Afghanistan ,05-29-2016,Obama,Unknown,Sayedabad,Maidan Wardak,"Unknown, Sayedabad, Maidan Wardak, Afghanistan","33.895518,68.763191",,,"Sayedabad, Maidan Wardak, Afghanistan","33.895518,68.763191",33.895518,68.763191,US strike,1,0,0,-,ISIS,-,-,1,1,2,2,0,0,0,0,0,0,https://www.thebureauinvestigates.com/2016/01/07/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2016/#211,,211
+AFG205,Afghanistan ,06-02-2016,Obama,Kharkot,Gayan,Paktika,"Kharkot, Gayan, Paktika, Afghanistan","32.984041,69.430782",,,"Kharkot, Gayan, Paktika, Afghanistan","32.984041,69.430782",32.984041,69.430782,US strike,1,0,0,-,Taliban,14:00,-,1,1,10,10,0,0,0,0,0,0,https://www.thebureauinvestigates.com/2016/01/07/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2016/#212,,212
+AFG206,Afghanistan ,06-08-2016,Obama,Unknown,Sar Rawza,Paktika,"Unknown, Sar Rawza, Paktika, Afghanistan","33.004167,69.049336",,,"Sar Rawza, Paktika, Afghanistan","33.004167,69.049336",33.004167,69.049336,US strike,1,0,0,-,Haqqani,Night,Vehicle,1,1,2,2,0,0,0,0,0,0,https://www.thebureauinvestigates.com/2016/01/07/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2016/#213,,213
+AFG207,Afghanistan ,06-11-2016,Obama,Sargardan,Hesarak,Nangarhar,"Sargardan, Hesarak, Nangarhar, Afghanistan","34.283562,69.883565",,,"Sargardan, Hesarak, Nangarhar, Afghanistan","34.283562,69.883565",34.283562,69.883565,US strike,1,0,0,-,Taliban,-,Vehicle,1,1,6,6,0,0,0,0,0,0,https://www.thebureauinvestigates.com/2016/01/07/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2016/#214,,214
+AFG208,Afghanistan ,06-11-2016,Obama,Unknown,Azara,Logar,"Unknown, Azara, Logar, Afghanistan","34.014551,69.192391",,,"Azara, Logar, Afghanistan","34.014551,69.192391",34.014551,69.192391,US strike,1,0,0,-,Taliban,-,Vehicle,1,1,11,11,0,3,0,0,0,0,https://www.thebureauinvestigates.com/2016/01/07/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2016/#215,,215
+AFG209,Afghanistan ,06-11-2016,Obama,Ghwagezai,Hesarak,Nangarhar,"Ghwagezai, Hesarak, Nangarhar, Afghanistan","34.283562,69.883565",,,"Ghwagezai, Hesarak, Nangarhar, Afghanistan","34.283562,69.883565",34.283562,69.883565,US strike,1,0,0,-,Taliban,Night,Vehicle,1,1,6,6,0,0,0,0,0,0,https://www.thebureauinvestigates.com/2016/01/07/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2016/#216,,216
+AFG210,Afghanistan ,06-14-2016,Obama,Karkanai,Achin,Nangarhar,"Karkanai, Achin, Nangarhar, Afghanistan","34.08218,70.667034",,,"Karkanai, Achin, Nangarhar, Afghanistan","34.08218,70.667034",34.08218,0.667034,US strike,1,0,0,-,ISIS,-,Hideout,1,1,10,10,0,0,0,0,0,0,https://www.thebureauinvestigates.com/2016/01/07/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2016/#217,,217
+AFG211,Afghanistan ,06-15-2016,Obama,Karkanai,Achin,Nangarhar,"Karkanai, Achin, Nangarhar, Afghanistan","34.08218,70.667034",,,"Karkanai, Achin, Nangarhar, Afghanistan","34.08218,70.667034",34.08218,0.667034,US strike,1,0,0,-,ISIS,21:00,-,1,1,21,21,0,0,0,0,0,0,https://www.thebureauinvestigates.com/2016/01/07/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2016/#237,,237
+AFG212,Afghanistan ,06-18-2016,Obama,Taraki,Dasht e Archi,Nangarhar,"Taraki, Dasht e Archi, Nangarhar, Afghanistan","37.122858,69.158119",,,"Taraki, Dasht e Archi, Nangarhar, Afghanistan","37.122858,69.158119",37.122858,69.158119,US strike,1,0,0,-,Taliban,Night,Vehicle,1,1,8,8,0,0,0,0,0,0,https://www.thebureauinvestigates.com/2016/01/07/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2016/#218,,218
+AFG213,Afghanistan ,06-18-2016,Obama,"Dara e Mohmand, Mazdaki, Abdulkhail",Achin,Nangarhar,"Dara e Mohmand, Mazdaki, Abdulkhail, Achin, Nangarhar, Afghanistan","34.08218,70.667034",,,"Dara e Mohmand, Mazdaki, Abdulkhail, Achin, Nangarhar, Afghanistan","34.08218,70.667034",34.08218,0.667034,US strike,1,1,0,CT,ISIS,-,-,1,1,23,27,0,0,0,0,0,0,https://www.thebureauinvestigates.com/2016/01/07/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2016/#219,,219
+AFG214,Afghanistan ,06-21-2016,Obama,Moghul Qeshlag,Imam Sahib,Kunduz,"Moghul Qeshlag, Imam Sahib, Kunduz, Afghanistan","37.157843,68.882423",,,"Moghul Qeshlag, Imam Sahib, Kunduz, Afghanistan","37.157843,68.882423",37.157843,68.882423,US strike,1,0,0,-,Taliban,Midday,Hideout,1,1,5,5,0,0,0,0,0,0,https://www.thebureauinvestigates.com/2016/01/07/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2016/#220,,220
+AFG215,Afghanistan ,06-22-2016,Obama,Pir Shah Khelo,Kot,Nangarhar,"Pir Shah Khelo, Kot, Nangarhar, Afghanistan","34.171831,70.621679",,,"Pir Shah Khelo, Kot, Nangarhar, Afghanistan","34.171831,70.621679",34.171831,70.621679,US strike,1,0,0,-,ISIS,Late afternoon,-,1,1,4,4,0,0,0,0,0,0,https://www.thebureauinvestigates.com/2016/01/07/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2016/#221,,221
+AFG216,Afghanistan ,06-23-2016,Obama,Rahmati and Marsing,Lal Pura,Nangarhar,"Rahmati and Marsing, Lal Pura, Nangarhar, Afghanistan","13.6077214,44.984871",,,"Rahmati and Marsing, Lal Pura, Nangarhar, Afghanistan","34.1819776,70.6514757",34.1819776,70.6514757,US strike,1,0,0,-,Taliban,Night,"Car, motorcycle",2,2,7,7,0,0,0,0,3,3,https://www.thebureauinvestigates.com/2016/01/07/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2016/#229,,229
+AFG217,Afghanistan ,06-24-2016,Obama,Unknown,Unknown,Unknown,"Unknown, Unknown, Unknown, Afghanistan","35.220505,-80.857539",Unknown,,Unknown,Unknown,#VALUE!,#VALUE!,US strike,0,1,1,-,Taliban,-,"""Taliban positions""",2,2,0,0,0,0,0,0,0,0,https://www.thebureauinvestigates.com/2016/01/07/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2016/#222,,222
+AFG218,Afghanistan ,06-25-2016,Obama,Sarak Payin,Chahar Dara,Kunduz,"Sarak Payin, Chahar Dara, Kunduz, Afghanistan","36.599741,68.863499",,,"Sarak Payin, Chahar Dara, Kunduz, Afghanistan","36.599741,68.863499",36.599741,68.863499,US strike,1,1,0,-,Taliban,-,Taliban prison,2,2,7,16,0,15,0,0,0,0,https://www.thebureauinvestigates.com/2016/01/07/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2016/#223,,223
+AFG219,Afghanistan ,06-26-2016,Obama,Unknown,Kot,Nangarhar,"Unknown, Kot, Nangarhar, Afghanistan","34.263148,70.788209",,,"Kot, Nangarhar, Afghanistan","34.263148,70.788209",34.263148,70.788209,US strike,1,0,0,-,ISIS,16:00,Hideout,1,1,30,30,0,0,0,0,0,0,https://www.thebureauinvestigates.com/2016/01/07/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2016/#224,,224
+AFG220,Afghanistan ,06-27-2016,Obama,Unknown,Chahar Dara,Kunduz,"Unknown, Chahar Dara, Kunduz, Afghanistan","36.599741,68.863499",,,"Chahar Dara, Kunduz, Afghanistan","36.599741,68.863499",36.599741,68.863499,US strike,1,0,0,-,Taliban,-,-,1,1,4,16,0,0,0,0,0,0,https://www.thebureauinvestigates.com/2016/01/07/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2016/#225,,225
+AFG221,Afghanistan ,06-28-2016,Obama,Hazrat Sultan,Kunduz city,Kunduz,"Hazrat Sultan, Kunduz city, Kunduz, Afghanistan","36.728590,68.868066",,,"Hazrat Sultan, Kunduz city, Kunduz, Afghanistan","36.728590,68.868066",36.728590,68.868066,US strike,1,0,0,-,Taliban,-,-,1,1,14,14,0,0,0,0,8,8,https://www.thebureauinvestigates.com/2016/01/07/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2016/#226,,226
+AFG222,Afghanistan ,06-29-2016,Obama,Unknown,Gortipa,Kunduz,"Unknown, Gortipa, Kunduz, Afghanistan","36.728590,68.868066",,,"Gortipa, Kunduz, Afghanistan","36.728590,68.868066",36.728590,68.868066,US strike,1,0,0,-,Taliban,-,-,1,1,10,10,0,0,0,0,0,0,https://www.thebureauinvestigates.com/2016/01/07/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2016/#227,,227
+AFG223,Afghanistan ,06-29-2016,Obama,Unknown,Dasht e Archi,Nangarhar,"Unknown, Dasht e Archi, Nangarhar, Afghanistan","37.122858,69.158119",,,"Dasht e Archi, Nangarhar, Afghanistan","37.122858,69.158119",37.122858,69.158119,US strike,1,0,0,-,Taliban,-,-,1,1,10,10,0,0,0,0,0,0,https://www.thebureauinvestigates.com/2016/01/07/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2016/#228,,228
+AFG224,Afghanistan ,07-03-2016,Obama,Unknown,Ab Band,Ghazni,"Unknown, Ab Band, Ghazni, Afghanistan","32.983333,67.966667",,,"Ab Band, Ghazni, Afghanistan","32.983333,67.966667",32.983333,67.966667,US strike,1,0,0,-,Taliban,-,-,1,1,12,12,0,0,0,0,0,0,https://www.thebureauinvestigates.com/2016/01/07/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2016/#230,,230
+AFG225,Afghanistan ,07-03-2016,Obama,Mamond and Pekha,Achin,Nangarhar,"Mamond and Pekha, Achin, Nangarhar, Afghanistan","34.08218,70.667034",,,"Mamond and Pekha, Achin, Nangarhar, Afghanistan","34.08218,70.667034",34.08218,0.667034,US strike,1,0,0,-,ISIS,Night,Hideouts,2,2,19,19,0,0,0,0,0,0,https://www.thebureauinvestigates.com/2016/01/07/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2016/#231,,231
+AFG226,Afghanistan ,07-03-2016,Obama,Wazir,Khogyani,Nangarhar,"Wazir, Khogyani, Nangarhar, Afghanistan","34.195889,70.158546",,,"Wazir, Khogyani, Nangarhar, Afghanistan","34.195889,70.158546",34.195889,70.158546,US strike,1,0,0,-,Taliban,Afternoon,Vehicles,1,1,11,11,0,0,0,0,3,5,https://www.thebureauinvestigates.com/2016/01/07/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2016/#232,,232
+AFG227,Afghanistan ,07-05-2016,Obama,Unknown,Kot,Nangarhar,"Unknown, Kot, Nangarhar, Afghanistan","34.263148,70.788209",,,"Kot, Nangarhar, Afghanistan","34.263148,70.788209",34.263148,70.788209,US strike,1,0,0,-,ISIS,Night,-,1,1,12,12,0,0,0,0,0,0,https://www.thebureauinvestigates.com/2016/01/07/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2016/#233,,233
+AFG228,Afghanistan ,07-08-2016,Obama,Unknown,Achin,Nangarhar,"Unknown, Achin, Nangarhar, Afghanistan","34.08218,70.667034",,,"Achin, Nangarhar, Afghanistan","34.08218,70.667034",34.08218,0.667034,US strike,1,0,0,-,ISIS,-,-,1,1,16,16,0,0,0,0,0,0,https://www.thebureauinvestigates.com/2016/01/07/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2016/#234,,234
+AFG229,Afghanistan ,07-09-2016,Obama,Mamond Dara,Achin,Nangarhar,"Mamond Dara, Achin, Nangarhar, Afghanistan","34.215777,71.026004",,,"Mamond Dara, Achin, Nangarhar, Afghanistan","34.215777,71.026004",34.215777,71.026004,US strike,1,1,0,CT,IS/TTP,-,-,1,1,4,8,0,0,0,0,0,0,https://www.thebureauinvestigates.com/2016/01/07/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2016/#235,,235
+AFG230,Afghanistan ,07-09-2016,Obama,Unknown,Kot,Nangarhar,"Unknown, Kot, Nangarhar, Afghanistan","34.263148,70.788209",,,"Kot, Nangarhar, Afghanistan","34.263148,70.788209",34.263148,70.788209,US strike,0,1,1,CT,-,-,-,1,1,0,0,0,0,0,0,0,0,https://www.thebureauinvestigates.com/2016/01/07/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2016/#236,,236
+AFG231,Afghanistan ,07-11-2016,Obama,Unknown,Achin,Nangarhar,"Unknown, Achin, Nangarhar, Afghanistan","34.08218,70.667034",,,"Achin, Nangarhar, Afghanistan","34.08218,70.667034",34.08218,0.667034,US strike,1,0,0,-,ISIS,-,-,1,1,4,4,0,0,0,0,0,0,https://www.thebureauinvestigates.com/2016/01/07/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2016/#238,,238
+AFG232,Afghanistan ,07-13-2016,Obama,Mamond Dara,Achin,Nangarhar,"Mamond Dara, Achin, Nangarhar, Afghanistan","34.215777,71.026004",,,"Mamond Dara, Achin, Nangarhar, Afghanistan","34.215777,71.026004",34.215777,71.026004,US strike,1,0,0,-,ISIS,-,-,1,1,12,12,0,0,0,0,0,0,https://www.thebureauinvestigates.com/2016/01/07/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2016/#239,,239
+AFG233,Afghanistan ,07-13-2016,Obama,"Kharawa, Landai and Kochiano-ghnodai",Achin,Nangarhar,"Kharawa, Landai and Kochiano-ghnodai, Achin, Nangarhar, Afghanistan","34.08218,70.667034",,,"Kharawa, Landai and Kochiano-ghnodai, Achin, Nangarhar, Afghanistan","34.08218,70.667034",34.08218,0.667034,US strike,1,0,0,-,ISIS,-,Radio station,3,3,26,26,0,0,0,0,0,0,https://www.thebureauinvestigates.com/2016/01/07/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2016/#240,,240
+AFG234,Afghanistan ,07-14-2016,Obama,Bandar Khwar and Dah Sarak,Achin,Nangarhar,"Bandar Khwar and Dah Sarak, Achin, Nangarhar, Afghanistan","34.08218,70.667034",,,"Bandar Khwar and Dah Sarak, Achin, Nangarhar, Afghanistan","34.08218,70.667034",34.08218,0.667034,US strike,1,0,0,-,ISIS,-,-,2,2,12,12,0,0,0,0,2,2,https://www.thebureauinvestigates.com/2016/01/07/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2016/#241,,241
+AFG235,Afghanistan ,07-14-2016,Obama,Peera Khel,Khogyani,Nangarhar,"Peera Khel, Khogyani, Nangarhar, Afghanistan","34.229212,70.193208",,,"Peera Khel, Khogyani, Nangarhar, Afghanistan","34.229212,70.193208",34.229212,70.193208,US strike,1,0,0,-,Taliban,-,-,1,1,4,4,0,0,0,0,3,3,https://www.thebureauinvestigates.com/2016/01/07/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2016/#248,,248
+AFG236,Afghanistan ,07-15-2016,Obama,Reg Shahidan,Maiwand,Helmand,"Reg Shahidan, Maiwand, Helmand, Afghanistan","31.363647,63.958611",,,"Reg Shahidan, Maiwand, Helmand, Afghanistan","31.363647,63.958611",31.363647,63.958611,US strike,1,0,0,-,Taliban/smugglers,Night,Vehicles,1,1,30,30,0,0,0,0,2,2,https://www.thebureauinvestigates.com/2016/01/07/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2016/#242,,242
+AFG237,Afghanistan ,07-16-2016,Obama,Spin Zaea,Nazyano,Nangarhar,"Spin Zaea, Nazyano, Nangarhar, Afghanistan","34.171831,70.621679",,,"Spin Zaea, Nazyano, Nangarhar, Afghanistan","34.171831,70.621679",34.171831,70.621679,US strike,1,0,0,-,ISIS,Late,-,1,1,15,15,0,0,0,0,0,0,https://www.thebureauinvestigates.com/2016/01/07/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2016/#243,,243
+AFG238,Afghanistan ,07-16-2016,Obama,Unknown,Achin,Nangarhar,"Unknown, Achin, Nangarhar, Afghanistan","34.08218,70.667034",,,"Achin, Nangarhar, Afghanistan","34.08218,70.667034",34.08218,0.667034,US strike,1,0,0,-,ISIS,-,Hideout,1,1,6,6,0,0,0,0,0,0,https://www.thebureauinvestigates.com/2016/01/07/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2016/#244,,244
+AFG239,Afghanistan ,07-19-2016,Obama,Sangin,Sangin,Helmand,"Sangin, Sangin, Helmand, Afghanistan","32.071099,64.852586",,,"Sangin, Sangin, Helmand, Afghanistan","32.071099,64.852586",32.071099,64.852586,US strike,0,1,1,-,Taliban,-,-,2,2,0,0,0,0,0,0,0,0,https://www.thebureauinvestigates.com/2016/01/07/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2016/#245,,245
+AFG240,Afghanistan ,07-19-2016,Obama,Bandar,Achin,Nangarhar,"Bandar, Achin, Nangarhar, Afghanistan","34.08218,70.667034",,,"Bandar, Achin, Nangarhar, Afghanistan","34.08218,70.667034",34.08218,0.667034,US strike,1,0,0,-,ISIS,Night,-,1,1,5,5,0,0,0,0,0,0,https://www.thebureauinvestigates.com/2016/01/07/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2016/#246,,246
+AFG241,Afghanistan ,07-20-2016,Obama,Unknown,Achin,Nangarhar,"Unknown, Achin, Nangarhar, Afghanistan","34.08218,70.667034",,,"Achin, Nangarhar, Afghanistan","34.08218,70.667034",34.08218,0.667034,US strike,1,0,0,-,Taliban,-,-,1,1,15,15,0,0,0,0,0,0,https://www.thebureauinvestigates.com/2016/01/07/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2016/#247,,247
+AFG242,Afghanistan ,07-23-2016,Obama,Unknown,Achin,Nangarhar,"Unknown, Achin, Nangarhar, Afghanistan","34.08218,70.667034",,,"Achin, Nangarhar, Afghanistan","34.08218,70.667034",34.08218,0.667034,US strike,1,0,0,-,ISIS,Night,-,1,1,8,8,0,0,0,0,0,0,https://www.thebureauinvestigates.com/2016/01/07/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2016/#249,,249
+AFG243,Afghanistan ,07-23-2016,Obama,Unknown,Achin,Nangarhar,"Unknown, Achin, Nangarhar, Afghanistan","34.08218,70.667034",,,"Achin, Nangarhar, Afghanistan","34.08218,70.667034",34.08218,0.667034,US strike,0,1,1,CT,ISIS,-,-,2,2,0,0,0,0,0,0,0,0,https://www.thebureauinvestigates.com/2016/01/07/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2016/#250,,250
+AFG244,Afghanistan ,07-26-2016,Obama,Unknown,Achin,Nangarhar,"Unknown, Achin, Nangarhar, Afghanistan","34.08218,70.667034",,,"Achin, Nangarhar, Afghanistan","34.08218,70.667034",34.08218,0.667034,US strike,0,1,0,CT,ISIS,-,-,1,1,1,1,0,0,0,0,0,0,https://www.thebureauinvestigates.com/2016/01/07/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2016/#255,,255
+AFG245,Afghanistan ,07-27-2016,Obama,Pekhi Kali,Achin,Nangarhar,"Pekhi Kali, Achin, Nangarhar, Afghanistan","34.08218,70.667034",,,"Pekhi Kali, Achin, Nangarhar, Afghanistan","34.08218,70.667034",34.08218,0.667034,US strike,1,0,0,-,ISIS,-,Hideout,1,1,6,6,0,0,0,0,3,3,https://www.thebureauinvestigates.com/2016/01/07/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2016/#251,,251
+AFG246,Afghanistan ,07-27-2016,Obama,Milwa Kand,Nazian,Nangarhar,"Milwa Kand, Nazian, Nangarhar, Afghanistan","34.171831,70.621679",,,"Milwa Kand, Nazian, Nangarhar, Afghanistan","34.171831,70.621679",34.171831,70.621679,US strike,1,0,0,-,ISIS,-,Hideout,1,1,2,2,0,0,0,0,0,0,https://www.thebureauinvestigates.com/2016/01/07/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2016/#252,,252
+AFG247,Afghanistan ,07-31-2016,Obama,Unknown,Unknown,Unknown,"Unknown, Unknown, Unknown, Afghanistan",Unknown,Unknown,,Unknown,Unknown ,#VALUE!,#VALUE!,US strike,0,1,1,-,-,-,-,63,63,0,0,0,0,0,0,0,0,https://www.thebureauinvestigates.com/2016/01/07/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2016/#298,,298
+AFG248,Afghanistan ,08-01-2016,Obama,Zarghoon village,Nad Ali,Helmand,"Zarghoon village, Nad Ali, Helmand, Afghanistan","31.664217,64.266149",,,"Zarghoon village, Nad Ali, Helmand, Afghanistan","31.664217,64.266149",31.664217,64.266149,US strike,1,0,0,-,Taliban,Night,-,1,1,2,2,0,0,0,0,0,0,https://www.thebureauinvestigates.com/2016/01/07/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2016/#253,,253
+AFG249,Afghanistan ,08-11-2016,Obama,Unknown,Unknown,Helmand,"Unknown, Unknown, Helmand, Afghanistan","31.363647,63.958611",,,"Helmand, Afghanistan","31.363647,63.958611",31.363647,63.958611,US strike,1,1,0,-,-,-,-,25,25,0,0,0,0,0,0,0,0,https://www.thebureauinvestigates.com/2016/01/07/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2016/#254,,254
+AFG250,Afghanistan ,08-12-2016,Obama,Unknown,Khoshamand,Paktika,"Unknown, Khoshamand, Paktika, Afghanistan","32.264538,68.524714",,,"Khoshamand, Paktika, Afghanistan","32.264538,68.524714",32.264538,68.524714,US strike,1,0,0,-,Taliban,-,House,1,1,20,25,0,5,0,4,25,25,https://www.thebureauinvestigates.com/2016/01/07/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2016/#256,,256
+AFG251,Afghanistan ,08-13-2016,Obama,Pekha,Achin,Nangarhar,"Pekha, Achin, Nangarhar, Afghanistan","34.08218,70.667034",,,"Pekha, Achin, Nangarhar, Afghanistan","34.08218,70.667034",34.08218,0.667034,US strike,1,0,0,-,ISIS,Night,-,1,1,2,2,0,0,0,0,0,0,https://www.thebureauinvestigates.com/2016/01/07/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2016/#257,,257
+AFG252,Afghanistan ,08-22-2016,Obama,Unknown,Kot,Nangarhar,"Unknown, Kot, Nangarhar, Afghanistan","34.263148,70.788209",,,"Kot, Nangarhar, Afghanistan","34.263148,70.788209",34.263148,70.788209,US strike,1,0,0,-,ISIS,-,-,1,1,4,4,0,0,0,0,0,0,https://www.thebureauinvestigates.com/2016/01/07/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2016/#260,,260
+AFG253,Afghanistan ,08-24-2016,Obama,Unknown,Unknown,Kunduz,"Unknown, Unknown, Kunduz, Afghanistan","36.728590,68.868066",,,"Kunduz, Afghanistan","36.728590,68.868066",36.728590,68.868066,US strike,0,1,1,-,-,-,-,10,10,0,0,0,0,0,0,0,0,https://www.thebureauinvestigates.com/2016/01/07/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2016/#261,,261
+AFG254,Afghanistan ,08-25-2016,Obama,Unknown,Nad Ali,Helmand,"Unknown, Nad Ali, Helmand, Afghanistan","31.664217,64.266149",,,"Nad Ali, Helmand, Afghanistan","31.664217,64.266149",31.664217,64.266149,US strike,1,1,0,-,Taliban,Night,Taliban HQ and bomb making factory or prison,2,2,24,32,0,8,0,0,0,0,https://www.thebureauinvestigates.com/2016/01/07/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2016/#258,,258
+AFG255,Afghanistan ,08-29-2016,Obama,Unknown,Jani Khil,Paktia,"Unknown, Jani Khil, Paktia, Afghanistan","33.633852,69.835915",,,"Jani Khil, Paktia, Afghanistan","33.633852,69.835915",33.633852,69.835915,US strike,1,1,0,SE,Taliban,-,-,4,4,8,120,0,0,0,0,0,0,https://www.thebureauinvestigates.com/2016/01/07/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2016/#259,,259
+AFG256,Afghanistan ,08-30-2016,Obama,Unknown,Lal Pura,Nangarhar,"Unknown, Lal Pura, Nangarhar, Afghanistan","34.354216,70.954680",,,"Lal Pura, Nangarhar, Afghanistan","34.354216,70.954680",34.354216,70.954680,US strike,0,0,0,-,Taliban,-,-,1,1,6,6,0,0,0,0,3,3,https://www.thebureauinvestigates.com/2016/01/07/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2016/#262,,262
+AFG257,Afghanistan ,08-31-2016,Obama,Unknown,Deh Bala,Nangarhar,"Unknown, Deh Bala, Nangarhar, Afghanistan","34.092630,70.469224",,,"Deh Bala, Nangarhar, Afghanistan","34.092630,70.469224",34.092630,70.469224,US strike,0,0,0,-,ISIS,-,-,8,8,17,17,0,0,0,0,0,0,https://www.thebureauinvestigates.com/2016/01/07/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2016/#263,,263
+AFG258,Afghanistan ,08-31-2016,Obama,Unknown,Unknown,Unknown,"Unknown, Unknown, Unknown, Afghanistan",Unknown,Unknown,,Unknown,Unknown,#VALUE!,#VALUE!,US strike,0,1,1,-,-,-,-,26,26,0,0,0,0,0,0,0,0,https://www.thebureauinvestigates.com/2016/01/07/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2016/#266,,266
+AFG259,Afghanistan ,09-02-2016,Obama,Keen Kalai,Spera,Khost,"Keen Kalai, Spera, Khost, Afghanistan","32.8078448,68.6456967","Spera, Khost, Afghanistan",,"Spera, Khost, Afghanistan","32.8078448,68.6456967",32.8078448,68.6456967,US strike,0,0,0,-,Haqqani,10:00,-,1,1,7,7,0,0,0,0,0,0,https://www.thebureauinvestigates.com/2016/01/07/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2016/#264,,264
+AFG260,Afghanistan ,09-09-2016,Obama,Tarin Kot,Tarin Kot,Uruzgan,"Tarin Kot, Tarin Kot, Uruzgan, Afghanistan","32.666404,65.903629",,,"Tarin Kot, Tarin Kot, Uruzgan, Afghanistan","32.666404,65.903629",32.666404,65.903629,US strike,0,0,0,SE,-,-,-,3,3,0,0,0,0,0,0,0,0,https://www.thebureauinvestigates.com/2016/01/07/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2016/#267,,267
+AFG261,Afghanistan ,09-10-2016,Obama,Qarya e Surkh,Khak e Safid,Farah,"Qarya e Surkh, Khak e Safid, Farah, Afghanistan","32.677851,61.981391",,,"Qarya e Surkh, Khak e Safid, Farah, Afghanistan","32.677851,61.981391",32.677851,61.981391,US strike,1,0,0,-,-,Night,Militant hideout,1,1,4,4,0,0,0,0,0,0,https://www.thebureauinvestigates.com/2016/01/07/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2016/#265,,265
+AFG262,Afghanistan ,09-17-2016,Obama,Unknown,Unknown,Uruzgan,"Unknown, Unknown, Uruzgan, Afghanistan","32.927128,66.141526",,,"Uruzgan, Afghanistan","32.927128,66.141526",32.927128,66.141526,US strike,0,1,1,5 SE 1 CT,-,-,-,6,6,0,0,0,0,0,0,0,0,https://www.thebureauinvestigates.com/2016/01/07/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2016/#269,,269
+AFG263,Afghanistan ,09-18-2016,Obama,Saki,Tarin Kot,Uruzgan,"Saki, Tarin Kot, Uruzgan, Afghanistan","32.666404,65.903629",,,"Saki, Tarin Kot, Uruzgan, Afghanistan","32.666404,65.903629",32.666404,65.903629,US strike,0,1,0,FP,-,Night,-,2,2,7,8,0,0,0,0,0,0,https://www.thebureauinvestigates.com/2016/01/07/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2016/#268,,268
+AFG264,Afghanistan ,09-22-2016,Obama,Dastandar,Kot,Nangarhar,"Dastandar, Kot, Nangarhar, Afghanistan","34.263148,70.788209",,,"Dastandar, Kot, Nangarhar, Afghanistan","34.263148,70.788209",34.263148,70.788209,US strike,0,0,0,-,-,Night,Vehicle,1,1,7,7,0,0,0,0,0,0,https://www.thebureauinvestigates.com/2016/01/07/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2016/#270,,270
+AFG265,Afghanistan ,09-22-2016,Obama,Spinajai,Nazyan,Nangarhar,"Spinajai, Nazyan, Nangarhar, Afghanistan","34.118171,70.752529",,,"Spinajai, Nazyan, Nangarhar, Afghanistan","34.118171,70.752529",34.118171,70.752529,US strike,0,0,0,-,ISIS,Night,-,1,1,5,5,0,0,0,0,0,0,https://www.thebureauinvestigates.com/2016/01/07/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2016/#271,,271
+AFG266,Afghanistan ,09-22-2016,Obama,Tawar Tangi,Hesarak,Nangarhar,"Tawar Tangi, Hesarak, Nangarhar, Afghanistan","34.283562,69.883565",,,"Tawar Tangi, Hesarak, Nangarhar, Afghanistan","34.283562,69.883565",34.283562,69.883565,US strike,0,0,0,-,Taliban,Night,-,1,1,18,18,0,0,0,0,6,6,https://www.thebureauinvestigates.com/2016/01/07/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2016/#272,,272
+AFG267,Afghanistan ,09-24-2016,Obama,Unknown,Bermal,Paktika,"Unknown, Bermal, Paktika, Afghanistan","32.746111,69.297777",,,"Bermal, Paktika, Afghanistan","32.746111,69.297777",32.746111,69.297777,US strike,0,1,1,-,-,-,-,1,1,0,0,0,0,0,0,0,0,https://www.thebureauinvestigates.com/2016/01/07/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2016/#273,,273
+AFG268,Afghanistan ,09-25-2016,Obama,Unknown,Bermal,Paktika,"Unknown, Bermal, Paktika, Afghanistan","32.746111,69.297777",,,"Bermal, Paktika, Afghanistan","32.746111,69.297777",32.746111,69.297777,US strike,0,1,1,-,-,-,-,1,1,0,0,0,0,0,0,0,0,https://www.thebureauinvestigates.com/2016/01/07/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2016/#274,,274
+AFG269,Afghanistan ,09-28-2016,Obama,Unknown,Achin,Nangarhar,"Unknown, Achin, Nangarhar, Afghanistan","34.08218,70.667034",,,"Achin, Nangarhar, Afghanistan","34.08218,70.667034",34.08218,0.667034,US strike,1,1,0,CT,ISIS,03:00,House,1,1,18,21,15,15,0,0,13,27,https://www.thebureauinvestigates.com/2016/01/07/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2016/#275,,275
+AFG270,Afghanistan ,09-30-2016,Obama,Unknown,Unknown,Unknown,"Unknown, Unknown, Unknown, Afghanistan",Unknown,Unknown,,Unknown,Unknown,#VALUE!,#VALUE!,US strike,0,1,1,-,-,-,-,121,121,0,0,0,0,0,0,0,0,https://www.thebureauinvestigates.com/2016/01/07/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2016/#277,,277
+AFG271,Afghanistan ,10-03-2016,Obama,Unknown,Kunduz city,Kunduz,"Unknown, Kunduz city, Kunduz, Afghanistan","36.728590,68.868066",,,"Kunduz city, Kunduz, Afghanistan","36.728590,68.868066",36.728590,68.868066,US strike,0,1,1,-,Taliban,-,-,12,12,0,0,0,0,0,0,0,0,https://www.thebureauinvestigates.com/2016/01/07/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2016/#278,,278
+AFG272,Afghanistan ,10-03-2016,Obama,Unknown,Nawa-i-Barakzayi,Helmand,"Unknown, Nawa-i-Barakzayi, Helmand, Afghanistan","31.477710,64.289821",,,"Nawa-i-Barakzayi, Helmand, Afghanistan","31.477710,64.289821",31.477710,64.289821,"US air operation with use of drone, F16 jets and Apache helicopter",1,1,0,-,Taliban,-,-,3,3,12,12,0,0,0,0,0,0,https://www.thebureauinvestigates.com/2016/01/07/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2016/#280,,280
+AFG273,Afghanistan ,10-04-2016,Obama,Abdul Khel,Achin,Nangarhar,"Abdul Khel, Achin, Nangarhar, Afghanistan","34.053888,70.696111",,,"Abdul Khel, Achin, Nangarhar, Afghanistan","34.053888,70.696111",34.053888,70.696111,US strike,1,0,0,-,ISIS,-,-,1,1,13,13,0,0,0,0,2,2,https://www.thebureauinvestigates.com/2016/01/07/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2016/#276,,276
+AFG274,Afghanistan ,10-08-2016,Obama,Unknown,Achin and Deh Bala,Nangarhar,"Unknown, Achin and Deh Bala, Nangarhar, Afghanistan","34.092630,70.469224",,,"Achin and Deh Bala, Nangarhar, Afghanistan","34.092630,70.469224",34.092630,70.469224,US strike,0,1,1,-,-,-,-,6,6,0,0,0,0,0,0,0,0,https://www.thebureauinvestigates.com/2016/01/07/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2016/#279,,279
+AFG275,Afghanistan ,10-17-2016,Obama,Unknown,Farah and Bakwah,Farah,"Unknown, Farah and Bakwah, Farah, Afghanistan","32.230824,62.920591",,,"Farah and Bakwah, Farah, Afghanistan","32.230824,62.920591",32.230824,62.920591,US strike,0,1,0,FP,Taliban,-,-,6,6,70,70,0,0,0,0,30,30,https://www.thebureauinvestigates.com/2016/01/07/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2016/#281,,281
+AFG276,Afghanistan ,10-19-2016,Obama,Unknown,Seyagerd,Parwan,"Unknown, Seyagerd, Parwan, Afghanistan","34.963097,68.810884",,,"Seyagerd, Parwan, Afghanistan","34.963097,68.810884",34.963097,68.810884,US strike,1,0,0,-,Taliban,-,-,1,1,8,8,0,0,0,0,0,0,https://www.thebureauinvestigates.com/2016/01/07/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2016/#282,,282
+AFG277,Afghanistan ,10-22-2016,Obama,Koz-Pachir village,Pachiragam,Nangarhar,"Koz-Pachir village, Pachiragam, Nangarhar, Afghanistan","34.074090,70.288452",,,"Koz-Pachir village, Pachiragam, Nangarhar, Afghanistan","34.074090,70.288452",34.074090,70.288452,US strike,1,1,0,-,-,Before noon,-,1,1,5,5,0,0,0,0,0,0,https://www.thebureauinvestigates.com/2016/01/07/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2016/#283,,283
+AFG278,Afghanistan ,10-23-2016,Obama,Unknown,Unknown,Kunduz,"Unknown, Unknown, Kunduz, Afghanistan","36.728590,68.868066",,,"Kunduz, Afghanistan","36.728590,68.868066",36.728590,68.868066,US strike,1,1,0,CT,al Qaeda,-,command-and-control locations,1,1,3,3,0,0,0,0,0,0,https://www.thebureauinvestigates.com/2016/01/07/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2016/#284,,284
+AFG279,Afghanistan ,10-28-2016,Obama,Unknown,Sherzad,Nangarhar,"Unknown, Sherzad, Nangarhar, Afghanistan","34.273230,70.074131",,,"Sherzad, Nangarhar, Afghanistan","34.273230,70.074131",34.273230,70.074131,US strike,0,1,0,FP,Taliban,-,House,1,1,2,4,2,4,0,0,0,30,https://www.thebureauinvestigates.com/2016/01/07/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2016/#285,,285
+AFG280,Afghanistan ,10-28-2016,Obama,Aligal village,Ghaziabad,Kunar,"Aligal village, Ghaziabad, Kunar, Afghanistan","34.846589,71.097316",,,"Aligal village, Ghaziabad, Kunar, Afghanistan","34.846589,71.097316",34.846589,71.097316,US strike,1,0,0,-,Insurgents,Late,-,1,1,5,5,0,0,0,0,0,0,https://www.thebureauinvestigates.com/2016/01/07/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2016/#286,,286
+AFG281,Afghanistan ,10-30-2016,Obama,Janjal Shaga and Shaistagar,Achin,Nangarhar,"Janjal Shaga and Shaistagar, Achin, Nangarhar, Afghanistan","34.08218,70.667034",,,"Janjal Shaga and Shaistagar, Achin, Nangarhar, Afghanistan","34.08218,70.667034",34.08218,0.667034,US helicopter strikes,0,0,0,-,ISIS,Night,Heavy machine gun destroyed,2,2,11,11,0,0,0,0,0,0,https://www.thebureauinvestigates.com/2016/01/07/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2016/#287,,287
+AFG282,Afghanistan ,10-31-2016,Obama,Unknown,Dangam and Ghaziabad,Kunar,"Unknown, Dangam and Ghaziabad, Kunar, Afghanistan","35.002193,71.406187",,,"Dangam and Ghaziabad, Kunar, Afghanistan","35.002193,71.406187",35.002193,71.406187,US strike,0,0,0,-,Insurgents,-,-,2,2,9,9,0,0,0,0,0,0,https://www.thebureauinvestigates.com/2016/01/07/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2016/#288,,288
+AFG283,Afghanistan ,10-31-2016,Obama,Unknown,Unknown,Unknown,"Unknown, Unknown, Unknown, Afghanistan",Unknown,Unknown,,Unknown,Unknown,#VALUE!,#VALUE!,US strike,0,1,1,-,-,-,-,138,138,0,0,0,0,0,0,0,0,https://www.thebureauinvestigates.com/2016/01/07/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2016/#296,,296
+AFG284,Afghanistan ,11-03-2016,Obama,Boz village,Kunduz city,Kunduz,"Boz village, Kunduz city, Kunduz, Afghanistan","36.728590,68.868066",,,"Boz village, Kunduz city, Kunduz, Afghanistan","36.728590,68.868066",36.728590,68.868066,US strike,0,1,0,FP,-,Early morning,Civilian houses,2,2,58,59,32,33,20,20,53,62,https://www.thebureauinvestigates.com/2016/01/07/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2016/#289,,289
+AFG285,Afghanistan ,11-04-2016,Obama,Diwal-i-Surkh,Khak e Safid,Farah,"Diwal-i-Surkh, Khak e Safid, Farah, Afghanistan","32.677851,61.981391",,,"Diwal-i-Surkh, Khak e Safid, Farah, Afghanistan","32.677851,61.981391",32.677851,61.981391,US strike,1,0,0,-,Taliban,Afternoon,-,1,1,5,5,0,0,0,0,0,0,https://www.thebureauinvestigates.com/2016/01/07/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2016/#290,,290
+AFG286,Afghanistan ,11-09-2016,Obama,Mamandara area,Achin,Nangarhar,"Mamandara area, Achin, Nangarhar, Afghanistan","34.08218,70.667034",,,"Mamandara area, Achin, Nangarhar, Afghanistan","34.08218,70.667034",34.08218,0.667034,US strike,1,0,0,-,Taliban and Isis,Late night,-,1,2,11,14,0,0,0,0,0,0,https://www.thebureauinvestigates.com/2016/01/07/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2016/#291,,291
+AFG287,Afghanistan ,11-11-2016,Obama,Mamandara and Moragi areas,Achin,Nangarhar,"Mamandara and Moragi areas, Achin, Nangarhar, Afghanistan","34.08218,70.667034",,,"Mamandara and Moragi areas, Achin, Nangarhar, Afghanistan","34.08218,70.667034",34.08218,0.667034,US strike,0,0,0,-,ISIS,Overnight,-,2,2,13,14,0,0,0,0,0,0,https://www.thebureauinvestigates.com/2016/01/07/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2016/#293,,293
+AFG288,Afghanistan ,11-12-2016,Obama,Lataband area,Achin,Nangarhar,"Lataband area, Achin, Nangarhar, Afghanistan","34.08218,70.667034",,,"Lataband area, Achin, Nangarhar, Afghanistan","34.08218,70.667034",34.08218,0.667034,US strike,1,0,0,-,ISIS,Late night,-,1,1,13,13,0,0,0,0,0,0,https://www.thebureauinvestigates.com/2016/01/07/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2016/#292,,292
+AFG289,Afghanistan ,11-18-2016,Obama,Lagharjoi area,Kot,Nangarhar,"Lagharjoi area, Kot, Nangarhar, Afghanistan","34.263148,70.788209",,,"Lagharjoi area, Kot, Nangarhar, Afghanistan","34.263148,70.788209",34.263148,70.788209,US strike,1,0,0,-,ISIS,Late night,-,1,1,7,7,0,0,0,0,0,0,https://www.thebureauinvestigates.com/2016/01/07/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2016/#293,,293
+AFG290,Afghanistan ,11-19-2016,Obama,Shah Karez,Zumat,Paktia,"Shah Karez, Zumat, Paktia, Afghanistan","33.706199,69.383107",,,"Shah Karez, Zumat, Paktia, Afghanistan","33.706199,69.383107",33.706199,69.383107,US strike,1,0,0,-,Taliban,-,-,1,1,1,1,0,0,0,0,2,2,https://www.thebureauinvestigates.com/2016/01/07/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2016/#294,,294
+AFG291,Afghanistan ,11-20-2016,Obama,Mamandari,Achin,Nangarhar,"Mamandari, Achin, Nangarhar, Afghanistan","34.08218,70.667034",,,"Mamandari, Achin, Nangarhar, Afghanistan","34.08218,70.667034",34.08218,0.667034,US strike,1,0,0,-,ISIS,Late night,-,1,1,2,2,0,0,0,0,0,0,https://www.thebureauinvestigates.com/2016/01/07/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2016/#295,,295
+AFG292,Afghanistan ,11-27-2016,Obama,Gorgori,Haska Mena,Nangarhar,"Gorgori, Haska Mena, Nangarhar, Afghanistan","34.171831,70.621679",,,"Gorgori, Haska Mena, Nangarhar, Afghanistan","34.171831,70.621679",34.171831,70.621679,US strike,1,0,0,-,ISIS,11:00 or afternoon,-,1,1,7,7,0,0,0,0,3,3,https://www.thebureauinvestigates.com/2016/01/07/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2016/#297,,297
+AFG293,Afghanistan ,12-01-2016,Obama,Langari,Haska Mena,Nangarhar,"Langari, Haska Mena, Nangarhar, Afghanistan","34.171831,70.621679",,,"Langari, Haska Mena, Nangarhar, Afghanistan","34.171831,70.621679",34.171831,70.621679,US strike,1,0,0,-,ISIS,Late,Hideout,1,1,7,7,0,0,0,0,0,0,https://www.thebureauinvestigates.com/2016/01/07/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2016/#298,,298
+AFG294,Afghanistan ,12-15-2016,Obama,Kharga,Haska Mena,Nangarhar,"Kharga, Haska Mena, Nangarhar, Afghanistan","34.3765144,69.7664802",,,"Kharga, Haska Mena, Nangarhar, Afghanistan","34.3765144,69.7664802",34.3765144,69.7664802,US strike,1,0,0,-,ISIS,-,-,1,1,4,6,0,0,0,0,0,0,https://www.thebureauinvestigates.com/2016/01/07/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2016/#299,,299
+AFG295,Afghanistan ,12-15-2016,Obama,Pekha,Achin,Nangarhar,"Pekha, Achin, Nangarhar, Afghanistan","34.08218,70.667034",,,"Pekha, Achin, Nangarhar, Afghanistan","34.08218,70.667034",34.08218,0.667034,US strike,1,0,0,-,ISIS,-,-,1,1,2,2,0,0,0,0,0,0,https://www.thebureauinvestigates.com/2016/01/07/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2016/#300,,300
+AFG296,Afghanistan ,12-24-2016,Obama,Ambarkhani,Bati Kot,Nangarhar,"Ambarkhani, Bati Kot, Nangarhar, Afghanistan","34.263148,70.788209",,,"Ambarkhani, Bati Kot, Nangarhar, Afghanistan","34.263148,70.788209",34.263148,70.788209,US strike,1,0,0,-,Taliban,-,-,1,1,1,1,0,0,0,0,4,4,https://www.thebureauinvestigates.com/2016/01/07/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2016/#301,,301
+AFG297,Afghanistan ,12-24-2016,Obama,Bandar,Achin,Nangarhar,"Bandar, Achin, Nangarhar, Afghanistan","34.08218,70.667034",,,"Bandar, Achin, Nangarhar, Afghanistan","34.08218,70.667034",34.08218,0.667034,US strike,1,0,0,-,"""Foreign rebels""",-,-,1,1,2,2,0,0,0,0,0,0,https://www.thebureauinvestigates.com/2016/01/07/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2016/#302,,302
+AFG298,Afghanistan ,12-27-2016,Obama,Langar Kandaw,Achin,Nangarhar,"Langar Kandaw, Achin, Nangarhar, Afghanistan","34.08218,70.667034",,,"Langar Kandaw, Achin, Nangarhar, Afghanistan","34.08218,70.667034",34.08218,0.667034,US strike,1,0,0,-,ISIS,-,-,1,1,3,3,0,0,0,0,0,0,https://www.thebureauinvestigates.com/2016/01/07/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2016/#303,,303
+AFG299,Afghanistan ,12-28-2016,Obama,Papin,Haska Mena,Nangarhar,"Papin, Haska Mena, Nangarhar, Afghanistan","34.101429,70.383056",,,"Papin, Haska Mena, Nangarhar, Afghanistan","34.101429,70.383056",34.101429,70.383056,US strike,1,0,0,-,ISIS,Early morning,-,1,1,2,2,0,0,0,0,1,1,https://www.thebureauinvestigates.com/2016/01/07/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2016/#304,,304
+AFG300,Afghanistan ,12-28-2016,Obama,Gandi-Bagh,Charparhar,Nangarhar,"Gandi-Bagh, Charparhar, Nangarhar, Afghanistan","34.171831,70.621679",,,"Gandi-Bagh, Charparhar, Nangarhar, Afghanistan","34.171831,70.621679",34.171831,70.621679,US strike,1,0,0,-,Taliban,Night,-,1,1,3,3,0,0,0,0,7,7,https://www.thebureauinvestigates.com/2016/01/07/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2016/#305,,305
+AFG301,Afghanistan ,12-31-2016,Obama,Unknown,Unknown,Unknown,"Unknown, Unknown, Unknown, Afghanistan",Unknown,Unknown,,Unknown,Unknown,#VALUE!,#VALUE!,US strike,0,1,1,-,-,-,-,453,448,0,0,0,0,0,0,0,0,https://www.thebureauinvestigates.com/2016/01/07/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2016/#307,,307
+AFG302,Afghanistan ,01-10-2017,Obama,Aziz Kala,Sabri,Khost,"Aziz Kala, Sabri, Khost, Afghanistan","33.358507,69.859740",,,"Aziz Kala, Sabri, Khost, Afghanistan","33.358507,69.859740",33.358507,69.859740,US strike,1,0,0,-,Haqqani,Evening,Car,1,1,4,4,0,0,0,0,0,0,https://www.thebureauinvestigates.com/2017/01/11/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2017/306,https://www.thebureauinvestigates.com/2017/01/11/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2017/,306
+AFG303,Afghanistan ,01-15-2017,Obama,Unknown,Musa Qala,Helmand,"Unknown, Musa Qala, Helmand, Afghanistan","32.311872,64.811083",,,"Musa Qala, Helmand, Afghanistan","32.311872,64.811083",32.311872,64.811083,US strike,0,0,0,-,Taliban,-,-,1,1,15,15,0,0,0,0,10,10,https://www.thebureauinvestigates.com/2017/01/11/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2017/308,,308
+AFG304,Afghanistan ,01-20-2017,Trump,Bandr Khor,Achin,Nangarhar,"Bandr Khor, Achin, Nangarhar, Afghanistan","34.08218,70.667034",,,"Bandr Khor, Achin, Nangarhar, Afghanistan","34.08218,70.667034",34.08218,0.667034,US strike,1,0,0,-,ISIS,-,-,1,1,4,6,0,0,0,0,0,0,https://www.thebureauinvestigates.com/2017/01/11/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2017/309,,309
+AFG305,Afghanistan ,01-17-2017,Trump,Bandar,Achin,Nangarhar,"Bandar, Achin, Nangarhar, Afghanistan","34.08218,70.667034",,,"Bandar, Achin, Nangarhar, Afghanistan","34.08218,70.667034",34.08218,0.667034,US strike,1,0,0,-,-,Night,Fighters' positions,1,1,7,7,0,0,0,0,0,0,https://www.thebureauinvestigates.com/2017/01/11/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2017/311,,311
+AFG306,Afghanistan ,01-28-2017,Trump,Unknown,Unknown,Nangarhar,"Unknown, Unknown, Nangarhar, Afghanistan","34.171831,70.621679",,,"Nangarhar, Afghanistan","34.171831,70.621679",34.171831,70.621679,US strike,1,0,0,-,ISIS,-,Hideout,1,1,7,7,0,0,0,0,0,0,https://www.thebureauinvestigates.com/2017/01/11/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2017/310,,310
+AFG307,Afghanistan ,01-31-2017,Trump,Unknown,Sangin,Helmand,"Unknown, Sangin, Helmand, Afghanistan","32.071099,64.852586",,,"Sangin, Helmand, Afghanistan","32.071099,64.852586",32.071099,64.852586,US strike,0,1,1,-,Taliban,-,Taliban fighting positions,10,10,0,0,0,0,0,0,0,0,https://www.thebureauinvestigates.com/2017/01/11/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2017/312,,312
+AFG308,Afghanistan ,01-31-2017,Trump,Unknown,Unknown,Unknown,"Unknown, Unknown, Unknown, Afghanistan",Unknown,Unknown,,Unknown,Unknown,#VALUE!,#VALUE!,US strike,0,1,1,-,-,-,-,96,96,0,0,0,0,0,0,0,0,https://www.thebureauinvestigates.com/2017/01/11/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2017/315,,315
+AFG309,Afghanistan ,02-01-2017,Trump,Unknown,Achin,Nangarhar,"Unknown, Achin, Nangarhar, Afghanistan","34.08218,70.667034",,,"Achin, Nangarhar, Afghanistan","34.08218,70.667034",34.08218,0.667034,US strike,1,0,0,-,-,Morning,-,1,2,2,12,0,0,0,0,0,0,https://www.thebureauinvestigates.com/2017/01/11/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2017/313,,313
+AFG310,Afghanistan ,02-02-2017,Trump,Unknown,Unknown,Khost,"Unknown, Unknown, Khost, Afghanistan","33.333847,69.937167",,,"Khost, Afghanistan","33.333847,69.937167",33.333847,69.937167,US strike,1,0,0,-,-,-,Vehicle,1,1,5,6,0,0,0,0,0,0,https://www.thebureauinvestigates.com/2017/01/11/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2017/314,,314
+AFG311,Afghanistan ,02-03-2017,Trump,Unknown,Achin and Haska Mina,Nangarhar,"Unknown, Achin and Haska Mina, Nangarhar, Afghanistan","34.08218,70.667034",,,"Achin and Haska Mina, Nangarhar, Afghanistan","34.08218,70.667034",34.08218,0.667034,US strike,1,0,0,-,-,-,-,2,2,21,21,0,0,0,0,6,6,https://www.thebureauinvestigates.com/2017/01/11/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2017/316,,316
+AFG312,Afghanistan ,02-06-2017,Trump,Kharko area,Garamser,Helmand,"Kharko area, Garamser, Helmand, Afghanistan","31.132511,64.212898",,,"Kharko area, Garamser, Helmand, Afghanistan","31.132511,64.212898",31.132511,64.212898,US strike,0,0,0,-,-,-,-,1,1,6,6,0,0,0,0,0,0,https://www.thebureauinvestigates.com/2017/01/11/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2017/317,,317
+AFG313,Afghanistan ,02-06-2017,Trump,Char Wazi area,Haska Mena,Nangarhar,"Char Wazi area, Haska Mena, Nangarhar, Afghanistan","34.171831,70.621679",,,"Char Wazi area, Haska Mena, Nangarhar, Afghanistan","34.171831,70.621679",34.171831,70.621679,US strike,1,0,0,-,-,Night,-,1,1,2,2,0,0,0,0,3,3,https://www.thebureauinvestigates.com/2017/01/11/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2017/318,,318
+AFG314,Afghanistan ,02-08-2017,Trump,Pekhar Khor area and Nari Oba area,Achin and Haska Mena,Nangarhar,"Pekhar Khor area and Nari Oba area, Achin and Haska Mena, Nangarhar, Afghanistan","34.08218,70.667034",,,"Pekhar Khor area and Nari Oba area, Achin and Haska Mena, Nangarhar, Afghanistan","34.08218,70.667034",34.08218,0.667034,US strike,1,1,0,CT,ISIS,-,-,2,2,11,11,0,0,0,0,6,6,https://www.thebureauinvestigates.com/2017/01/11/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2017/319,,319
+AFG315,Afghanistan ,02-10-2017,Trump,Unknown,Sangin,Helmand,"Unknown, Sangin, Helmand, Afghanistan","32.071099,64.852586",,,"Sangin, Helmand, Afghanistan","32.071099,64.852586",32.071099,64.852586,US strike,0,1,0,-,-,-,-,2,3,0,68,0,26,0,19,0,6,https://www.thebureauinvestigates.com/2017/01/11/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2017/320,,320
+AFG316,Afghanistan ,02-11-2017,Trump,Unknown,Sangin,Helmand,"Unknown, Sangin, Helmand, Afghanistan","32.071099,64.852586",,,"Sangin, Helmand, Afghanistan","32.071099,64.852586",32.071099,64.852586,US strike,0,1,1,-,-,Past week,-,28,28,0,0,0,0,0,0,0,0,https://www.thebureauinvestigates.com/2017/01/11/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2017/321,,321
+AFG317,Afghanistan ,02-19-2017,Trump,Unknown,Nawa,Ghazni,"Unknown, Nawa, Ghazni, Afghanistan","32.402668,67.856978",,,"Nawa, Ghazni, Afghanistan","32.402668,67.856978",32.402668,67.856978,US strike,1,0,0,-,Taliban,-,Hideout,1,1,1,1,0,0,0,0,2,2,https://www.thebureauinvestigates.com/2017/01/11/get-the-data-a-list-of-us-air-and-drone-strikes-afghanistan-2017/322,,322
+AFG318,Afghanistan ,02-20-2017,Trump,Bandar,Achin,Nangarhar,"Bandar, Achin, Nangarhar, Afghanistan","34.08218,70.667034",,,"Bandar, Achin, Nangarhar, Afghanistan","34.08218,70.667034",34.08218,0.667034,US strike,1,0,0,-,-,-,Vehicle,1,1,12,12,0,0,0,0,0,0,,,323
+AFG319,Afghanistan ,02-23-2017,Trump,Umomi Bagh,Garamser,Helmand,"Umomi Bagh, Garamser, Helmand, Afghanistan","31.132511,64.212898",,,"Umomi Bagh, Garamser, Helmand, Afghanistan","31.132511,64.212898",31.132511,64.212898,US strike,0,0,0,-,Taliban,-,Gathering,1,1,11,11,0,0,0,0,0,0,,,324
+AFG320,Afghanistan ,02-26-2017,Trump,Unknown,Dashti Archi,Kunduz,"Unknown, Dashti Archi, Kunduz, Afghanistan","37.122858,69.158119",,,"Dashti Archi, Kunduz, Afghanistan","37.122858,69.158119",37.122858,69.158119,US strike,1,1,0,-,Taliban,15:20,-,1,1,5,9,0,0,0,0,0,0,,,325
+AFG321,Afghanistan ,02-27-2017,Trump,Sangini,Charparhar,Nangarhar,"Sangini, Charparhar, Nangarhar, Afghanistan","34.171831,70.621679",,,"Sangini, Charparhar, Nangarhar, Afghanistan","34.171831,70.621679",34.171831,70.621679,US strike,1,0,0,-,Taliban,Late night,-,1,1,2,2,0,0,0,0,3,3,,,326
+AFG322,Afghanistan ,02-28-2017,Trump,Unknown,Unknown,Unknown,"Unknown, Unknown, Unknown, Afghanistan",Unknown,Unknown,,Unknown,Unknown,#VALUE!,#VALUE!,US strike,0,1,1,-,-,-,-,118,116,0,0,0,0,0,0,0,0,,,329
+AFG323,Afghanistan ,03-01-2017,Trump,Chaknoro,Lal Pura,Nangarhar,"Chaknoro, Lal Pura, Nangarhar, Afghanistan","34.354216,70.954680",,,"Chaknoro, Lal Pura, Nangarhar, Afghanistan","34.354216,70.954680",34.354216,70.954680,US strike,1,0,0,-,-,-,-,1,1,6,6,0,0,0,0,1,1,,,327
+AFG324,Afghanistan ,03-09-2017,Trump,Lam,Between Nish and Khakriz districts,Kandahar,"Lam, Between Nish and Khakriz districts, Kandahar, Afghanistan","31.628871,65.737174",,,"Lam, Between Nish and Khakriz districts, Kandahar, Afghanistan","31.628871,65.737174",31.628871,65.737174,US strike,0,0,0,-,-,-,-,1,1,20,20,0,0,0,0,0,0,,,328
+AFG325,Afghanistan ,03-13-2017,Trump,Raasni,Gilan,Ghazni,"Raasni, Gilan, Ghazni, Afghanistan","33.5484025,68.4032319","Ghazni, Afghanistan","33.5484025,68.4032319","Ghazni, Afghanistan","33.5484025,68.4032319",33.5484025,68.4032319,US strike,1,0,0,-,-,-,Vehicles,1,1,3,3,0,0,0,0,0,0,,,330
+AFG326,Afghanistan ,03-18-2017,Trump,Unknown,Unknown,Nangarhar,"Unknown, Unknown, Nangarhar, Afghanistan","34.171831,70.621679",,,"Nangarhar, Afghanistan","34.171831,70.621679",34.171831,70.621679,US strike,0,1,1,-,-,-,-,12,12,0,0,0,0,0,0,0,0,,,331
+AFG327,Afghanistan ,03-18-2017,Trump,Unknown,Unknown,Paktika,"Unknown, Unknown, Paktika, Afghanistan","32.264538,68.524714",,,"Paktika, Afghanistan","32.264538,68.524714",32.264538,68.524714,US strike,1,1,0,-,-,-,-,2,2,2,2,0,0,0,0,0,0,,,333
+AFG328,Afghanistan ,03-19-2017,Trump,Unknown,Unknown,Nangarhar,"Unknown, Unknown, Nangarhar, Afghanistan","34.171831,70.621679",,,"Nangarhar, Afghanistan","34.171831,70.621679",34.171831,70.621679,US strike,0,1,1,-,-,-,-,20,20,0,0,0,0,0,0,0,0,,,334
+AFG329,Afghanistan ,03-19-2017,Trump,Unknown,Unknown,Paktika,"Unknown, Unknown, Paktika, Afghanistan","32.264538,68.524714",,,"Paktika, Afghanistan","32.264538,68.524714",32.264538,68.524714,US strike,1,1,0,CT,-,-,-,1,1,4,4,0,0,0,0,0,0,,,332
+AFG330,Afghanistan ,03-31-2017,Trump,Unknown,Unknown,Unknown,"Unknown, Unknown, Unknown, Afghanistan",Unknown,Unknown,,Unknown,Unknown,#VALUE!,#VALUE!,US strike,0,0,0,-,-,-,-,138,138,0,0,0,0,0,0,0,0,,,346
+AFG331,Afghanistan ,04-04-2017,Trump,Unknown,Achin,Nangarhar,"Unknown, Achin, Nangarhar, Afghanistan","34.08218,70.667034",,,"Achin, Nangarhar, Afghanistan","34.08218,70.667034",34.08218,0.667034,US strike,0,0,0,-,ISIS,-,-,1,2,3,3,3,3,2,2,4,4,,,367
+AFG332,Afghanistan ,04-09-2017,Trump,Unknown,Narkh,Maidan Wardak,"Unknown, Narkh, Maidan Wardak, Afghanistan","34.351349,68.238533",,,"Narkh, Maidan Wardak, Afghanistan","34.351349,68.238533",34.351349,68.238533,US strike,1,0,0,-,-,-,-,1,1,6,6,0,0,0,0,0,0,,,333
+AFG333,Afghanistan ,04-13-2017,Trump,Unknown,Achin,Nangarhar,"Unknown, Achin, Nangarhar, Afghanistan","34.08218,70.667034",,,"Achin, Nangarhar, Afghanistan","34.08218,70.667034",34.08218,0.667034,US strike,0,1,0,-,ISIS,19:32,Tunnels,1,1,36,100,0,0,0,0,0,0,,,334
+AFG334,Afghanistan ,04-15-2017,Trump,Unknown,Achin,Nangarhar,"Unknown, Achin, Nangarhar, Afghanistan","34.08218,70.667034",,,"Achin, Nangarhar, Afghanistan","34.08218,70.667034",34.08218,0.667034,US strike,1,0,0,-,ISIS,-,Vehicle,1,1,0,2,0,0,0,0,0,0,,,335
+AFG335,Afghanistan ,04-17-2017,Trump,Unknown,Archi,Kunduz,"Unknown, Archi, Kunduz, Afghanistan","36.932890,69.335431",,,"Archi, Kunduz, Afghanistan","36.932890,69.335431",36.932890,69.335431,US strike,0,1,0,-,Taliban,-,Compound,1,1,9,16,0,0,0,0,0,0,,,336
+AFG336,Afghanistan ,04-25-2017,Trump,Pangram area,Charkh district,Logar,"Pangram area, Charkh district, Logar, Afghanistan","33.796943,68.934585",,,"Pangram area, Charkh district, Logar, Afghanistan","33.796943,68.934585",33.796943,68.934585,US strike,1,0,0,-,-,Morning,Vehicle,1,1,2,2,0,0,0,0,5,5,,,337
+AFG337,Afghanistan ,04-26-2017,Trump,Unknown,Unknown,Nangarhar,"Unknown, Unknown, Nangarhar, Afghanistan","34.171831,70.621679",,,"Nangarhar, Afghanistan","34.171831,70.621679",34.171831,70.621679,US and Afghan raid with US strikes,0,1,1,-,ISIS,22:30,Compound,2,2,36,36,0,0,0,0,0,0,,,339
+AFG338,Afghanistan ,04-27-2017,Trump,Unknown,Unknown,Maidan Wardak,"Unknown, Unknown, Maidan Wardak, Afghanistan","34.351349,68.238533",,,"Maidan Wardak, Afghanistan","34.351349,68.238533",34.351349,68.238533,US strike,1,0,0,-,Taliban,-,-,1,1,1,1,0,0,0,0,0,0,,,338
+AFG339,Afghanistan ,04-30-2017,Trump,Unknown,Unknown,Unknown,"Unknown, Unknown, Unknown, Afghanistan",Unknown,Unknown,,Unknown,Unknown,#VALUE!,#VALUE!,Unknown,0,0,0,-,-,-,-,440,438,0,0,0,0,0,0,0,0,,,347
+AFG340,Afghanistan ,04-30-2017,Trump,Yakhchal area,Greshk,Helmand,"Yakhchal area, Greshk, Helmand, Afghanistan","31.783124,64.698461",,,"Yakhchal area, Greshk, Helmand, Afghanistan","31.783124,64.698461",31.783124,64.698461,US strike,0,0,0,-,-,Morning,-,1,2,7,7,0,0,0,0,0,0,,,339
+AFG341,Afghanistan ,05-05-2017,Trump,Unknown,Unknown,Nangarhar,"Unknown, Unknown, Nangarhar, Afghanistan","34.171831,70.621679",,,"Nangarhar, Afghanistan","34.171831,70.621679",34.171831,70.621679,US strike,1,0,0,-,ISIS,-,-,1,1,8,8,0,0,0,0,0,0,,,340
+AFG342,Afghanistan ,05-06-2017,Trump,Unknown,Maidan Shahr,Maidan Wardak,"Unknown, Maidan Shahr, Maidan Wardak, Afghanistan","34.361059,68.840692",,,"Maidan Shahr, Maidan Wardak, Afghanistan","34.361059,68.840692",34.361059,68.840692,US strike,1,0,0,-,Taliban,-,Insurgent hideout,1,1,5,6,0,0,0,0,6,6,,,341
+AFG343,Afghanistan ,05-08-2017,Trump,Unknown,Unknown,Paktia,"Unknown, Unknown, Paktia, Afghanistan","33.706199,69.383107",,,"Paktia, Afghanistan","33.706199,69.383107",33.706199,69.383107,US strike,0,0,0,-,-,-,Insurgent hideout,2,2,0,50,0,0,0,0,0,6,,,342
+AFG344,Afghanistan ,05-18-2017,Trump,Omarzo area,Garamser,Helmand,"Omarzo area, Garamser, Helmand, Afghanistan","31.132511,64.212898",,,"Omarzo area, Garamser, Helmand, Afghanistan","31.132511,64.212898",31.132511,64.212898,US strike,0,0,0,-,-,-,Insurgent hideouts,1,1,14,14,0,0,0,0,8,8,,,343
+AFG345,Afghanistan ,05-18-2017,Trump,Kamarbandi area,Garamser,Helmand,"Kamarbandi area, Garamser, Helmand, Afghanistan","31.132511,64.212898",,,"Kamarbandi area, Garamser, Helmand, Afghanistan","31.132511,64.212898",31.132511,64.212898,US strike,0,0,0,-,-,-,Two vehicles,1,1,9,9,0,0,0,0,0,0,,,344
+AFG346,Afghanistan ,05-26-2017,Trump,Unknown,Chardara,Kunduz,"Unknown, Chardara, Kunduz, Afghanistan","36.694511,68.801574",,,"Chardara, Kunduz, Afghanistan","36.694511,68.801574",36.694511,68.801574,US strike,1,0,0,-,Taliban,-,Hideout,1,2,4,13,0,0,0,0,0,0,,,345
+AFG347,Afghanistan ,05-29-2017,Trump,Spina Zhai,Nazian,Nangarhar,"Spina Zhai, Nazian, Nangarhar, Afghanistan","34.108055,70.799722",,,"Spina Zhai, Nazian, Nangarhar, Afghanistan","34.108055,70.799722",34.108055,70.799722,US strike,1,0,0,-,ISIS,-,-,1,1,3,4,0,0,0,0,0,0,,,347
+AFG348,Afghanistan ,05-30-2017,Trump,Mullah Qali area,Dasht e Archi,Kunduz,"Mullah Qali area, Dasht e Archi, Kunduz, Afghanistan","37.122858,69.158119",,,"Mullah Qali area, Dasht e Archi, Kunduz, Afghanistan","37.122858,69.158119",37.122858,69.158119,US strike,1,0,0,-,Taliban,Early morning,Hideout,1,1,7,7,0,0,0,0,0,0,,,346
+AFG349,Afghanistan ,05-31-2017,Trump,Outskirts of Tarin Kot city,Tarin Kot,Uruzgan,"Outskirts of Tarin Kot city, Tarin Kot, Uruzgan, Afghanistan","32.666404,65.903629",,,"Outskirts of Tarin Kot city, Tarin Kot, Uruzgan, Afghanistan","32.666404,65.903629",32.666404,65.903629,US strike,0,0,0,-,Taliban,Late night,-,1,1,25,25,0,0,0,0,20,20,,,348
+AFG350,Afghanistan ,05-31-2017,Trump,Unknown,Unknown,Unknown,"Unknown, Unknown, Unknown, Afghanistan",Unknown,Unknown,,Unknown,Unknown,#VALUE!,#VALUE!,US strike,0,1,1,-,-,-,-,388,387,0,0,0,0,0,0,0,0,,,347
+AFG351,Afghanistan ,06-03-2017,Trump,Unknown,Achin,Nangarhar,"Unknown, Achin, Nangarhar, Afghanistan","34.08218,70.667034",,,"Achin, Nangarhar, Afghanistan","34.08218,70.667034",34.08218,0.667034,US strike,0,1,1,-,ISIS,-,"""media production hub""",1,1,1,1,0,0,0,0,0,0,,,351
+AFG352,Afghanistan ,06-08-2017,Trump,Nargose and Chenar area,Kot,Nangarhar,"Nargose and Chenar area, Kot, Nangarhar, Afghanistan","34.263148,70.788209",,,"Nargose and Chenar area, Kot, Nangarhar, Afghanistan","34.263148,70.788209",34.263148,70.788209,US strike,0,0,0,-,ISIS,-,-,2,2,10,10,0,0,0,0,0,0,,,349
+AFG353,Afghanistan ,06-09-2017,Trump,Loy Bagh,Nad Ali,Helmand,"Loy Bagh, Nad Ali, Helmand, Afghanistan","31.626619,64.254318",,,"Loy Bagh, Nad Ali, Helmand, Afghanistan","31.626619,64.254318",31.626619,64.254318,US strike,0,1,0,-,-,-,-,1,1,2,10,0,0,0,0,0,16,,,350
+AFG354,Afghanistan ,06-22-2017,Trump,Unknown,Unknown,Nangarhar,"Unknown, Unknown, Nangarhar, Afghanistan","34.171831,70.621679",,,"Nangarhar, Afghanistan","34.171831,70.621679",34.171831,70.621679,US strike,0,1,1,-,-,-,-,9,9,0,0,0,0,0,0,0,0,,,352
+AFG355,Afghanistan ,06-29-2017,Trump,Unknown,Manogi,Kunar,"Unknown, Manogi, Kunar, Afghanistan","34.846589,71.097316",,,"Manogi, Kunar, Afghanistan","34.846589,71.097316",34.846589,71.097316,US strike,1,1,0,CT,ISIS,Late night,-,1,1,3,3,0,0,0,0,1,1,,,353
+AFG356,Afghanistan ,06-29-2017,Trump,Farooj,Khas,Uruzgan,"Farooj, Khas, Uruzgan, Afghanistan","32.929848,66.689096",,,"Farooj, Khas, Uruzgan, Afghanistan","32.929848,66.689096",32.929848,66.689096,US strike,1,1,0,SE,Taliban,-,-,1,1,2,4,0,0,0,0,0,3,,,366
+AFG357,Afghanistan ,06-30-2017,Trump,Unknown,Unknown,Unknown,"Unknown, Unknown, Unknown, Afghanistan",Unknown,Unknown,,Unknown,Unknown,#VALUE!,#VALUE!,US strike,0,1,1,-,-,-,-,292,292,0,0,0,0,0,0,0,0,,,361
+AFG358,Afghanistan ,07-01-2017,Trump,Unknown,Achin,Nangarhar,"Unknown, Achin, Nangarhar, Afghanistan","34.08218,70.667034",,,"Achin, Nangarhar, Afghanistan","34.08218,70.667034",34.08218,0.667034,US strike,1,1,0,"20 SE, 7 FP",IS,-,-,27,27,11,11,0,0,0,0,0,0,,,367
+AFG359,Afghanistan ,07-01-2017,Trump,Merkikhel,Sherzad,Nangarhar,"Merkikhel, Sherzad, Nangarhar, Afghanistan","34.273230,70.074131",,,"Merkikhel, Sherzad, Nangarhar, Afghanistan","34.273230,70.074131",34.273230,70.074131,US strike,1,1,0,FP,Taliban,21:00,Two VBIED,1,1,4,4,0,0,0,0,0,0,,,358
+AFG360,Afghanistan ,07-02-2017,Trump,"Ainak, Loykahal, Zhawar Sahib",Nawar,Helmand,"Ainak, Loykahal, Zhawar Sahib, Nawar, Helmand, Afghanistan","31.363647,63.958611",,,"Ainak, Loykahal, Zhawar Sahib, Nawar, Helmand, Afghanistan","31.363647,63.958611",31.363647,63.958611,US strike,1,1,0,-,Taliban,Night,"18 motorbikes and four cars, or two cars",1,3,1,42,0,0,0,0,0,36,,,360
+AFG361,Afghanistan ,07-02-2017,Trump,"Zabar village, Gropshash area",Nad Ali,Helmand,"Zabar village, Gropshash area, Nad Ali, Helmand, Afghanistan","31.664217,64.266149",,,"Zabar village, Gropshash area, Nad Ali, Helmand, Afghanistan","31.664217,64.266149",31.664217,64.266149,US strike,0,1,0,-,Taliban,Noon,-,1,1,15,15,0,0,0,0,9,9,,,361
+AFG362,Afghanistan ,07-07-2017,Trump,Oghz,Haska Mena,Nangarhar,"Oghz, Haska Mena, Nangarhar, Afghanistan","34.171831,70.621679",,,"Oghz, Haska Mena, Nangarhar, Afghanistan","34.171831,70.621679",34.171831,70.621679,US strike,1,0,0,-,ISIS,-,-,1,1,14,14,0,0,0,0,11,11,,,364
+AFG363,Afghanistan ,07-08-2017,Trump,Mamozo area,Zurmat,Paktia,"Mamozo area, Zurmat, Paktia, Afghanistan","33.330066,69.192391",,,"Mamozo area, Zurmat, Paktia, Afghanistan","33.330066,69.192391",33.330066,69.192391,US strike,1,0,0,-,-,Night,-,1,1,7,7,0,0,0,0,0,0,,,362
+AFG364,Afghanistan ,07-08-2017,Trump,Dawlatzai,Zurmat,Paktia,"Dawlatzai, Zurmat, Paktia, Afghanistan","33.330066,69.192391",,,"Dawlatzai, Zurmat, Paktia, Afghanistan","33.330066,69.192391",33.330066,69.192391,US strike,0,0,0,-,Taliban,Night,Hit during a clash between ANSF and Taliban,1,1,7,16,0,1,0,0,0,0,,,364
+AFG365,Afghanistan ,07-09-2017,Trump,Amber,Qaghayio,Laghman,"Amber, Qaghayio, Laghman, Afghanistan","34.689768,70.145580",,,"Amber, Qaghayio, Laghman, Afghanistan","34.689768,70.145580",34.689768,70.145580,US strike,1,0,0,-,Taliban,-,-,1,1,2,2,0,0,0,0,0,0,,,363
+AFG366,Afghanistan ,07-11-2017,Trump,Janat Bagh,Khan Abad,Kunduz,"Janat Bagh, Khan Abad, Kunduz, Afghanistan","36.681449,69.114905",,,"Janat Bagh, Khan Abad, Kunduz, Afghanistan","36.681449,69.114905",36.681449,69.114905,US strike,0,0,0,-,Taliban,Overnight,Hideout,1,1,5,5,0,0,0,0,1,1,,,365
+AFG367,Afghanistan ,07-11-2017,Trump,Unknown,Unknown,Kunar,"Unknown, Unknown, Kunar, Afghanistan","34.846589,71.097316",,,"Kunar, Afghanistan","34.846589,71.097316",34.846589,71.097316,US strike,1,1,0,CT,ISIS,-,ISIS HQ in Kunar,1,1,5,11,0,0,0,0,0,0,,,366
+AFG368,Afghanistan ,07-14-2017,Trump,Mashwani,Bati Kot,Nangarhar,"Mashwani, Bati Kot, Nangarhar, Afghanistan","34.263148,70.788209",,,"Mashwani, Bati Kot, Nangarhar, Afghanistan","34.263148,70.788209",34.263148,70.788209,US strike,1,0,0,-,Taliban,Night,Car,1,1,8,8,0,0,0,0,0,0,,,368
+AFG369,Afghanistan ,07-15-2017,Trump,Nawa,Nawa district,Helmand,"Nawa, Nawa district, Helmand, Afghanistan","31.477710,64.289821",,,"Nawa, Nawa district, Helmand, Afghanistan","31.477710,64.289821",31.477710,64.289821,US strike,0,1,1,-,Taliban,-,-,2,2,0,38,0,0,0,0,0,0,,,369
+AFG370,Afghanistan ,07-20-2017,Trump,Unknown,Watapur,Helmand,"Unknown, Watapur, Helmand, Afghanistan","34.910930,71.127398",,,"Watapur, Helmand, Afghanistan","34.910930,71.127398",34.910930,71.127398,US strike,1,0,0,-,Taliban,Overnight,-,1,1,4,4,0,0,0,0,0,0,,,370
+AFG371,Afghanistan ,07-20-2017,Trump,Unknown,Gereshk,Helmand,"Unknown, Gereshk, Helmand, Afghanistan","31.829949,64.568108",,,"Gereshk, Helmand, Afghanistan","31.829949,64.568108",31.829949,64.568108,US strike,0,1,1,-,-,-,-,10,10,0,0,0,0,0,0,0,0,,,373
+AFG372,Afghanistan ,07-21-2017,Trump,Unknown,Gereshk,Helmand,"Unknown, Gereshk, Helmand, Afghanistan","31.829949,64.568108",,,"Gereshk, Helmand, Afghanistan","31.829949,64.568108",31.829949,64.568108,US strike,0,1,1,-,Friendly fire,Afternoon,Compound,1,1,9,16,0,0,0,0,2,2,,,371
+AFG373,Afghanistan ,07-21-2017,Trump,Unknown,Unknown,Helmand,"Unknown, Unknown, Helmand, Afghanistan","31.363647,63.958611",,,"Helmand, Afghanistan","31.363647,63.958611",31.363647,63.958611,US strike,0,1,1,-,-,-,-,42,42,0,0,0,0,0,0,0,0,,,374
+AFG374,Afghanistan ,07-23-2017,Trump,Meyaje Baba,Haska Mena,Nangarhar,"Meyaje Baba, Haska Mena, Nangarhar, Afghanistan","34.171831,70.621679",,,"Meyaje Baba, Haska Mena, Nangarhar, Afghanistan","34.171831,70.621679",34.171831,70.621679,US strike,1,0,0,-,ISIS,15:00,ISIS fighters,1,1,0,33,0,8,0,2,0,25,,,372
+AFG375,Afghanistan ,07-31-2017,Trump,Talona,Watupur,Kunar,"Talona, Watupur, Kunar, Afghanistan","34.846589,71.097316",,,"Talona, Watupur, Kunar, Afghanistan","34.846589,71.097316",34.846589,71.097316,US strike,1,0,0,-,ISIS,11:00,ISIS hideout,1,1,7,7,0,0,0,0,0,0,,,375
+AFG376,Afghanistan ,07-31-2017,Trump,Unknown,Unknown,Unknown,"Unknown, Unknown, Unknown, Afghanistan",Unknown,Unknown,,Unknown,Unknown,#VALUE!,#VALUE!,US strike,0,1,1,"210 SE, 118 FP, 30 CT",-,-,-,263,261,0,0,0,0,0,0,0,0,,,376
+AFG377,Afghanistan ,08-04-2017,Trump,Piri,Musa Khil,Khost,"Piri, Musa Khil, Khost, Afghanistan","33.539910,69.788262",,,"Piri, Musa Khil, Khost, Afghanistan","33.539910,69.788262",33.539910,69.788262,US strike,0,0,0,-,Taliban,Late evening,Taliban hiedout,1,1,50,50,0,0,0,0,3,3,,,378
+AFG378,Afghanistan ,08-05-2017,Trump,Aigal area,Chapa Dara,Kunar,"Aigal area, Chapa Dara, Kunar, Afghanistan","34.920175,70.764423",,,"Aigal area, Chapa Dara, Kunar, Afghanistan","34.920175,70.764423",34.920175,70.764423,US strike,1,0,0,-,ISIS,Night,ISIS hideout,1,1,3,3,0,0,0,0,0,0,,,377
+AFG379,Afghanistan ,08-07-2017,Trump,Unknown,Gilan,Ghazni,"Unknown, Gilan, Ghazni, Afghanistan","34.283333,69.566667",,,"Gilan, Ghazni, Afghanistan","34.283333,69.566667",34.283333,69.566667,US strike,1,0,0,-,Taliban,Night,Vehicle,1,1,2,7,0,0,0,0,0,4,,,379
+AFG380,Afghanistan ,08-09-2017,Trump,Masoom area,Alishang district,Laghman,"Masoom area, Alishang district, Laghman, Afghanistan","34.783249,70.107996",,,"Masoom area, Alishang district, Laghman, Afghanistan","34.783249,70.107996",34.783249,70.107996,US strike,1,0,0,-,Taliban,21:00,-,1,1,8,8,0,0,0,0,0,0,,,380
+AFG381,Afghanistan ,08-10-2017,Trump,Unknown,Haska Mena,Nangarhar,"Unknown, Haska Mena, Nangarhar, Afghanistan","34.171831,70.621679",,,"Haska Mena, Nangarhar, Afghanistan","34.171831,70.621679",34.171831,70.621679,US strike,0,1,0,-,-,Evening,Vehicle,1,2,0,21,0,16,0,2,0,3,,,381
+AFG382,Afghanistan ,08-10-2017,Trump,Unknown,Darah Ye Pech,Kunar,"Unknown, Darah Ye Pech, Kunar, Afghanistan","34.872898,71.155620",,,"Darah Ye Pech, Kunar, Afghanistan","34.872898,71.155620",34.872898,71.155620,US strike,0,1,1,-,IS-K,-,-,1,1,4,4,0,0,0,0,0,0,,,382
+AFG383,Afghanistan ,08-11-2017,Trump,Unknown,Unknown,Maidan Wardak,"Unknown, Unknown, Maidan Wardak, Afghanistan","34.351349,68.238533",,,"Maidan Wardak, Afghanistan","34.351349,68.238533",34.351349,68.238533,US strike,1,0,0,-,-,-,Vehicle and motorcycle/s,1,1,9,9,0,0,0,0,0,0,,,383
+AFG384,Afghanistan ,08-12-2017,Trump,Shorshorak,Nawa,Helmand,"Shorshorak, Nawa, Helmand, Afghanistan","32.402668,67.856978",,,"Shorshorak, Nawa, Helmand, Afghanistan","32.402668,67.856978",32.402668,67.856978,US strike,0,0,0,-,-,Night,Car with weapons and explosives,1,1,5,5,0,0,0,0,0,0,,,384
+AFG385,Afghanistan ,08-16-2017,Trump,Makrana,Achin,Nangarhar,"Makrana, Achin, Nangarhar, Afghanistan","34.0818099,70.6651371","Achin, Nangarhar, Afghanistan","34.0818099,70.6651371","Achin, Nangarhar, Afghanistan","34.0818099,70.6651371",34.0818099,70.6651371,US strike,1,0,0,-,IS-K,Late,Hideouts,1,3,45,54,0,0,0,0,0,0,,,385
+AFG386,Afghanistan ,08-21-2017,Trump,Marghi,Achin,Nangarhar,"Marghi, Achin, Nangarhar, Afghanistan","34.08218,70.667034",,,"Marghi, Achin, Nangarhar, Afghanistan","34.08218,70.667034",34.08218,0.667034,US strike,1,0,0,-,IS-K,Late,-,1,1,6,6,0,0,0,0,0,0,,,387
+AFG387,Afghanistan ,08-24-2017,Trump,Unknown,Shah Walikot,Kandahar,"Unknown, Shah Walikot, Kandahar, Afghanistan","32.074077,66.141526",,,"Shah Walikot, Kandahar, Afghanistan","32.074077,66.141526",32.074077,66.141526,US strike,0,0,0,-,-,Night,-,1,1,42,42,0,0,0,0,17,17,,,386
+AFG388,Afghanistan ,08-28-2017,Trump,"Mamand Dara, Marghay and Owsatkhan",Achin,Nangarhar,"Mamand Dara, Marghay and Owsatkhan, Achin, Nangarhar, Afghanistan","34.215777,71.026004",,,"Mamand Dara, Marghay and Owsatkhan, Achin, Nangarhar, Afghanistan","34.215777,71.026004",34.215777,71.026004,US strike,1,0,0,-,IS-K,Late,Hideouts,3,3,14,14,0,0,0,0,0,0,,,388
+AFG389,Afghanistan ,08-30-2017,Trump,Unknown,Pul e 'Alam,Logar,"Unknown, Pul e 'Alam, Logar, Afghanistan","33.999937,69.019531",,,"Pul e 'Alam, Logar, Afghanistan","33.999937,69.019531",33.999937,69.019531,US strike,0,1,1,-,-,Morning,-,1,1,13,13,13,13,10,10,12,12,,,389
+AFG390,Afghanistan ,08-31-2017,Trump,Unknown,Unknown,Unknown,"Unknown, Unknown, Unknown, Afghanistan",Unknown,Unknown,,Unknown,Unknown,#VALUE!,#VALUE!,US strike,0,1,1,"17 CT, 60 FP and 310 SE",-,-,-,372,369,0,0,0,0,0,0,0,0,,,390
+AFG391,Afghanistan ,09-04-2017,Trump,Jarji village,Qarabagh,Kabul,"Jarji village, Qarabagh, Kabul, Afghanistan","34.846275,69.216232",,,"Jarji village, Qarabagh, Kabul, Afghanistan","34.846275,69.216232",34.846275,69.216232,"US strike, possibly helicopter strike",0,1,1,-,-,-,-,1,1,0,2,0,2,0,0,0,3,,,394
+AFG392,Afghanistan ,09-04-2017,Trump,Chapa Dara,Manogi,Kunar,"Chapa Dara, Manogi, Kunar, Afghanistan","34.920175,70.764423",,,"Chapa Dara, Manogi, Kunar, Afghanistan","34.920175,70.764423",34.920175,70.764423,US strike,1,0,0,-,IS-K,Night,Hideouts,1,1,12,12,0,0,0,0,0,0,,,392
+AFG393,Afghanistan ,09-05-2017,Trump,Zenikhel,Nadir Shahwali Kot,Khost,"Zenikhel, Nadir Shahwali Kot, Khost, Afghanistan","32.074077,66.141526",,,"Zenikhel, Nadir Shahwali Kot, Khost, Afghanistan","32.074077,66.141526",32.074077,66.141526,US strike,1,0,0,-,Taliban,Evening,-,1,1,6,6,0,0,0,0,1,1,,,391
+AFG394,Afghanistan ,09-09-2017,Trump,Unknown,Unknown,Kunar,"Unknown, Unknown, Kunar, Afghanistan","34.846589,71.097316",,,"Kunar, Afghanistan","34.846589,71.097316",34.846589,71.097316,US strike,0,0,0,-,-,-,-,1,1,1,1,0,0,0,0,0,0,,,393
+AFG395,Afghanistan ,09-18-2017,Trump,Unknown,Bala Balook,Farah,"Unknown, Bala Balook, Farah, Afghanistan","32.689844,62.732388",,,"Bala Balook, Farah, Afghanistan","32.689844,62.732388",32.689844,62.732388,US strike,0,0,0,-,Taliban,Afternoon,-,2,2,0,15,0,0,0,0,0,3,,,396
+AFG396,Afghanistan ,09-20-2017,Trump,Batash Dari,Nari,Kunar,"Batash Dari, Nari, Kunar, Afghanistan","35.212180,71.524915",,,"Batash Dari, Nari, Kunar, Afghanistan","35.212180,71.524915",35.212180,71.524915,US strike,1,0,0,-,IS-K,-,Hideouts,1,1,11,11,0,0,0,0,0,0,,,394
+AFG397,Afghanistan ,09-21-2017,Trump,Sawki,Ghazi Abad,Kunar,"Sawki, Ghazi Abad, Kunar, Afghanistan","34.6999992,70.7412452",,,"Sawki, Ghazi Abad, Kunar, Afghanistan","34.6999992,70.7412452",34.6999992,70.7412452,US strike,1,0,0,-,IS-K,-,-,1,1,7,7,0,0,0,0,0,0,,,395
+AFG398,Afghanistan ,09-24-2017,Trump,Unknown,Haska Mena,Nangarhar,"Unknown, Haska Mena, Nangarhar, Afghanistan","34.171831,70.621679",,,"Haska Mena, Nangarhar, Afghanistan","34.171831,70.621679",34.171831,70.621679,US strike,1,0,0,-,IS-K,-,Vehicle,1,1,5,5,0,0,0,0,0,0,,,396
+AFG399,Afghanistan ,09-27-2017,Trump,Vicinity of Hamid Karzai airport,Kabul,Kabul,"Vicinity of Hamid Karzai airport, Kabul, Kabul, Afghanistan","34.564934,69.212677",,,"Hamid Karzai airport, Kabul, Kabul, Afghanistan","34.564934,69.212677",34.564934,69.212677,US strike,0,1,1,-,-,-,-,1,1,0,4,0,0,0,0,5,11,,,396
+AFG400,Afghanistan ,09-27-2017,Trump,Unknown,Haska Mena,Nangarhar,"Unknown, Haska Mena, Nangarhar, Afghanistan","34.171831,70.621679",,,"Haska Mena, Nangarhar, Afghanistan","34.171831,70.621679",34.171831,70.621679,US strike,1,0,0,-,IS-K,Evening,Group of suspected IS-K,1,1,5,5,0,0,0,0,0,0,,,397
+AFG401,Afghanistan ,09-29-2017,Trump,Unknown,Nazian,Nangarhar,"Unknown, Nazian, Nangarhar, Afghanistan","34.118171,70.752529",,,"Nazian, Nangarhar, Afghanistan","34.118171,70.752529",34.118171,70.752529,US strike,1,0,0,-,IS-K,Night,-,1,1,15,15,0,0,0,0,0,0,,,398
+AFG402,Afghanistan ,09-30-2017,Trump,Unknown,Unknown,Unknown,"Unknown, Unknown, Unknown, Afghanistan",Unknown,Unknown,,Unknown,Unknown,#VALUE!,#VALUE!,US strike,0,1,1,-,-,-,-,200,200,0,0,0,0,0,0,0,0,,,404
+AFG403,Afghanistan ,10-10-2017,Trump,Ghol Pala,Raghistan,Badakhshan,"Ghol Pala, Raghistan, Badakhshan, Afghanistan","37.7203194,70.0674579",,,"Ghol Pala, Raghistan, Badakhshan, Afghanistan","37.7203194,70.0674579",37.7203194,70.0674579,US strike,1,0,0,-,-,Night,Hideouts,1,1,0,8,0,0,0,0,0,15,,,399
+AFG404,Afghanistan ,10-10-2017,Trump,Unknown,Bati Kot,Nangarhar,"Unknown, Bati Kot, Nangarhar, Afghanistan","34.263148,70.788209",,,"Bati Kot, Nangarhar, Afghanistan","34.263148,70.788209",34.263148,70.788209,US strike,1,0,0,-,Taliban,Night,-,1,1,2,2,0,0,0,0,0,0,,,400
+AFG405,Afghanistan ,10-11-2017,Trump,Unknown,Haska Mena,Nangarhar,"Unknown, Haska Mena, Nangarhar, Afghanistan","34.171831,70.621679",,,"Haska Mena, Nangarhar, Afghanistan","34.171831,70.621679",34.171831,70.621679,US strike,1,0,0,-,IS-K,-,Hideout,1,1,4,4,0,0,0,0,0,0,,,401
+AFG406,Afghanistan ,10-11-2017,Trump,Bokra area,Syed Karim,Paktia,"Bokra area, Syed Karim, Paktia, Afghanistan","33.706199,69.383107",,,"Bokra area, Syed Karim, Paktia, Afghanistan","33.706199,69.383107",33.706199,69.383107,US strike,0,0,0,-,Taliban,-,Base,1,1,11,11,0,0,0,0,2,2,,,402
+AFG407,Afghanistan ,10-11-2017,Trump,Wach Ghrak area,Ahmadabad,Paktia,"Wach Ghrak area, Ahmadabad, Paktia, Afghanistan","33.706199,69.383107",,,"Wach Ghrak area, Ahmadabad, Paktia, Afghanistan","33.706199,69.383107",33.706199,69.383107,US strike,0,0,0,-,-,-,-,1,1,4,4,0,0,0,0,3,3,,,403
+AFG408,Afghanistan ,10-12-2017,Trump,Unknown,Unknown,Kunar,"Unknown, Unknown, Kunar, Afghanistan","34.846589,71.097316",,,"Kunar, Afghanistan","34.846589,71.097316",34.846589,71.097316,US strike,1,0,0,-,-,Evening,-,1,1,0,20,0,0,0,0,0,0,,,405
+AFG409,Afghanistan ,10-16-2017,Trump,Unknown,Jaji Maydan,Paktia,"Unknown, Jaji Maydan, Paktia, Afghanistan","33.638947,70.121765",,,"Jaji Maydan, Paktia, Afghanistan","33.638947,70.121765",33.638947,70.121765,US strike,0,1,1,CT,-,-,-,2,2,0,0,0,0,0,0,0,0,,,406
+AFG410,Afghanistan ,10-19-2017,Trump,Unknown,Maiwand,Kandahar,"Unknown, Maiwand, Kandahar, Afghanistan","31.499713,65.000853",,,"Maiwand, Kandahar, Afghanistan","31.499713,65.000853",31.499713,65.000853,US strike,1,1,1,CT,-,-,-,1,1,0,0,0,0,0,0,0,0,,,407
+AFG411,Afghanistan ,10-20-2017,Trump,Mamand,Achin,Nangarhar,"Mamand, Achin, Nangarhar, Afghanistan","34.215777,71.026004",,,"Mamand, Achin, Nangarhar, Afghanistan","34.215777,71.026004",34.215777,71.026004,US strike,1,0,0,-,IS-K,-,-,1,2,10,10,0,0,0,0,0,0,,,408
+AFG412,Afghanistan ,11-04-2017,Trump,Unknown,Chardara,Kunduz,"Unknown, Chardara, Kunduz, Afghanistan","36.694511,68.801574",,,"Chardara, Kunduz, Afghanistan","36.694511,68.801574",36.694511,68.801574,US strike,0,0,0,-,-,Morning,-,1,1,10,80,10,55,0,0,0,10,,,409
+AFG413,Afghanistan ,11-04-2017,Trump,Unknown,Achin,Nangarhar,"Unknown, Achin, Nangarhar, Afghanistan","34.08218,70.667034",,,"Achin, Nangarhar, Afghanistan","34.08218,70.667034",34.08218,0.667034,US strike,1,0,0,-,IS-K,Evening,-,1,1,15,15,0,0,0,0,0,0,,,410
+AFG414,Afghanistan ,11-05-2017,Trump,Kohsin,Sayed Karam,Paktia,"Kohsin, Sayed Karam, Paktia, Afghanistan","33.688121,69.526123",,,"Kohsin, Sayed Karam, Paktia, Afghanistan","33.688121,69.526123",33.688121,69.526123,US strike,1,0,0,-,Taliban,Early morning,-,1,1,4,4,0,0,0,0,7,7,,,411
+AFG415,Afghanistan ,11-05-2017,Trump,Unknown,Sayed Karam,Paktia,"Unknown, Sayed Karam, Paktia, Afghanistan","33.688121,69.526123",,,"Sayed Karam, Paktia, Afghanistan","33.688121,69.526123",33.688121,69.526123,US strike,1,0,0,-,-,-,-,1,1,4,4,0,0,0,0,0,0,,,412
+AFG416,Afghanistan ,11-13-2017,Trump,Mamand Dara,Achin,Nangarhar,"Mamand Dara, Achin, Nangarhar, Afghanistan","34.215777,71.026004",,,"Mamand Dara, Achin, Nangarhar, Afghanistan","34.215777,71.026004",34.215777,71.026004,US strike,1,0,0,-,IS-K,-,-,1,1,4,4,0,0,0,0,0,0,,,413
+AFG417,Afghanistan ,11-14-2017,Trump,Camp Khalid area,Sangin,Helmand,"Camp Khalid area, Sangin, Helmand, Afghanistan","32.071099,64.852586",,,"Camp Khalid area, Sangin, Helmand, Afghanistan","32.071099,64.852586",32.071099,64.852586,US strike,0,0,0,-,Taliban,-,Vehicle,1,1,6,6,0,6,0,0,0,0,,,414
+AFG418,Afghanistan ,11-19-2017,Trump,Unknown,Unknown,Helmand,"Unknown, Unknown, Helmand, Afghanistan","31.363647,63.958611",,,"Helmand, Afghanistan","31.363647,63.958611",31.363647,63.958611,US strike,0,1,1,-,-,-,Drug labs,8,8,0,0,0,0,0,0,0,0,,,415
+AFG419,Afghanistan ,11-21-2017,Trump,Unknown,Unknown,Helmand,"Unknown, Unknown, Helmand, Afghanistan","31.363647,63.958611",,,"Helmand, Afghanistan","31.363647,63.958611",31.363647,63.958611,US strike,0,1,1,-,-,Night and morning,Narcotics market,8,8,0,44,0,0,0,0,0,0,,,416
+AFG420,Afghanistan ,11-27-2017,Trump,Sala Kas,Haska Mena,Nangarhar,"Sala Kas, Haska Mena, Nangarhar, Afghanistan","34.171831,70.621679",,,"Sala Kas, Haska Mena, Nangarhar, Afghanistan","34.171831,70.621679",34.171831,70.621679,US strike,1,0,0,-,-,-,Hideout,1,1,7,7,0,0,0,0,0,0,,,417
+AFG421,Afghanistan ,11-28-2017,Trump,Unknown,Azra,Logar,"Unknown, Azra, Logar, Afghanistan","34.014551,69.192391",,,"Azra, Logar, Afghanistan","34.014551,69.192391",34.014551,69.192391,US strike,0,0,0,-,-,13:00,Gathering,1,1,7,7,0,0,0,0,0,0,,,421
+AFG422,Afghanistan ,11-29-2017,Trump,Mamand Margha,Achin,Nangarhar,"Mamand Margha, Achin, Nangarhar, Afghanistan","34.08218,70.667034",,,"Mamand Margha, Achin, Nangarhar, Afghanistan","34.08218,70.667034",34.08218,0.667034,US strike,1,0,0,-,-,-,-,1,2,8,8,0,0,0,0,0,0,,,418
+AFG423,Afghanistan ,12-01-2017,Trump,Wazir Tangi,Khogyani,Nangarhar,"Wazir Tangi, Khogyani, Nangarhar, Afghanistan","34.195889,70.158546",,,"Wazir Tangi, Khogyani, Nangarhar, Afghanistan","34.195889,70.158546",34.195889,70.158546,US strike,1,0,0,-,-,-,Compound/Hideout,1,1,4,4,0,0,0,0,8,8,,,419
+AFG424,Afghanistan ,12-01-2017,Trump,Unknown,Musa Qala,Helmand,"Unknown, Musa Qala, Helmand, Afghanistan","32.311872,64.811083",,,"Musa Qala, Helmand, Afghanistan","32.311872,64.811083",32.311872,64.811083,US strike,0,1,1,-,Taliban,-,Vehicle,1,1,5,5,0,0,0,0,0,0,,,422
+AFG425,Afghanistan ,12-02-2017,Trump,Unknown,Achin,Nangarhar,"Unknown, Achin, Nangarhar, Afghanistan","34.08218,70.667034",,,"Achin, Nangarhar, Afghanistan","34.08218,70.667034",34.08218,0.667034,US strike,1,0,0,-,-,-,-,1,1,8,8,0,0,0,0,0,0,,,420
+AFG426,Afghanistan ,12-03-2017,Trump,Peshogan and Abdul Khel äó†areas,Achin,Nangarhar,"Peshogan and Abdul Khel äó†areas, Achin, Nangarhar, Afghanistan","34.08218,70.667034",,,"Peshogan and Abdul Khel äó†areas, Achin, Nangarhar, Afghanistan","34.08218,70.667034",34.08218,0.667034,US strike,1,0,0,-,-,-,-,2,2,8,8,0,0,0,0,0,0,,,421
+AFG427,Afghanistan ,12-04-2017,Trump,Unknown,Between Musa Qala and Greskh,Helmand,"Unknown, Between Musa Qala and Greskh, Helmand, Afghanistan","32.311872,64.811083",,,"Between Musa Qala and Greskh, Helmand, Afghanistan","32.311872,64.811083",32.311872,64.811083,US strike,0,0,0,-,Taliban,Late,-,1,1,6,6,0,0,0,0,0,0,,,422
+AFG428,Afghanistan ,12-05-2017,Trump,Unknown,Achin,Nangarhar,"Unknown, Achin, Nangarhar, Afghanistan","34.08218,70.667034",,,"Achin, Nangarhar, Afghanistan","34.08218,70.667034",34.08218,0.667034,US strike,1,0,0,-,ISIS,-,Hideout,1,1,25,25,0,0,0,0,0,0,,,423
+AFG429,Afghanistan ,12-07-2017,Trump,Unknown,Unknown,Helmand,"Unknown, Unknown, Helmand, Afghanistan","31.363647,63.958611",,,"Helmand, Afghanistan","31.363647,63.958611",31.363647,63.958611,US strike,0,1,1,-,Taliban,-,"""Taliban narcotics production facilities""",3,3,0,0,0,0,0,0,0,0,,,424
+AFG430,Afghanistan ,12-08-2017,Trump,Unknown,Unknown,Helmand,"Unknown, Unknown, Helmand, Afghanistan","31.363647,63.958611",,,"Helmand, Afghanistan","31.363647,63.958611",31.363647,63.958611,US strike (HIMARS),0,1,1,-,Taliban,-,"""Taliban narcotics production facilities""",1,1,0,0,0,0,0,0,0,0,,,425
+AFG431,Afghanistan ,12-09-2017,Trump,Zabzak,Tarin Kot,Uruzgan,"Zabzak, Tarin Kot, Uruzgan, Afghanistan","32.666404,65.903629",,,"Zabzak, Tarin Kot, Uruzgan, Afghanistan","32.666404,65.903629",32.666404,65.903629,US strike,0,0,0,-,Taliban,-,-,1,1,8,8,0,0,0,0,3,3,,,426
+AFG432,Afghanistan ,12-28-2017,Trump,Unknown,Unknown,Nangarhar,"Unknown, Unknown, Nangarhar, Afghanistan","34.171831,70.621679",,,"Nangarhar, Afghanistan","34.171831,70.621679",34.171831,70.621679,US strike,1,0,0,-,ISIS,-,-,1,1,8,8,0,0,0,0,3,3,,,427
+AFG433,Afghanistan ,12-30-2017,Trump,Kas,Deh Bala,Nangarhar,"Kas, Deh Bala, Nangarhar, Afghanistan","34.092630,70.469224",,,"Kas, Deh Bala, Nangarhar, Afghanistan","34.092630,70.469224",34.092630,70.469224,US strike,1,0,0,-,ISIS,-,Men with horses loaded with weapons,1,1,3,3,0,0,0,0,0,0,,,428
+AFG434,Afghanistan ,01-11-2018,Trump,Unknown,Achin,Nangarhar,"Unknown, Achin, Nangarhar, Afghanistan","34.08218,70.667034",,,"Achin, Nangarhar, Afghanistan","34.08218,70.667034",34.08218,0.667034,US strike,0,0,0,-,-,-,-,1,1,8,13,0,0,0,0,0,0,,,429
+AFG435,Afghanistan ,01-14-2018,Trump,Unknown,Want Waigal,Nuristan,"Unknown, Want Waigal, Nuristan, Afghanistan","35.050080,70.908540",,,"Want Waigal, Nuristan, Afghanistan","35.050080,70.908540",35.050080,70.908540,US strike,1,0,0,-,ISIS,Night,Hideout,1,1,3,3,0,0,0,0,0,0,,,430
+AFG436,Afghanistan ,01-20-2018,Trump,Unknown,Barmal,Paktika,"Unknown, Barmal, Paktika, Afghanistan","32.715659,69.281793",,,"Barmal, Paktika, Afghanistan","32.715659,69.281793",32.715659,69.281793,US strike,0,0,0,-,Taliban,Night,Hideout,1,1,14,14,0,0,0,0,0,0,,,431
+AFG437,Afghanistan ,01-20-2018,Trump,Unknown,Nika,Paktika,"Unknown, Nika, Paktika, Afghanistan","33.200382,69.311592",,,"Nika, Paktika, Afghanistan","33.200382,69.311592",33.200382,69.311592,US strike,0,0,0,-,Taliban,Night,Hideout,1,1,50,50,0,0,0,0,0,0,,,432
+AFG438,Afghanistan ,01-27-2018,Trump,Unknown,Barmal,Paktika,"Unknown, Barmal, Paktika, Afghanistan","32.715659,69.281793",,,"Barmal, Paktika, Afghanistan","32.715659,69.281793",32.715659,69.281793,US strike,0,1,1,-,TTP,-,-,1,1,1,1,0,0,0,0,0,0,,,438
+AFG439,Afghanistan ,01-30-2018,Trump,Attal,Andar,Ghazni,"Attal, Andar, Ghazni, Afghanistan","33.263079,68.572411",,,"Attal, Andar, Ghazni, Afghanistan","33.263079,68.572411",33.263079,68.572411,US strike,1,0,0,-,Taliban,Afternoon,Meeting,1,2,26,26,0,0,0,0,20,22,,,433
+AFG440,Afghanistan ,02-02-2018,Trump,Unknown,Unknown,Helmand,"Unknown, Unknown, Helmand, Afghanistan","31.363647,63.958611",,,"Helmand, Afghanistan","31.363647,63.958611",31.363647,63.958611,US strike,0,1,1,-,Taliban,-,"""Taliban narcotics factory""",1,1,0,0,0,0,0,0,0,0,,,434
+AFG441,Afghanistan ,02-04-2018,Trump,Unknown,Unknown,Badakhshan,"Unknown, Unknown, Badakhshan, Afghanistan","36.734772,70.811995",,,"Badakhshan, Afghanistan","36.734772,70.811995",36.734772,70.811995,US strike,0,1,1,-,Taliban,-,"""Taliban training camp""",1,1,0,0,0,0,0,0,0,0,,,435
+AFG442,Afghanistan ,02-04-2018,Trump,Unknown,Unknown,Badakhshan,"Unknown, Unknown, Badakhshan, Afghanistan","36.734772,70.811995",,,"Badakhshan, Afghanistan","36.734772,70.811995",36.734772,70.811995,US strike,0,1,1,-,Taliban,-,"""Taliban training camp""",1,1,0,0,0,0,0,0,0,0,,,436
+AFG443,Afghanistan ,02-16-2018,Trump,Degal,Chapa Dara,Kunar,"Degal, Chapa Dara, Kunar, Afghanistan","34.920175,70.764423",,,"Degal, Chapa Dara, Kunar, Afghanistan","34.920175,70.764423",34.920175,70.764423,US strike,1,0,0,-,ISIS,Late,-,1,1,7,7,0,0,0,0,0,0,,,437
+AFG444,Afghanistan ,02-22-2018,Trump,Unknown,Barmal,Paktika,"Unknown, Barmal, Paktika, Afghanistan","32.715659,69.281793",,,"Barmal, Paktika, Afghanistan","32.715659,69.281793",32.715659,69.281793,US strike,0,1,1,-,TTP,-,Vehicle,1,1,1,1,0,0,0,0,0,0,,,439
+AFG445,Afghanistan ,03-07-2018,Trump,Unknown,Unknown,Kunar,"Unknown, Unknown, Kunar, Afghanistan","34.846589,71.097316",,,"Kunar, Afghanistan","34.846589,71.097316",34.846589,71.097316,US strike,1,0,0,-,TTP,-,Training camp,1,1,12,21,0,1,0,1,0,0,,,440
+AFG446,Afghanistan ,03-08-2018,Trump,Unknown,Unknown,Helmand,"Unknown, Unknown, Helmand, Afghanistan","31.363647,63.958611",,,"Helmand, Afghanistan","31.363647,63.958611",31.363647,63.958611,US strike,0,1,1,-,Taliban,-,"""Taliban narcotics production facility""",1,1,0,0,0,0,0,0,0,0,,,442
+AFG447,Afghanistan ,03-09-2018,Trump,Unknown,Unknown,Helmand,"Unknown, Unknown, Helmand, Afghanistan","31.363647,63.958611",,,"Helmand, Afghanistan","31.363647,63.958611",31.363647,63.958611,US strike,0,1,1,-,Taliban,-,"""Taliban narcotics production facility""",1,1,0,0,0,0,0,0,0,0,,,443
+AFG448,Afghanistan ,03-11-2018,Trump,Unknown,Unknown,Kandahar,"Unknown, Unknown, Kandahar, Afghanistan","31.628871,65.737174",,,"Kandahar, Afghanistan","31.628871,65.737174",31.628871,65.737174,US strike,0,0,0,-,Taliban,Night,Taliban positons,2,2,0,25,0,0,0,0,0,14,,,441
+AFG449,Afghanistan ,03-16-2018,Trump,Unknown,Darzab and Qishtepaäó†,Jawzjan,"Unknown, Darzab and Qishtepaäó†, Jawzjan, Afghanistan","36.896969,65.665856",,,"Darzab and Qishtepaäó†, Jawzjan, Afghanistan","36.896969,65.665856",36.896969,65.665856,US strike,0,0,0,-,ISIS,Pre-dawn,-,2,2,35,37,0,0,0,0,12,12,,,444
+AFG450,Afghanistan ,03-16-2018,Trump,Unknown,Unknown,Sar e Pul,"Unknown, Unknown, Sar e Pul, Afghanistan","35.670747,66.046353",,,"Sar e Pul, Afghanistan","35.670747,66.046353",35.670747,66.046353,US strike,0,1,1,-,ISIS,Unknown,Killed two people meeting,1,1,2,2,0,0,0,0,0,0,,,445
+AFG451,Afghanistan ,03-17-2018,Trump,Unknown,Khakriz,Kandahar,"Unknown, Khakriz, Kandahar, Afghanistan","31.788010,65.570785",,,"Khakriz, Kandahar, Afghanistan","31.788010,65.570785",31.788010,65.570785,US strike,0,0,0,-,Taliban,-,House,1,1,13,13,0,0,0,0,0,0,,,446
+AFG452,Afghanistan ,03-22-2018,Trump,Unknown,Haska Mena,Nangarhar,"Unknown, Haska Mena, Nangarhar, Afghanistan","34.171831,70.621679",,,"Haska Mena, Nangarhar, Afghanistan","34.171831,70.621679",34.171831,70.621679,US strike,1,0,0,-,ISIS,-,Hideout,1,1,8,8,0,0,0,0,0,0,,,447
+AFG453,Afghanistan ,03-23-2018,Trump,Serai,Sawkai,Kunar,"Serai, Sawkai, Kunar, Afghanistan","34.846589,71.097316",,,"Serai, Sawkai, Kunar, Afghanistan","34.846589,71.097316",34.846589,71.097316,US strike,1,0,0,-,ISIS,-,-,1,1,1,1,0,0,0,0,0,0,,,448
+AFG454,Afghanistan ,03-28-2018,Trump,Unknown,Chapa Dara,Kunar,"Unknown, Chapa Dara, Kunar, Afghanistan","34.920175,70.764423",,,"Chapa Dara, Kunar, Afghanistan","34.920175,70.764423",34.920175,70.764423,US strike,1,0,0,-,ISIS,-,-,1,1,6,6,0,0,0,0,0,0,,,449
+AFG455,Afghanistan ,04-01-2018,Trump,Unknown,Nad Ali,Helmand,"Unknown, Nad Ali, Helmand, Afghanistan","31.664217,64.266149",,,"Nad Ali, Helmand, Afghanistan","31.664217,64.266149",31.664217,64.266149,US strike,0,1,1,-,Taliban,-,Taliban ambusing Afghan forces,1,1,0,0,0,0,0,0,0,0,,,453
+AFG456,Afghanistan ,04-03-2018,Trump,Unknown,Unknown,Farah and Nimroz,"Unknown, Unknown, Farah and Nimroz, Afghanistan","32.495328,62.262662",,,"Farah and Nimroz, Afghanistan","32.495328,62.262662",32.495328,62.262662,US strike,0,1,1,-,Taliban,-,"""Taliban narcotics production facilties""",11,11,0,0,0,0,0,0,0,0,,,451
+AFG457,Afghanistan ,04-05-2018,Trump,Unknown,Bal Chiragh,Faryab,"Unknown, Bal Chiragh, Faryab, Afghanistan","36.079561,64.905954",,,"Bal Chiragh, Faryab, Afghanistan","36.079561,64.905954",36.079561,64.905954,US strike,0,1,0,-,ISIS,-,Senior commander,1,1,2,2,0,0,0,0,0,0,,,450
+AFG458,Afghanistan ,04-12-2018,Trump,Unknown,Omana,Paktika,"Unknown, Omana, Paktika, Afghanistan","32.264538,68.524714",,,"Omana, Paktika, Afghanistan","32.264538,68.524714",32.264538,68.524714,US strike,1,0,0,-,Taliban,-,-,1,1,7,7,0,0,0,0,3,3,,,452
+AFG459,Afghanistan ,04-12-2018,Trump,Unknown,Warduj,Badakhshan,"Unknown, Warduj, Badakhshan, Afghanistan","36.734772,70.811995",,,"Warduj, Badakhshan, Afghanistan","36.734772,70.811995",36.734772,70.811995,US strike,1,1,1,-,-,-,Humvee,1,1,0,0,0,0,0,0,0,0,,,453
+AFG460,Afghanistan ,04-20-2018,Trump,Unknown,Bakwah,Farah,"Unknown, Bakwah, Farah, Afghanistan","32.230824,62.920591",,,"Bakwah, Farah, Afghanistan","32.230824,62.920591",32.230824,62.920591,US strike,0,1,1,-,-,-,"""Taliban narcotics production facility""",1,1,0,0,0,0,0,0,0,0,,,454
+AFG461,Afghanistan ,04-21-2018,Trump,Unknown,Marjah,Helmand,"Unknown, Marjah, Helmand, Afghanistan","31.517771,64.114227",,,"Marjah, Helmand, Afghanistan","31.517771,64.114227",31.517771,64.114227,US strike,0,1,1,-,-,-,"""Taliban narcotics production facility""",1,1,0,0,0,0,0,0,0,0,,,455
+AFG462,Afghanistan ,04-23-2018,Trump,Unknown,Sherzad,Nangarhar,"Unknown, Sherzad, Nangarhar, Afghanistan","34.273230,70.074131",,,"Sherzad, Nangarhar, Afghanistan","34.273230,70.074131",34.273230,70.074131,US strike,0,1,1,-,-,-,Commander and bodyguard,1,1,2,2,0,0,0,0,0,0,,,459
+AFG463,Afghanistan ,05-09-2018,Trump,Sanga Khair,Maqur,Badghis,"Sanga Khair, Maqur, Badghis, Afghanistan","32.884051,67.904670",,,"Sanga Khair, Maqur, Badghis, Afghanistan","32.884051,67.904670",32.884051,67.904670,US strike,0,1,0,-,-,11:00,Possile ALP members,1,1,6,6,0,0,0,0,0,0,,,456
+AFG464,Afghanistan ,05-09-2018,Trump,Surgol,Zazi Aryub,Paktia,"Surgol, Zazi Aryub, Paktia, Afghanistan","33.966154,69.806132",,,"Surgol, Zazi Aryub, Paktia, Afghanistan","33.966154,69.806132",33.966154,69.806132,US strike,0,0,0,-,Taliban,Night,-,1,1,35,35,0,0,0,0,0,0,,,457
+AFG465,Afghanistan ,05-15-2018,Trump,Farah city,Farah,Farah,"Farah city, Farah, Farah, Afghanistan","32.446463,62.145413",,,"Farah city, Farah, Farah, Afghanistan","32.446463,62.145413",32.446463,62.145413,US strike (6 drone strikes),0,1,1,-,Taliban,-,Taliban insurgents who launched an attack on Farah,7,7,28,28,0,0,0,0,0,0,,,458
+AFG466,Afghanistan ,05-24-2018,Trump,Unknown,Musa Qala,Helmand,"Unknown, Musa Qala, Helmand, Afghanistan","32.311872,64.811083",,,"Musa Qala, Helmand, Afghanistan","32.311872,64.811083",32.311872,64.811083,US strike (HIMARS),0,1,1,-,Taliban,-,"""Command and control node""",1,1,50,50,0,0,0,0,0,0,,,459
+AFG467,Afghanistan ,05-24-2018,Trump,Unknown,Faizabad City,Badakhshan,"Unknown, Faizabad City, Badakhshan, Afghanistan","37.101708,70.555236",,,"Faizabad City, Badakhshan, Afghanistan","37.101708,70.555236",37.101708,70.555236,US strike,0,0,0,-,-,-,-,1,1,0,0,0,0,0,0,0,0,,,460
+AFG468,Afghanistan ,05-24-2018,Trump,Unknown,Kishm,Badakhshan,"Unknown, Kishm, Badakhshan, Afghanistan","36.571294,70.336069",,,"Kishm, Badakhshan, Afghanistan","36.571294,70.336069",36.571294,70.336069,US strike,0,0,0,-,-,-,-,1,1,0,0,0,0,0,0,0,0,,,461
+AFG469,Afghanistan ,05-24-2018,Trump,Unknown,Sangin,Helmand,"Unknown, Sangin, Helmand, Afghanistan","32.071099,64.852586",,,"Sangin, Helmand, Afghanistan","32.071099,64.852586",32.071099,64.852586,US strike,0,1,1,-,Taliban,-,"""Taliban red unit commander and associate""",1,1,2,2,0,0,0,0,0,0,,,464
+AFG470,Afghanistan ,05-25-2018,Trump,Unknown,Nahr e Saraj,Helmand,"Unknown, Nahr e Saraj, Helmand, Afghanistan","31.658611,64.404444",,,"Nahr e Saraj, Helmand, Afghanistan","31.658611,64.404444",31.658611,64.404444,US strike,0,1,1,-,Taliban,,Shadow district HQ,1,1,1,1,0,0,0,0,0,0,,,465
+AFG471,Afghanistan ,05-26-2018,Trump,Unknown,Unknown,Helmand,"Unknown, Unknown, Helmand, Afghanistan","31.363647,63.958611",,,"Helmand, Afghanistan","31.363647,63.958611",31.363647,63.958611,US strike,1,1,1,-,-,-,-,1,1,1,1,0,0,0,0,0,0,,,466
+AFG472,Afghanistan ,05-27-2018,Trump,Kohsen,Syed Karm,Paktia,"Kohsen, Syed Karm, Paktia, Afghanistan","33.688121,69.526123",,,"Kohsen, Syed Karm, Paktia, Afghanistan","33.688121,69.526123",33.688121,69.526123,US strike,1,0,0,-,Taliban,-,House,1,1,6,6,0,0,0,0,5,5,,,462
+AFG473,Afghanistan ,05-28-2018,Trump,Ghulam Dag,Chaparhar,Nangarhar,"Ghulam Dag, Chaparhar, Nangarhar, Afghanistan","34.328976,70.407486",,,"Ghulam Dag, Chaparhar, Nangarhar, Afghanistan","34.328976,70.407486",34.328976,70.407486,US strike,1,0,0,-,ISIS,-,-,1,1,11,11,0,0,0,0,0,0,,,463
+AFG474,Afghanistan ,05-28-2018,Trump,Unknown,Chora,Uruzgan,"Unknown, Chora, Uruzgan, Afghanistan","32.847551,66.010668",,,"Chora, Uruzgan, Afghanistan","32.847551,66.010668",32.847551,66.010668,US strike,1,0,0,-,-,-,Reportedly hit checkpoint killing 3 policemen and another with Taliban,1,1,10,10,0,0,0,0,0,0,,,464
+AFG475,Afghanistan ,04-06-2018,Trump,Aloza,Pul e 'Alam,Logar,"Aloza, Pul e 'Alam, Logar, Afghanistan","33.999937,69.019531",,,"Aloza, Pul e 'Alam, Logar, Afghanistan","33.999937,69.019531",33.999937,69.019531,US strike,0,0,0,-,Taliban,Night,Meeting,1,1,0,13,0,0,0,0,0,0,,,467
+AFG476,Afghanistan ,06-13-2018,Trump,Unknown,Unknown,Kunar,"Unknown, Unknown, Kunar, Afghanistan","34.846589,71.097316",,,"Kunar, Afghanistan","34.846589,71.097316",34.846589,71.097316,US strike,1,1,0,CT,TTP,-,TTP leader,1,1,0,5,0,0,0,0,0,0,,,468
+AFG477,Afghanistan ,06-27-2018,Trump,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,,Unknown,Unknown,#VALUE!,#VALUE!,US strike,0,1,1,CT,ISIS,-,-,80,80,0,0,0,0,0,0,0,0,,,469
+AFG478,Afghanistan ,06-30-2018,Trump,Unknown,Unknown,"Ghazni, Helmand and Uruzgan","Unknown, Unknown, Ghazni, Helmand and Uruzgan, Afghanistan","31.363647,63.958611",,,"Ghazni, Helmand and Uruzgan, Afghanistan","31.363647,63.958611",31.363647,63.958611,US strike,0,1,1,-,Taliban,-,"""selective Taliban irreconcilables""",20,20,0,0,0,0,0,0,0,0,,,470
+AFG479,Afghanistan ,07-01-2018,Trump,Payin,Chaparhar,Nangarhar,"Payin, Chaparhar, Nangarhar, Afghanistan","34.328976,70.407486",,,"Payin, Chaparhar, Nangarhar, Afghanistan","34.328976,70.407486",34.328976,70.407486,US strike,1,0,0,-,ISIS,-,"""Hideout""",1,1,2,2,0,0,0,0,0,0,,,472
+AFG480,Afghanistan ,07-03-2018,Trump,Unknown,Unknown,Kunar,"Unknown, Unknown, Kunar, Afghanistan","34.846589,71.097316",,,"Kunar, Afghanistan","34.846589,71.097316",34.846589,71.097316,US strike,1,0,0,-,TTP,10:00,TTP compound,1,1,0,1,0,0,0,0,0,0,,,471
+AFG481,Afghanistan ,07-12-2018,Trump,Unknown,Zurmat,Paktia,"Unknown, Zurmat, Paktia, Afghanistan","33.435888,69.031453",,,"Zurmat, Paktia, Afghanistan","33.435888,69.031453",33.435888,69.031453,US strike,0,0,0,-,-,-,-,2,2,0,37,0,11,0,3,0,0,,,474
+AFG482,Afghanistan ,07-15-2018,Trump,Kalawamado,Maroof,Kandahar,"Kalawamado, Maroof, Kandahar, Afghanistan","31.628871,65.737174",,,"Kalawamado, Maroof, Kandahar, Afghanistan","31.628871,65.737174",31.628871,65.737174,US strike,0,0,0,-,Taliban,Late night,Pick-up,1,1,12,12,0,0,0,0,1,1,,,472
+AFG483,Afghanistan ,07-19-2018,Trump,Unknown,Chardara,Kunduz,"Unknown, Chardara, Kunduz, Afghanistan","36.694511,68.801574",,,"Chardara, Kunduz, Afghanistan","36.694511,68.801574",36.694511,68.801574,US strike,0,1,0,-,-,-,House,1,1,0,0,0,14,0,7,0,2,,,473
+AFG484,Afghanistan ,07-22-2018,Trump,Unknown,Tagab,Kapisa,"Unknown, Tagab, Kapisa, Afghanistan","34.760185,69.812089",,,"Tagab, Kapisa, Afghanistan","34.760185,69.812089",34.760185,69.812089,US strike,0,1,1,-,Taliban,-,-,1,1,2,2,0,0,0,0,0,0,,,474
+AFG485,Afghanistan ,08-07-2018,Trump,Unknown,Azra,Logar,"Unknown, Azra, Logar, Afghanistan","34.014551,69.192391",,,"Azra, Logar, Afghanistan","34.014551,69.192391",34.014551,69.192391,US strike,0,1,1,-,Friendly fire,Overnight,Police positions,1,1,9,14,0,0,0,0,0,15,,,475
+AFG486,Afghanistan ,08-10-2018,Trump,Ghazni City,Ghazni,Ghazni,"Ghazni City, Ghazni, Ghazni, Afghanistan","33.545058,68.417397",,,"Ghazni City, Ghazni, Ghazni, Afghanistan","33.545058,68.417397",33.545058,68.417397,US strike,0,1,1,-,-,-,During attack on provincial capital,1,2,0,0,0,0,0,0,0,0,,,476
+AFG487,Afghanistan ,08-13-2018,Trump,Unknown,Ghazni,Ghazni,"Unknown, Ghazni, Ghazni, Afghanistan","33.545058,68.417397",,,"Ghazni, Ghazni, Afghanistan","33.545058,68.417397",33.545058,68.417397,US strike,0,1,1,-,-,Over three days,During attack on provincial capital,31,30,220,220,0,0,0,0,0,0,,,478
+AFG488,Afghanistan ,08-16-2018,Trump,Chah Anjir and Triz Nawar,Nad Ali,Helmand,"Chah Anjir and Triz Nawar, Nad Ali, Helmand, Afghanistan","31.664217,64.266149",,,"Chah Anjir and Triz Nawar, Nad Ali, Helmand, Afghanistan","31.664217,64.266149",31.664217,64.266149,US strike,0,0,0,-,-,-,-,2,2,27,27,0,0,0,0,7,7,,,480
+AFG489,Afghanistan ,08-16-2018,Trump,Tamin,Alishang district,Laghman,"Tamin, Alishang district, Laghman, Afghanistan","34.7,70.149999",,,"Tamin, Alishang district, Laghman, Afghanistan","34.7,70.149999",34.7,9999,US strike,1,0,0,-,-,-,-,1,1,1,1,0,0,0,0,1,1,,,479
+AFG490,Afghanistan ,08-25-2018,Trump,Unknown,Khogyani,Nangarhar,"Unknown, Khogyani, Nangarhar, Afghanistan","34.229212,70.193208",,,"Khogyani, Nangarhar, Afghanistan","34.229212,70.193208",34.229212,70.193208,US strike,1,1,0,CT,ISIS,-,Leader of the group,1,1,10,11,0,0,0,0,0,0,,,480
+AFG491,Afghanistan ,08-31-2018,Trump,Unknown,Unknown,Parwan,"Unknown, Unknown, Parwan, Afghanistan","34.963097,68.810884",,,"Parwan, Afghanistan","34.963097,68.810884",34.963097,68.810884,US strike,0,0,0,-,Taliban,-,-,1,1,4,4,0,0,0,0,0,0,,,484
+AFG492,Afghanistan ,09-08-2018,Trump,Unknown,Unknown,Wardak,"Unknown, Unknown, Wardak, Afghanistan","34.351349,68.238533",,,"Wardak, Afghanistan","34.351349,68.238533",34.351349,68.238533,US strike,0,1,1,-,-,-,HME storage site,1,1,0,0,0,0,0,0,0,0,,,481
+AFG493,Afghanistan ,09-09-2018,Trump,Unknown,Nad Ali,Helmand,"Unknown, Nad Ali, Helmand, Afghanistan","31.664217,64.266149",,,"Nad Ali, Helmand, Afghanistan","31.664217,64.266149",31.664217,64.266149,US strike,0,1,1,-,-,-,Explosives cache,1,1,0,0,0,0,0,0,0,0,,,482
+AFG494,Afghanistan ,09-10-2018,Trump,Unknown,Nawah,Ghazni,"Unknown, Nawah, Ghazni, Afghanistan","32.402668,67.856978",,,"Nawah, Ghazni, Afghanistan","32.402668,67.856978",32.402668,67.856978,US strike,0,1,1,-,Taliban,-,Taliban leaders and fighters assembled in adjacent compounds,2,2,30,30,0,0,0,0,0,0,,,483
+AFG495,Afghanistan ,09-16-2018,Trump,Gondel,Watapur,Kunar,"Gondel, Watapur, Kunar, Afghanistan","34.910930,71.127398",,,"Gondel, Watapur, Kunar, Afghanistan","34.910930,71.127398",34.910930,71.127398,US strike,1,0,0,-,ISIS,Night,-,1,1,3,3,0,0,0,0,0,0,,,484
+AFG496,Afghanistan ,09-19-2018,Trump,Gurgorai,Haska Mena,Nangarhar,"Gurgorai, Haska Mena, Nangarhar, Afghanistan","34.171831,70.621679",,,"Gurgorai, Haska Mena, Nangarhar, Afghanistan","34.171831,70.621679",34.171831,70.621679,US strike,1,0,0,-,ISIS,Night,Hideout,1,1,4,4,0,0,0,0,0,0,,,484
+AFG497,Afghanistan ,09-22-2018,Trump,Budrab,Tagab,Kapisa,"Budrab, Tagab, Kapisa, Afghanistan","34.760185,69.812089",,,"Budrab, Tagab, Kapisa, Afghanistan","34.760185,69.812089",34.760185,69.812089,US strike,0,0,0,-,-,Night,-,1,1,0,9,0,9,0,4,0,12,,,485
+AFG498,Afghanistan ,09-23-2018,Trump,Khaskaba,Khak i Safaid,Farah,"Khaskaba, Khak i Safaid, Farah, Afghanistan","32.677851,61.981391",,,"Khaskaba, Khak i Safaid, Farah, Afghanistan","32.677851,61.981391",32.677851,61.981391,US strike,0,0,0,-,-,Night,-,1,1,5,23,0,8,0,0,0,16,,,486
+AFG499,Afghanistan ,09-27-2018,Trump,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,,Unknown,Unknown,#VALUE!,#VALUE!,US strike,0,1,1,-,-,-,Support of ground ops,1,1,0,0,0,0,0,0,0,0,,,487
+AFG500,Afghanistan ,09-30-2018,Trump,Wazir Tangi,Khogyani,Nangarhar,"Wazir Tangi, Khogyani, Nangarhar, Afghanistan","34.195889,70.158546",,,"Wazir Tangi, Khogyani, Nangarhar, Afghanistan","34.195889,70.158546",34.195889,70.158546,US strike,1,0,0,-,ISIS,-,"""Hideout""",1,1,21,21,0,0,0,0,0,0,,,488
+AFG501,Afghanistan ,09-30-2018,Trump,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,,Unknown,Unknown,#VALUE!,#VALUE!,US strike,0,1,1,-,-,-,-,455,455,-,-,-,-,-,-,-,-,,,489
+AFG502,Afghanistan ,10-05-2018,Trump,Unknown,Unknown,Farah,"Unknown, Unknown, Farah, Afghanistan","32.446463,62.145413",,,"Farah, Afghanistan","32.446463,62.145413",32.446463,62.145413,US strike,1,0,0,-,-,-,-,3,3,30,30,0,0,0,0,0,0,,,490
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
